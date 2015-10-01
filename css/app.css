@@ -1,0 +1,190 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,600italic,400italic,100,100italic,300,300italic,600,700,700italic|Ubuntu:400,300,300italic,400italic,500,500italic,700,700italic);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900);
+
+
+.top-bar
+{
+  background-color: #333333;
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  margin: none;
+  padding: none;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  position: relative;
+}
+
+.contain-to-grid .top-bar{
+  margin-top: 0px;
+  margin-right: none;
+  margin-bottom: 0px;
+  margin-left: none;
+  max-width: 65rem;
+}
+
+.contain-to-grid
+{
+  width: 100%;
+  background-color: rgba(0,0,0,0);
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+}
+
+body {
+    background: url("/assets/img/st_lawrence.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+h1,h2 {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 500;
+  font-size: 25px;
+}
+
+h2 {
+  padding-top: 25px;
+}
+
+h3 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  padding-top: 20px;
+  font-size:21px;
+  font-weight:bold;"
+}
+
+h4,h5,h6 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 200;
+  margin-bottom: 18px;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  text-align: justify;
+  font-size: 15px;
+  margin-top:20px;
+  margin-bottom: 20px;
+}
+
+ul {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  text-align: justify;
+  font-size: 16px;
+}
+
+.panel {
+  max-width: 65em;
+  margin: 0 auto;
+  border: none;
+  background-color: rgba(255, 255, 255, 0.85);
+}
+
+img {
+  margin-top:20px;
+}
+
+
+footer {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+  font-size: 13px;
+  min-height: 200px;
+  color: #cbcbcb;
+  margin: auto;
+  max-width: 65rem;
+  background-color: #333333;
+}
+
+.circular {
+	height: 150px;
+  width: 150px;
+	border-radius: 75px;
+	-webkit-border-radius: 75px;
+	-moz-border-radius: 75px;
+	}
+
+  .valign-middle {
+    display: table;
+}
+
+.valign-middle .columns {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.valign-middle .columns,
+.valign-middle [class*="column"] + [class*="column"]:last-child {
+    float: none;
+}
+
+/* Line 3305 */
+.accordion .accordion-navigation > a:hover, .accordion dd > a:hover
+{
+  background-color: rgb(65, 65, 65);
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+}
+
+.accordion .accordion-navigation.active > a, .accordion dd.active > a
+{
+  background-color: rgb(55, 55, 55);
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+}
+
+.accordion .accordion-navigation > .content.active, .accordion dd > .content.active
+{
+  background-color: #e0e0e0;
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  display: block;
+}
+
+.accordion .accordion-navigation > a, .accordion dd > a
+{
+  background-color: rgb(55, 55, 55);
+  background-image: none;
+  background-repeat: repeat;
+  font-family: 'Raleway', sans-serif;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  color: #ffffff;
+  display: block;
+  font-size: 14px;
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-bottom:5px;
+}

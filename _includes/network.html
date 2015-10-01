@@ -1,0 +1,156 @@
+<div class="row" style="margin-bottom:-15px;">
+  <div class="large-12 columns">
+    <h2>Current members</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="large-12 columns">
+
+  <style type="text/css">
+  #labgraph {
+    width: 100%;
+    height: 750px;
+    background-color:none;
+    border-radius: 25px;
+  }
+  </style>
+
+  <script type="text/javascript" src="/js/vis.js"></script>
+  <link href="/css/vis.min.css" rel="stylesheet" type="text/css" />
+
+  <script type="text/javascript">
+
+  var nodes = null;
+  var edges = null;
+  var network = null;
+
+  // Called when the Visualization API is loaded.
+  function draw() {
+    // create people.
+    // value corresponds with the age of the person
+    var DIR = '/assets/img/members/';
+    nodes = [
+      {id: 1,  shape: 'circularImage',font:{size:25}, image: DIR + 'gravel.png',label:"Dominique Gravel"},
+      {id: 3,  shape: 'circularImage', image: DIR + 'claire.png',label:"Claire Jacquet"},
+      {id: 2,  shape: 'circularImage', image: DIR + 'jo.png',label:"Jonathan Brassard"},
+      {id: 4,  shape: 'circularImage', image: DIR + 'steve.png', label:"Steve Vissault"},
+      {id: 5,  shape: 'circularImage', image: DIR + 'cazelle.png', label:"Kevin Cazelle"},
+      {id: 6,  shape: 'circularImage', image: DIR + 'idaline.png', label:"Idaline Laigle"},
+      {id: 7,  shape: 'circularImage', image: DIR + 'amael.png', label:"Amael Lesquin",title: 'My real name is Peregrin Took!'},
+      {id: 8,  shape: 'circularImage', image: DIR + 'kevin.png', label:"Kevin Solarik"},
+      {id: 9,  shape: 'box',font:{size:20,color:'#fff'},label:"Modelisation"},
+      {id: 10,  shape: 'box',font:{size:20,color:'#fff'},label:"Ecological networks"},
+      {id: 11,  shape: 'box',font:{size:20,color:'#fff'},label:"Biogeography"},
+      {id: 12,  shape: 'box',font:{size:20,color:'#fff'},label:"Forest ecology"}
+    ];
+
+    // create connections between people
+    // value corresponds with the amount of contact between two people
+    edges = [
+      {from: 1, to: 9},
+      {from: 1, to: 10},
+      {from: 1, to: 11},
+      {from: 1, to: 12},
+      {from: 2, to: 12},
+      {from: 3, to: 11},
+      {from: 3, to: 10},
+      {from: 3, to: 9},
+      {from: 4, to: 12},
+      {from: 4, to: 9},
+      {from: 5, to: 11},
+      {from: 5, to: 10},
+      {from: 5, to: 9},
+      {from: 6, to: 10},
+      {from: 6, to: 12},
+      {from: 7, to: 12},
+      {from: 7, to: 9},
+      {from: 8, to: 12},
+    ];
+
+    // edges = [
+    //   {from: 1, to: 2},
+    //   {from: 1, to: 3},
+    //   {from: 1, to: 4},
+    //   {from: 1, to: 5},
+    //   {from: 1, to: 6},
+    //   {from: 1, to: 7},
+    //   {from: 1, to: 8}
+    // ];
+
+    // create a network
+    var container = document.getElementById('labgraph');
+    var data = {
+      nodes: nodes,
+      edges: edges
+    };
+    var options = {
+      height: '100%',
+      width: '100%',
+      layout: {
+        randomSeed: 10,
+        improvedLayout:true,
+        hierarchical: {
+          enabled:false,
+          levelSeparation: 150,
+          direction: 'UD',   // UD, DU, LR, RL
+          sortMethod: 'hubsize' // hubsize, directed
+        },
+      },
+      interaction:{
+        dragNodes:true,
+        dragView: false,
+        hideEdgesOnDrag: false,
+        hideNodesOnDrag: false,
+        hover: false,
+        hoverConnectedEdges: true,
+        zoomView: false,
+      },
+      nodes: {
+        borderWidth:3,
+        size:60,
+        shadow:true,
+        scaling: {
+          min:60,
+          max:60,
+        },
+        font: {
+          size: 20,
+          color:'dark',
+          face:'Raleway',
+        },
+        color: {
+          border: '#2d2d2d',
+          background: '#2d2d2d',
+          highlight: {
+            border: '#2d2d2d',
+            background:'#2d2d2d',
+          },
+        },
+      },
+      edges: {
+        color: '#616161',
+        width:2,
+        dashes:true,
+      },
+      physics:{
+        repulsion: {
+          centralGravity: 0.2,
+          springLength: 200,
+          springConstant: 0.05,
+          nodeDistance: 300,
+          damping: 0.09
+        },
+        barnesHut: {
+          gravitationalConstant: -4000,
+          springLength: 300
+        }
+      }
+    };
+    network = new vis.Network(container, data, options);
+  }
+  </script>
+
+  <div id="labgraph"></div>
+
+</div>
+</div>

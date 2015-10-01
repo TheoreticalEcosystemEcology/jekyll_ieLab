@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body onload="draw()">
+
+    {% include header.html %}
+
+    <div class="row" style="  background-color: rgba(255, 255, 255, 0.60);padding-top:0px;padding-bottom:15px;" >
+      <div class="large-2 columns text-center">
+        <img src="/assets/img/logo.png" alt="Logo" style="width:80%; height:80%;" />
+      </div>
+      <div class="large-10 columns text-center">
+        <h2 style="margin-top:40px;font-size:25px;color:rgb(66, 66, 66)"><span style="  font-family: 'Raleway', sans-serif;font-weight: 500;font-size:30px">[Biome]</span> Biogeography and Metacommunity Ecology Lab</h2>
+      </div>
+    </div>
+
+<div class="panel">
+
+  <div class="row">
+    <div class="large-12 columns">
+{{ content }}
+</div>
+</div>
+
+  </div>
+    {% include footer.html %}
+  </body>
+
+  </html>

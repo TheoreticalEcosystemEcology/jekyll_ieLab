@@ -1,0 +1,73 @@
+- Name: Dominique
+  LastName: Gravel
+  Status: Principal investigator
+  Github: DominiqueGravel
+  Email: dominique_gravel@uqar.ca
+  Image: Photo_Gravel.jpg
+
+- Name: Steve
+  LastName: Vissault
+  Status: M.Sc. Student
+  Year_start: 2013
+  Year_finish: 2015
+  Supervisor: Dominique Gravel
+  CoSupervisor: Isabelle Boulangeat & Matt Talluto
+  Title: Simulate the Eastern Boreal-Temperate forests ecotone under Climate Change
+  Abstract_fr: Fr - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Abstract_en: En - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Website: www.steve-vissault.me
+  Github: SteveViss
+  Email: s.vissault@yahoo.fr
+  Image: steve.png
+
+
+- Name: Amael
+  LastName: Lesquin
+  Status: Ph.D. Student
+  Year_start: 2014
+  Year_finish: 2018
+  Supervisor: Dominique Gravel
+  CoSupervisor: Isabelle Boulangeat
+  Title: Development of diffusion model to understand tree species migration under climate change constraints.
+  Abstract_fr: Fr - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Abstract_en: En - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Email: amael.lesquin@gmail.com
+  Image: amael.png
+
+- Name: Claire
+  LastName: Jacquet
+  Status: Ph.D. Student
+  Year_start: 2012
+  Year_finish: 2016
+  Supervisor: Dominique Gravel
+  CoSupervisor: David Moulliot
+  Title: Theoretical integration of biogeography and ecosystem functioning.
+  Abstract_fr: Fr - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Abstract_en: En - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Email: claire-jacquet@wanadoo.fr
+  Image: claire.png
+
+- Name: Philippe
+  LastName: Desjardins-Proulx
+  Status: Ph.D. Student
+  Year_start: 2012
+  Year_finish: 2016
+  Supervisor: Dominique Gravel
+  CoSupervisor: Timothée Poisot
+  Title: Deep transfer learning in complex ecosystems
+  Abstract_fr: Fr - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Abstract_en: En - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Email: philippe.d.proulx@gmail.com
+  Image: phdp.jpg
+
+- Name: Timothée
+  LastName: Poisot
+  Status: Post-Doc
+  Position: Assistant professor at the University of Montreal
+  Year_start: 2011
+  Year_finish: 2013
+  Supervisor: Dominique Gravel
+  Website: timotheepoisot.fr
+  Github: tpoisot
+  Email: tim@poisotlab.io
+  Image: tim.jpg

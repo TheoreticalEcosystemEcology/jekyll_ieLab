@@ -1,0 +1,8 @@
+---
+layout: default
+---
+
+{{ reference | replace_first: 'D. Gravel', '<b>D. Gravel</b>' }}
+{% if entry.file %}
+<span class=" [round radius] label"><a href="{{ entry.file }}" style="color:white;">PDF</a></span>
+{% endif %}
