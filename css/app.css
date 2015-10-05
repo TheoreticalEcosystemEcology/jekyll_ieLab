@@ -1,19 +1,14 @@
 @import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,600italic,400italic,100,100italic,300,300italic,600,700,700italic|Ubuntu:400,300,300italic,400italic,500,500italic,700,700italic);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900);
 
-
-.top-bar
+.row
 {
-  background-color: #333333;
-  background-image: none;
-  background-repeat: repeat;
-  background-attachment: scroll;
-  background-position: 0% 0%;
-  margin: none;
-  padding: none;
-  overflow-x: hidden;
-  overflow-y: hidden;
-  position: relative;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+  max-width: 65rem;
+  width: 100%;
 }
 
 .contain-to-grid .top-bar{
@@ -38,7 +33,7 @@
 }
 
 body {
-    background: url("/assets/img/st_lawrence.jpg") no-repeat center center fixed;
+    background: url("/assets/img/Temperate_forest_desat.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -104,10 +99,10 @@ footer {
   font-weight: 300;
   font-size: 13px;
   min-height: 200px;
-  color: #cbcbcb;
+  color: rgb(255, 255, 255);
   margin: auto;
   max-width: 65rem;
-  background-color: #333333;
+  background-color: rgba(51, 51, 51,0.8);
 }
 
 .circular {
@@ -187,4 +182,161 @@ footer {
   padding-left: 5px;
   padding-top: 5px;
   padding-bottom:5px;
+}
+
+
+/* Line 2092 */
+.top-bar-section li:not(.has-form) a:not(.button)
+{
+  background-color: #333333;
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  line-height: 2.8125rem;
+  padding-top: 0px;
+  padding-right: 0.9375rem;
+  padding-bottom: 0px;
+  padding-left: 0.9375rem;
+}
+
+
+/* Line 1963 */
+.top-bar-section ul li.active > a:hover
+{
+  background-color: #258faf;
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  color: #ffffff;
+}
+
+/* Line 2096 */
+.top-bar-section li:not(.has-form) a:hover:not(.button)
+{
+  background-color: #222222;
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+}
+
+/* Line 2099 */
+.top-bar-section li.active:not(.has-form) a:not(.button)
+{
+  background-color: rgb(71, 173, 0);
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  color: #ffffff;
+  line-height: 2.8125rem;
+  padding-top: 0px;
+  padding-right: 0.9375rem;
+  padding-bottom: 0px;
+  padding-left: 0.9375rem;
+}
+
+/* Line 2104 */
+.top-bar-section li.active:not(.has-form) a:hover:not(.button)
+{
+  background-color: rgb(55, 134, 0);
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  color: #ffffff;
+}
+
+/* Line 3470 */
+a
+{
+  color: rgb(71, 173, 0);
+}
+
+/* Line 3474 */
+a:hover, a:focus
+{
+  color: rgb(55, 134, 0);
+}
+
+.top-bar-section ul li > a
+{
+  color: #ffffff;
+  display: block;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  font-size: 0.8125rem;
+  font-weight: normal;
+  padding-top: 12px;
+  padding-right: 0px;
+  padding-bottom: 12px;
+  padding-left: 0.9375rem;
+  text-transform: none;
+  width: 100%;
+}
+
+.top-bar-section ul li.active > a
+{
+  background-color: #369a00;
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  color: #ffffff;
+}
+
+
+
+.top-bar-section ul li.active > a:hover
+{
+  background-color: #369a00;
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  color: #ffffff;
+}
+
+.label
+{
+  display: inline-block;
+  font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+  font-weight: normal;
+  line-height: 1;
+  margin-bottom: auto;
+  position: relative;
+  text-align: center;
+  text-decoration-line: none;
+  text-decoration-style: solid;
+  white-space: nowrap;
+  padding-top: 0.25rem;
+  padding-right: 0.5rem;
+  padding-bottom: 0.25rem;
+  padding-left: 0.5rem;
+  font-size: 0.6875rem;
+  background-color: #ff9900;
+  color: #ffffff;
 }
