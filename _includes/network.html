@@ -41,7 +41,8 @@
       {id: 9,  shape: 'box',font:{size:18,color:'#fff'},label:"Modelisation"},
       {id: 10,  shape: 'box',font:{size:18,color:'#fff'},label:"Ecological networks"},
       {id: 11,  shape: 'box',font:{size:18,color:'#fff'},label:"Biogeography"},
-      {id: 12,  shape: 'box',font:{size:18,color:'#fff'},label:"Forest ecology"}
+      {id: 12,  shape: 'box',font:{size:18,color:'#fff'},label:"Forest ecology"},
+      {id: 13,  shape: 'circularImage', image: DIR + 'hedvig.jpg', label:"Hedvig Nenzén"},
     ];
 
     // create connections between people
@@ -66,6 +67,8 @@
       {from: 7, to: 12},
       {from: 7, to: 9},
       {from: 8, to: 12},
+      {from: 13, to: 12},
+      {from: 13, to: 9},
     ];
 
     // edges = [
@@ -88,7 +91,7 @@
       height: '100%',
       width: '100%',
       layout: {
-        randomSeed: 65,
+        randomSeed: 485,
         improvedLayout:true,
         hierarchical: {
           enabled:false,

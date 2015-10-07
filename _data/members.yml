@@ -1,18 +1,20 @@
-- Name: Dominique
+- key: 1
+  Name: Dominique
   LastName: Gravel
   Status: Principal investigator
   Github: DominiqueGravel
   Email: dominique_gravel@uqar.ca
   Image: gravel.png
 
-- Name: Steve
+- key: 2
+  Name: Steve
   LastName: Vissault
   Status: M.Sc. Student
   Year_start: 2013
   Year_finish: 2015
   Supervisor: Dominique Gravel
   CoSupervisor: Isabelle Boulangeat & Matt Talluto
-  Title: Simulate the Eastern Boreal-Temperate forests ecotone under Climate Change
+  Title_en: Simulate the Eastern Boreal-Temperate forests ecotone under Climate Change
   Abstract_fr: Fr - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   Abstract_en: En - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   Website: www.steve-vissault.me
@@ -21,46 +23,115 @@
   Image: steve.png
 
 
-- Name: Amael
+- key: 3
+  Name: Amael
   LastName: Lesquin
   Status: Ph.D. Student
   Year_start: 2014
   Year_finish: 2018
   Supervisor: Dominique Gravel
   CoSupervisor: Isabelle Boulangeat
-  Title: Development of diffusion model to understand tree species migration under climate change constraints.
+  Title_en: Development of diffusion model to understand tree species migration under climate change constraints.
   Abstract_fr: Fr - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   Abstract_en: En - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   Email: amael.lesquin@gmail.com
+  Github: amaelGithub
   Image: amael.png
 
-- Name: Claire
+- key: 4
+  Name: Claire
   LastName: Jacquet
   Status: Ph.D. Student
   Year_start: 2012
   Year_finish: 2016
   Supervisor: Dominique Gravel
   CoSupervisor: David Moulliot
-  Title: Theoretical integration of biogeography and ecosystem functioning.
+  Title_en: Theoretical integration of biogeography and ecosystem functioning.
   Abstract_fr: Fr - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   Abstract_en: En - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   Email: claire-jacquet@wanadoo.fr
   Image: claire.png
 
-- Name: Philippe
+- key: 5
+  Name: Philippe
   LastName: Desjardins-Proulx
   Status: Ph.D. Student
   Year_start: 2012
   Year_finish: 2016
   Supervisor: Dominique Gravel
   CoSupervisor: Timothée Poisot
-  Title: Deep transfer learning in complex ecosystems
+  Title_en: Deep transfer learning in complex ecosystems
   Abstract_fr: Fr - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   Abstract_en: En - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Website: http://phdp.github.io
+  Github: PhDP
   Email: philippe.d.proulx@gmail.com
   Image: phdp.jpg
 
-- Name: Timothée
+- key: 6
+  Name: Idaline
+  LastName: Laigle
+  Status: Ph.D. Student
+  Year_start: 2012
+  Year_finish: 2016
+  Supervisor: Dominique Gravel
+  CoSupervisor: Isabelle Aubin
+  Title_en:  Integrity assessement of the impact of borest biomass removal on biodiveristy and ecosystem functionning
+  Abstract_fr: Fr - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Abstract_en: En - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Github: idaline
+  Email: idaline.laigle@gmail.com
+  Image: idaline.png
+
+- key: 7
+  Name: Hedvig
+  LastName: Nenzén
+  Status: Ph.D. Student
+  Year_start: 2012
+  Year_finish: 2016
+  Supervisor: Dominique Gravel
+  CoSupervisor: Pedro Peres-Neto
+  Title_en:  Space-time interactions in forest metacommunities.
+  Abstract_fr: Fr - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Abstract_en: En - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Github: hedvign
+  Email: nenzen.hedvig@courrier.uqam.ca
+  Image: hedvig.jpg
+
+- key: 8
+  Name: Kevin
+  LastName: Cazelles
+  Status: Ph.D. Student
+  Year_start: 2013
+  Year_finish: 2015
+  Supervisor: Dominique Gravel
+  CoSupervisor: Nicolas Mouquet
+  Title_en: Effects of environmental constraints, biotic interactions and traits on species distribution
+  Title_fr: Influence des contraintes environnemnentales, des interactions et de la distribution des traits sur la répartition géographique des espèces
+  Abstract_fr: Fr - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Abstract_en: En - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Github: KevCaz
+  Email: kevin.cazelles@univ-montp2.fr
+  Website: kevincazelles.fr
+  Image: kev.jpg
+
+- key: 12
+  Name: Kevin
+  LastName: Solarik
+  Status: Ph.D. Student
+  Year_start: 2013
+  Year_finish: 2017
+  Supervisor: Dominique Gravel
+  CoSupervisor: Christian Messier
+  Title_en: Limiting Migration - Will sugar maple be tapped out due to climate change?
+  Abstract_fr: Fr - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Abstract_en: En - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Email: kevinsolarik@hotmail.com
+  Website: www.cef-cfr.ca/index.php?n=Membres.KevinSolarik
+  Image: kevin.png
+
+- key: 9
+  Name: Timothée
   LastName: Poisot
   Status: Post-Doc
   Position: Assistant professor at the University of Montreal
@@ -71,3 +142,40 @@
   Github: tpoisot
   Email: tim@poisotlab.io
   Image: tim.jpg
+
+- key: 10
+  Name: Camille
+  LastName: Albouy
+  Status: Post-Doc
+  Position: Post-Doc at ETH Zurich (Prof. Dr. Pellissier)
+  Year_start: 2013
+  Year_finish: 2014
+  Supervisor: Dominique Gravel
+  Website: albouycamille.free.fr
+  Email: albouycamille@gmail.com
+  Image: camille.png
+
+- key: 13
+  Name: Matthew
+  LastName: Talluto
+  Status: Post-Doc
+  Position: Post-Doc at LECA (Prof. Dr. Thullier)
+  Year_start: 2013
+  Year_finish: 2014
+  Supervisor: Dominique Gravel
+  Website: sites.google.com/site/mtalluto/home
+  Email: mtalluto@gmail.com
+  Image: Matt.jpg
+
+- key: 11
+  Name: Isabelle
+  LastName: Boulangeat
+  Status: Post-Doc
+  Position: Post-Doc at Aarhus University (Prof. Dr. Svenning)
+  Year_start: 2013
+  Year_finish: 2014
+  Supervisor: Dominique Gravel
+  Website: j.boulangeat.free.fr
+  Email: isabelle.boulangeat@gmail.com
+  Github: iboulangeat
+  Image: isaB.jpg

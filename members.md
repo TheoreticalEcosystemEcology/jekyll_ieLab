@@ -11,7 +11,7 @@ weight: 5
   </div>
 </div>
 
-<div class="row valign-middle">
+<div class="row">
   {% for member in site.data.members %}
   {% if member.Status == 'Principal investigator' %}
   <div class="small-6 columns text-right ">
@@ -42,7 +42,7 @@ weight: 5
   </div>
   <div class="large-9 columns text-left">
     <h5 style="font-weight:600;"> {{ member.Name }} {{ member.LastName }}  <br> <span style="font-weight:400;font-size:15px;margin-top:20px;">{{ member.Status }} ({{ member.Year_start }}-{{ member.Year_finish }})</span> </h5>
-    <h6 style="font-weight:600;">{{ member.Title }}</h6>
+    <h6 style="font-weight:600;">{{ member.Title_en }}</h6>
     <h6 style="font-weight:600;font-size:14px;"> Supervisor(s): <span style="font-weight:400;font-size:14px;"> {{ member.Supervisor }},   {{ member.CoSupervisor }}</span></h6>
     <p style="text-align:right;margin-right:25px;">
 
@@ -59,7 +59,7 @@ weight: 5
       <dd class="accordion-navigation">
         <a href="#panel{{ member.key }}a">Abstract</a>
         <div id="panel{{ member.key }}a" class="content active">
-          <p>
+          <p style="font-size:12px;">
             {{ member.Abstract_fr}}
           </p>
         </div>
@@ -85,7 +85,7 @@ weight: 5
 </div>
 
 {% for member in  members %}
-{% if member.Status != 'Principal investigator' and member.Year_finish < cur_year %}
+{% if member.Status != 'Principal investigator' and member.Year_finish < cur_year%}
 
 <div class="row" style="padding-top:50px;">
   <div class="large-3 columns text-right ">
@@ -108,8 +108,8 @@ weight: 5
 
     <dl class="accordion" data-accordion>
       <dd class="accordion-navigation">
-        <a href="#panel{{ member.key }}b">Publications</a>
-        <div id="panel{{ member.key }}b" class="content active">
+        <a href="#panel{{ member.key }}c">Publications & Collaborations</a>
+        <div id="panel{{ member.key }}c" class="content active">
           {% bibliography --query @*[author ~= {{ member.LastName }}] --template bib_member %}
         </div>
       </dd>
