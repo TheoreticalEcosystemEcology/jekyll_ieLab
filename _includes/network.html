@@ -43,6 +43,8 @@
       {id: 11,  shape: 'box',font:{size:18,color:'#fff'},label:"Biogeography"},
       {id: 12,  shape: 'box',font:{size:18,color:'#fff'},label:"Forest ecology"},
       {id: 13,  shape: 'circularImage', image: DIR + 'hedvig.jpg', label:"Hedvig Nenzén"},
+      {id: 14,  shape: 'circularImage', image: DIR + 'phdp.jpg', label:"Philippe Desjardins-Proulx"},
+      {id: 15,  shape: 'box',font:{size:18,color:'#fff'},label:"Machine learning"},
     ];
 
     // create connections between people
@@ -69,6 +71,9 @@
       {from: 8, to: 12},
       {from: 13, to: 12},
       {from: 13, to: 9},
+      {from: 14, to: 9},
+      {from: 14, to: 10},
+      {from: 14, to: 15},
     ];
 
     // edges = [
@@ -91,7 +96,7 @@
       height: '100%',
       width: '100%',
       layout: {
-        randomSeed: 485,
+        randomSeed: 532,
         improvedLayout:true,
         hierarchical: {
           enabled:false,
@@ -133,7 +138,7 @@
       },
       edges: {
         color: '#616161',
-        width:2,
+        width:1,
         dashes:true,
       },
       physics:{
