@@ -25,7 +25,7 @@ scholar:
   bibliography_template: bib
 
   replace_strings: true
-  join_strings:    false
+  join_strings:    true
 
   bibliography_list_tag: p
   bibliography_item_tag: p

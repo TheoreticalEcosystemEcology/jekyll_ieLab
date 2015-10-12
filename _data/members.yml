@@ -130,6 +130,49 @@
   Website: www.cef-cfr.ca/index.php?n=Membres.KevinSolarik
   Image: kevin.png
 
+
+- key: 14
+  Name: Raphaël
+  LastName: Aussenac
+  Status: Ph.D. Student
+  Year_start: 2014
+  Year_finish: 2017
+  Supervisor: Dominique Gravel
+  CoSupervisor: Drobyshev Igor
+  Title_en: Lorem ipsum dolor sit amet, consectetur adipisicing elit
+  Abstract_fr: Fr - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Abstract_en: En - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Email: raphael.aussenac@gmail.com
+  Image: unknown.png
+
+- key: 15
+  Name: Chantal
+  LastName: Hutchison
+  Status: Ph.D. Student
+  Year_start: 2014
+  Year_finish: 2017
+  Supervisor: Dominique Gravel
+  CoSupervisor: Catherine Potvin
+  Title_en: Lorem ipsum dolor sit amet, consectetur adipisicing elit
+  Abstract_fr: Fr - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Abstract_en: En - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Email: chantal.hutchison@mail.mcgill.ca
+  Image: unknown.png
+
+- key: 16
+  Name: David
+  LastName: Beauchesne
+  Status: Ph.D. Student
+  Year_start: 2015
+  Year_finish: 2019
+  Supervisor: Dominique Gravel
+  CoSupervisor: Philippe Archambault
+  Title_en: Lorem ipsum dolor sit amet, consectetur adipisicing elit
+  Abstract_fr: Fr - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Abstract_en: En - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Email: David.Beauchesne@uqar.ca
+  Image: unknown.png
+
 - key: 9
   Name: Timothée
   LastName: Poisot

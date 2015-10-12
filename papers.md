@@ -5,7 +5,7 @@ permalink: /papers/
 weight: 4
 ---
 
-{% assign  years = "2014,2013,2012,2011,2010" | split: "," %}
+{% assign  years = "2015,2014,2013,2012,2011,2010,2008,2007,2006" | split: "," %}
 
 ## Papers
 

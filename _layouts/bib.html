@@ -4,5 +4,21 @@ layout: default
 
 {{ reference | replace_first: 'D. Gravel', '<b>D. Gravel</b>' }}
 {% if entry.file %}
-<span class=" [round radius] label"><a href="{{ entry.file }}" style="color:white;">PDF</a></span>
+<a href="{{ entry.file }}"><span class="round info label">PDF</span></a>
 {% endif %}
+<a href="#" data-reveal-id="bib{{ entry.key }}"><span class="round info label">Bibtex</span></a>
+{% if entry.doi %}
+<a href="http://dx.doi.org/{{ entry.doi }}"><span class=" round info label">DOI</span> </a>
+{% endif %}
+
+<div id="bib{{ entry.key }}" class="reveal-modal" data-reveal aria-labelledby="bib{{ entry.key }}" aria-hidden="true" role="dialog">
+  <h2 id="bib{{ entry.key }}">BibteX</h2>
+  <div class="row">
+    <div class="large-12 columns">
+      <pre style="white-space:pre-wrap;">
+        {{ entry.bibtex }}
+     </pre>
+    </div>
+  </div>
+    <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+</div>
