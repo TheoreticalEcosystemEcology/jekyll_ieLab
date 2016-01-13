@@ -33,7 +33,7 @@
 }
 
 body {
-    background: url("/assets/img/Temperate_forest_desat.jpg") no-repeat center center fixed;
+    background: url("/assets/img/Temperate_forest.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -68,9 +68,9 @@ h4,h5,h6 {
 
 p {
   font-family: 'Raleway', sans-serif;
-  font-weight: 500;
+  font-weight: 400;
   text-align: justify;
-  font-size: 15px;
+  font-size: 14px;
   margin-top:20px;
   margin-bottom: 20px;
 }
@@ -86,7 +86,7 @@ ul {
   max-width: 65em;
   margin: 0 auto;
   border: none;
-  background-color: rgba(255, 255, 255, 0.85);
+  background-color: rgba(255, 255, 255);
 }
 
 img {
@@ -102,7 +102,7 @@ footer {
   color: rgb(255, 255, 255);
   margin: auto;
   max-width: 65rem;
-  background-color: rgba(51, 51, 51,0.8);
+  background-color:#222222;
 }
 
 .circular {
@@ -184,11 +184,10 @@ footer {
   padding-bottom:5px;
 }
 
-
 /* Line 2092 */
 .top-bar-section li:not(.has-form) a:not(.button)
 {
-  background-color: #333333;
+  background-color: #222222;
   background-image: none;
   background-repeat: repeat;
   background-attachment: scroll;
@@ -207,7 +206,7 @@ footer {
 /* Line 1963 */
 .top-bar-section ul li.active > a:hover
 {
-  background-color: #258faf;
+  background-color: #222222;
   background-image: none;
   background-repeat: repeat;
   background-attachment: scroll;
@@ -234,7 +233,7 @@ footer {
 /* Line 2099 */
 .top-bar-section li.active:not(.has-form) a:not(.button)
 {
-  background-color: rgb(71, 173, 0);
+  background-color: rgb(224, 188, 0);
   background-image: none;
   background-repeat: repeat;
   background-attachment: scroll;
@@ -242,7 +241,7 @@ footer {
   background-clip: border-box;
   background-origin: padding-box;
   background-size: auto auto;
-  color: #ffffff;
+  color: #222222;
   line-height: 2.8125rem;
   padding-top: 0px;
   padding-right: 0.9375rem;
@@ -250,10 +249,19 @@ footer {
   padding-left: 0.9375rem;
 }
 
+.top-bar {
+    background: #222222;
+    height: 2.8125rem;
+    line-height: 2.8125rem;
+    margin-bottom: 0;
+    overflow: hidden;
+    position: relative;
+}
+
 /* Line 2104 */
 .top-bar-section li.active:not(.has-form) a:hover:not(.button)
 {
-  background-color: rgb(55, 134, 0);
+  background-color: rgb(224, 188, 0);
   background-image: none;
   background-repeat: repeat;
   background-attachment: scroll;
@@ -267,60 +275,11 @@ footer {
 /* Line 3470 */
 a
 {
-  color: rgb(71, 173, 0);
+  color: rgb(224, 188, 0);
 }
 
 /* Line 3474 */
 a:hover, a:focus
 {
-  color: rgb(55, 134, 0);
-}
-
-.top-bar-section ul li > a
-{
-  color: #ffffff;
-  display: block;
-  font-family: 'Ubuntu', sans-serif;
-  font-weight: bold;
-  font-size: 0.8125rem;
-  font-weight: normal;
-  padding-top: 12px;
-  padding-right: 0px;
-  padding-bottom: 12px;
-  padding-left: 0.9375rem;
-  text-transform: none;
-  width: 100%;
-}
-
-.top-bar-section ul li.active > a
-{
-  background-color: #369a00;
-  background-image: none;
-  background-repeat: repeat;
-  background-attachment: scroll;
-  background-position: 0% 0%;
-  background-clip: border-box;
-  background-origin: padding-box;
-  background-size: auto auto;
-  color: #ffffff;
-}
-
-.button{
-  padding: 0.5rem 1rem 0.5rem 1rem;
-  font-size: 1rem;
-  transition: background-color 0ms ease-out;
-}
-
-
-.top-bar-section ul li.active > a:hover
-{
-  background-color: #369a00;
-  background-image: none;
-  background-repeat: repeat;
-  background-attachment: scroll;
-  background-position: 0% 0%;
-  background-clip: border-box;
-  background-origin: padding-box;
-  background-size: auto auto;
-  color: #ffffff;
+  color: rgb(210, 139, 0);
 }
