@@ -42,7 +42,7 @@ weight: 5
   </div>
   <div class="large-9 columns text-left">
     <h5 style="font-weight:600;"> {{ member.Name }} {{ member.LastName }}  <br> <span style="font-weight:400;font-size:15px;margin-top:20px;">{{ member.Status }} ({{ member.Year_start }}-{{ member.Year_finish }})</span> </h5>
-    <h6 style="font-weight:600;">{{ member.Title_en }}</h6>
+    <h6 style="font-weight:600;">{%if member.Title_en != blank %} {{ member.Title_en}} {% else %} {{ member.Title_fr}} {% endif %}</h6>
     <h6 style="font-weight:600;font-size:14px;"> Supervisor(s): <span style="font-weight:400;font-size:14px;"> {{ member.Supervisor }},   {{ member.CoSupervisor }}</span></h6>
     <p style="text-align:right;margin-right:25px;">
 
@@ -57,16 +57,16 @@ weight: 5
 
     <dl class="accordion" data-accordion>
       <dd class="accordion-navigation">
-        <a href="#panel{{ member.key }}a">Abstract</a>
-        <div id="panel{{ member.key }}a" class="content active">
+        <a href="#panel{{ member.key }}a" style="font-weight:600;">Research project</a>
+        <div id="panel{{ member.key }}a" class="content">
           <p style="font-size:12px;">
-            {{ member.Abstract_fr}}
+            {%if member.Abstract_en != blank %} {{ member.Abstract_en}} {% else %} {{ member.Abstract_fr}} {% endif %}
           </p>
         </div>
       </dd>
       <dd class="accordion-navigation">
-        <a href="#panel{{ member.key }}b">Publications</a>
-        <div id="panel{{ member.key }}b" class="content active">
+        <a href="#panel{{ member.key }}b" style="font-weight:600;">Publications</a>
+        <div id="panel{{ member.key }}b" class="content">
           {% bibliography --query @*[author ~= {{ member.LastName }}] --template bib_member %}
         </div>
       </dd>
@@ -93,10 +93,9 @@ weight: 5
   </div>
   <div class="large-9 columns text-left">
     <h5 style="font-weight:600;"> {{ member.Name }} {{ member.LastName }}  <br> <span style="font-weight:400;font-size:15px;margin-top:20px;">{{ member.Status }} ({{ member.Year_start }}-{{ member.Year_finish }})</span> </h5>
-        <h6 style="font-weight:600;font-size:14px;"> Actual position: <span style="font-weight:400;font-size:14px;"> {{ member.Position }}</span></h6>
+        <h6 style="font-weight:600;font-size:14px;"> Next position: <span style="font-weight:400;font-size:14px;"> {{ member.Position }}</span></h6>
 
     <p style="text-align:right;margin-right:25px;">
-
       <a href="mailto:{{ member.Email }} "> <i class="step fi-mail" style="font-size: 30px;"></i> </a>
       {%if member.Github != blank %}
       <a href="http://github.com/{{ member.Github }}"> <i class="step fi-social-github" style="font-size: 30px;"></i>
@@ -108,8 +107,8 @@ weight: 5
 
     <dl class="accordion" data-accordion>
       <dd class="accordion-navigation">
-        <a href="#panel{{ member.key }}c">Publications & Collaborations</a>
-        <div id="panel{{ member.key }}c" class="content active">
+        <a href="#panel{{ member.key }}c" style="font-weight:600;">Publications & Collaborations</a>
+        <div id="panel{{ member.key }}c" class="content">
           {% bibliography --query @*[author ~= {{ member.LastName }}] --template bib_member %}
         </div>
       </dd>

@@ -33,7 +33,7 @@
 }
 
 body {
-    background: url("/assets/img/Temperate_forest.jpg") no-repeat center center fixed;
+    background: url("/assets/img/Temperate_forest_desat.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -130,7 +130,7 @@ footer {
 /* Line 3305 */
 .accordion .accordion-navigation > a:hover, .accordion dd > a:hover
 {
-  background-color: rgb(65, 65, 65);
+  background-color: #d0d0d0;
   background-image: none;
   background-repeat: repeat;
   background-attachment: scroll;
@@ -142,7 +142,7 @@ footer {
 
 .accordion .accordion-navigation.active > a, .accordion dd.active > a
 {
-  background-color: rgb(55, 55, 55);
+  background-color: #E0E0E0;
   background-image: none;
   background-repeat: repeat;
   background-attachment: scroll;
@@ -167,7 +167,7 @@ footer {
 
 .accordion .accordion-navigation > a, .accordion dd > a
 {
-  background-color: rgb(55, 55, 55);
+  background-color: #e0e0e0;
   background-image: none;
   background-repeat: repeat;
   font-family: 'Raleway', sans-serif;
@@ -176,10 +176,9 @@ footer {
   background-clip: border-box;
   background-origin: padding-box;
   background-size: auto auto;
-  color: #ffffff;
   display: block;
   font-size: 14px;
-  padding-left: 5px;
+  padding-left: 15px;
   padding-top: 5px;
   padding-bottom:5px;
 }
@@ -275,7 +274,7 @@ footer {
 /* Line 3470 */
 a
 {
-  color: rgb(224, 188, 0);
+  color: rgb(53, 53, 53);
 }
 
 /* Line 3474 */

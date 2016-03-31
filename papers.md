@@ -5,7 +5,6 @@ permalink: /papers/
 weight: 4
 ---
 
-{% assign  years = "2015,2014,2013,2012,2011,2010,2008,2007,2006" | split: "," %}
 
 ## Papers
 
@@ -15,10 +14,9 @@ weight: 4
 
 ### Published
 
-{% for pub_year in years %}
+{% assign act_year = site.time | date: '%Y' %}
 
-<h3 style="text-align:right;"> {{ pub_year }} </h3>
-
-{% bibliography --query @*[year={{ pub_year }} && status != review ]  %}
-
+{% for pub_year in (2006..act_year) reversed %}
+  <h3 style="text-align:right;"> {{ pub_year }} </h3>
+  {% bibliography --query @*[year = {{ pub_year }} && status != review]  %}
 {% endfor %}

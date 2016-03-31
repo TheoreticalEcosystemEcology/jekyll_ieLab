@@ -1,20 +1,18 @@
 # Site settings
-title: Theoretical Ecosystem Ecology lab
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Integrative ecology Lab
+email: dominique.gravel@usherbrooke.ca
+description: "Integrative Ecology Research laboratory leaded by Dominique Gravel at Sherbrooke University"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://ielab.recherche.usherbrooke.ca/" # the base hostname & protocol for your site
+twitter_username: SVissault
+github_username:  SteveViss
+keys: [Dominique Gravel,Integrative,computational,theoretical,ecology,modelisation,networks,forest,climate change,global warming]
 
 # Build settings
 markdown: kramdown
 
 scholar:
-  style: ieee
+  style: assets/csl/ecology.csl
   locale: en
   repository: assets/pdf
   sort_by: year
@@ -31,3 +29,6 @@ scholar:
   bibliography_item_tag: p
 
   query: "@*"
+
+gems:
+  - jekyll-sitemap
