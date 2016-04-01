@@ -11,6 +11,9 @@ keys: [Dominique Gravel,Integrative,computational,theoretical,ecology,modelisati
 # Build settings
 markdown: kramdown
 
+gems:
+  - jekyll-sitemap
+
 scholar:
   style: assets/csl/ecology.csl
   locale: en
@@ -30,5 +33,4 @@ scholar:
 
   query: "@*"
 
-gems:
-  - jekyll-sitemap
+
