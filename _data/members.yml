@@ -165,33 +165,33 @@
   Image: unknown.jpg
 
 -
-    key: 16
-    Name: David
-    LastName: Beauchesne
-    Status: Ph.D. Student
-    Year_start: 2014
-    Year_finish: 2017
-    Supervisor: Philippe Archambault
-    CoSupervisor: Dominique Gravel
-    Title_en: Evaluating the cumulative impacts of natural and anthropogenic stressors on the structure and function of the food web of the Estuary and Gulf of St.Lawrence
-    Title_fr: Évaluation des impacts cumulés des stresseurs naturels et anthropiques sur la structure et le fonctionnement du réseau trophique de l’Estuaire et du Golfe du Saint-Laurent
-    Abstract_fr: L’intensification de l’empreinte humaine dans l’estuaire et le golfe du Saint-Laurent (EGSL) impose une planification stratégique et systématique de l’utilisation et de l’exploitation des ressources marines. Pourtant, une évaluation systématique des impacts cumulés demeure absente de la littérature. Un nombre important d’activités historiques, actuelles et émergentes caractérisent l’utilisation humaine du Saint-Laurent. Ces activités imposent plusieurs stresseurs environnementaux affichant un chevauchement spatial croissant. Individuellement, ils peuvent affecter la structure et le fonctionnement des écosystèmes. Imposés simultanément, les stresseurs peuvent agir en synergie et entraîner des effets non-linéaires. Ces effets demeurent largement incompris et conséquemment ignorés lors d’évaluations d’impacts environnementaux, qui demeurent orientées sur des espèces ou secteurs uniques. Les effets non-linéaires peuvent s’exprimer selon divers mécanismes, notamment la propagation indirecte de perturbations engendrée par la complexité des interactions biotiques structurant les communautés. Nous suggérons ainsi qu’une compréhension de la structure des réseaux d’interactions biotiques est nécessaire à l’évaluation adéquate des impacts cumulés au sein des écosystèmes. L’objectif général de ma thèse sera d’évaluer les effets de multiples stresseurs sur les réseaux d’interactions biotiques. Les objectifs spécifiques seront 1) d’évaluer les impacts cumulés sur les écosystèmes de l’EGSL, 2) de caractériser la structure spatiale des réseaux d’interactions biotiques de l’ESGL et 3) d’évaluer les impacts cumulés sur les communautés de l’EGSL. Les résultats de cette thèse permettront d’approfondir les connaissances sur les impacts de multiples stresseurs sur les communautés, de fournir un outil performant d’évaluation des impacts cumulés et de favoriser une approche systématique et proactive de gestion des ressources naturelles.
-    Github: david-beauchesne
-    Email: david.beauchesne@hotmail.com
-    Image: David.jpg
+  key: 16
+  Name: David
+  LastName: Beauchesne
+  Status: Ph.D. Student
+  Year_start: 2014
+  Year_finish: 2017
+  Supervisor: Philippe Archambault
+  CoSupervisor: Dominique Gravel
+  Title_en: Evaluating the cumulative impacts of natural and anthropogenic stressors on the structure and function of the food web of the Estuary and Gulf of St.Lawrence
+  Title_fr: Évaluation des impacts cumulés des stresseurs naturels et anthropiques sur la structure et le fonctionnement du réseau trophique de l’Estuaire et du Golfe du Saint-Laurent
+  Abstract_fr: L’intensification de l’empreinte humaine dans l’estuaire et le golfe du Saint-Laurent (EGSL) impose une planification stratégique et systématique de l’utilisation et de l’exploitation des ressources marines. Pourtant, une évaluation systématique des impacts cumulés demeure absente de la littérature. Un nombre important d’activités historiques, actuelles et émergentes caractérisent l’utilisation humaine du Saint-Laurent. Ces activités imposent plusieurs stresseurs environnementaux affichant un chevauchement spatial croissant. Individuellement, ils peuvent affecter la structure et le fonctionnement des écosystèmes. Imposés simultanément, les stresseurs peuvent agir en synergie et entraîner des effets non-linéaires. Ces effets demeurent largement incompris et conséquemment ignorés lors d’évaluations d’impacts environnementaux, qui demeurent orientées sur des espèces ou secteurs uniques. Les effets non-linéaires peuvent s’exprimer selon divers mécanismes, notamment la propagation indirecte de perturbations engendrée par la complexité des interactions biotiques structurant les communautés. Nous suggérons ainsi qu’une compréhension de la structure des réseaux d’interactions biotiques est nécessaire à l’évaluation adéquate des impacts cumulés au sein des écosystèmes. L’objectif général de ma thèse sera d’évaluer les effets de multiples stresseurs sur les réseaux d’interactions biotiques. Les objectifs spécifiques seront 1) d’évaluer les impacts cumulés sur les écosystèmes de l’EGSL, 2) de caractériser la structure spatiale des réseaux d’interactions biotiques de l’ESGL et 3) d’évaluer les impacts cumulés sur les communautés de l’EGSL. Les résultats de cette thèse permettront d’approfondir les connaissances sur les impacts de multiples stresseurs sur les communautés, de fournir un outil performant d’évaluation des impacts cumulés et de favoriser une approche systématique et proactive de gestion des ressources naturelles.
+  Github: david-beauchesne
+  Email: david.beauchesne@hotmail.com
+  Image: David.jpg
 
 -
-    key: 21
-    Name: Pierre-Marc
-    LastName: Brousseau
-    Status: Ph.D. Student
-    Year_start: 2011
-    Year_finish: 2016
-    Supervisor: Dominique Gravel
-    CoSupervisor: Ira Tanya Handa
-    Title_fr: Implication des traits fonctionnels dans la structure des communautés d'arthropodes de la litière forestière et dans sa décomposition
-    Abstract_fr: "En milieu forestier, plus de 80 % du matériel végétal n’est pas consommé par les herbivores et doit être décomposé pour permettre le recyclage des nutriments. Malgré l’importance de ce processus, l’écosystème de la litière forestière est sous-étudié comparativement à l’écosystème au-dessus du sol. De ce fait, plusieurs aspects de la décomposition demeurent mal compris. Dans cette thèse, différentes hypothèses seront testées avec l’objectif de mieux comprendre comment les communautés d’arthropodes du sol sont structurées et comment celles-ci influencent la vitesse de décomposition de la litière forestière. En utilisant une approche basée sur les traits fonctionnels, je propose d’étudier : 1) les règles d’assemblage des espèces d’arthropodes; 2) la corrélation entre la diversité des différents niveaux trophiques (végétation, décomposeur, prédateur); et 3) l’impact de la diversité des prédateurs sur la décomposition. "
-    Image: unknown.jpg
+  key: 21
+  Name: Pierre-Marc
+  LastName: Brousseau
+  Status: Ph.D. Student
+  Year_start: 2011
+  Year_finish: 2016
+  Supervisor: Dominique Gravel
+  CoSupervisor: Ira Tanya Handa
+  Title_fr: Implication des traits fonctionnels dans la structure des communautés d'arthropodes de la litière forestière et dans sa décomposition
+  Abstract_fr: "En milieu forestier, plus de 80 % du matériel végétal n’est pas consommé par les herbivores et doit être décomposé pour permettre le recyclage des nutriments. Malgré l’importance de ce processus, l’écosystème de la litière forestière est sous-étudié comparativement à l’écosystème au-dessus du sol. De ce fait, plusieurs aspects de la décomposition demeurent mal compris. Dans cette thèse, différentes hypothèses seront testées avec l’objectif de mieux comprendre comment les communautés d’arthropodes du sol sont structurées et comment celles-ci influencent la vitesse de décomposition de la litière forestière. En utilisant une approche basée sur les traits fonctionnels, je propose d’étudier : 1) les règles d’assemblage des espèces d’arthropodes; 2) la corrélation entre la diversité des différents niveaux trophiques (végétation, décomposeur, prédateur); et 3) l’impact de la diversité des prédateurs sur la décomposition. "
+  Image: unknown.jpg
 
 - 
   key: 9

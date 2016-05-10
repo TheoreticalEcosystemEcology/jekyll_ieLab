@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{{ reference | replace_first: 'D. Gravel', '<b>D. Gravel</b>' }}
+{{ reference | replace_first: 'D. Gravel', '<b>D. Gravel</b>' | replace_first: 'Gravel, D.', '<b>Gravel, D.</b>' }}
 {% if entry.file %}
 <a href="{{ entry.file }}"><span class="round info label">PDF</span></a>
 {% endif %}
