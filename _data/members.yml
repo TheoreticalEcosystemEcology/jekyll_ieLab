@@ -1,4 +1,4 @@
--
+- 
   key: 1
   Name: Dominique
   LastName: Gravel
@@ -7,7 +7,7 @@
   Email: dominique_gravel@uqar.ca
   Image: gravel.png
 
--
+- 
   key: 2
   Name: Steve
   LastName: Vissault
@@ -24,7 +24,7 @@
   Image: steve.png
 
 
--
+- 
   key: 3
   Name: Amael
   LastName: Lesquin
@@ -42,7 +42,7 @@
   Github: amaelGithub
   Image: amael.png
 
--
+- 
   key: 4
   Name: Claire
   LastName: Jacquet
@@ -58,7 +58,7 @@
   Image: claire.png
   Website: claire-jacquet.com
 
--
+- 
   key: 5
   Name: Philippe
   LastName: Desjardins-Proulx
@@ -74,7 +74,7 @@
   Email: philippe.desjardins.proulx@usherbrooke.ca
   Image: phdp.jpg
 
--
+- 
   key: 6
   Name: Idaline
   LastName: Laigle
@@ -91,7 +91,7 @@
   Email: idaline.laigle@gmail.com
   Image: idaline.png
 
--
+- 
   key: 7
   Name: Hedvig
   LastName: Nenzén
@@ -102,13 +102,12 @@
   CoSupervisor: Pedro Peres-Neto
   Title_en: Space-time interactions in forest metacommunities
   Title_fr:  'Interactions spatio-temporelles dans les métacommunautés forestières: Dynamique, modélisation et interventions'
-  Abstract_en: Understanding the processes that underlie observed outbreak patterns is key to developing efficient management strategies for species fluctuations such as destructive forest pest outbreaks. Yet, despite many empirical and modelling studies of species fluctuations, the roles of extrinsic and intrinsic factors along with their interaction in driving large-scale, multi-year outbreaks, is still not understood. It is important to test the roles of spatial and temporally autocorrelated environmental variation in both a statistical and process-based model. I develop a novel analysis and model to understand how dispersal and autocorrelated environmental variables relate to large-scale outbreaks. Existing models are often scaled to local-scale population dynamics, that offer limited insight into landscape-scale outbreaks. To create the process-based model needed, while obtaining parameters from spatio-temporal landscape outbreak data, we change the model scale to reflect insect disturbance instead of insect densities. We use as example species one of the most studied and widespread insect pests, the spruce budworm, whose defoliation distribution during one outbreak cycle and the start of a second outbreak has been mapped for 46 years in Quebec, Canada. We estimate effects of climate on both defoliation and dieback forest transitions. Spatial data allows us to quantify defoliation spread, and to discriminate between the effects of local dispersal and climate on outbreaks. Then, in simulations we randomize the climate predictions in space and time to identify the effect of spatio-temporal climate autocorrelation on outbreaks.
+  Abstract_en: Understanding the processes that underlie observed outbreak patterns is key to developing efficient management strategies for species fluctuations such as destructive forest pest outbreaks. Yet, despite many empirical and modelling studies of species fluctuations, the roles of extrinsic and intrinsic factors along with their interaction in driving large-scale, multi-year outbreaks, is still not understood. It is important to test the roles of spatial and temporally autocorrelated environmental variation in both a statistical and process-based model. I develop a novel analysis and model to understand how dispersal and autocorrelated environmental variables relate to large-scale outbreaks. Existing models are often scaled to local-scale population dynamics, that offer limited insight into landscape-scale outbreaks. To create the process-based model needed, while obtaining parameters from spatio-temporal landscape outbreak data, we change the model scale to reflect insect disturbance instead of insect densities. We use as example species one of the most studied and widespread insect pests, the spruce budworm, whose defoliation distribution during one outbreak cycle and the start of a second outbreak has been mapped for 46 years in Quebec, Canada. We estimate effects of climate on both defoliation and dieback forest transitions. Spatial data allows us to quantify defoliation spread, and to discriminate between the effects of local dispersal and climate on outbreaks. Then, in simulations we randomize the climate predictions in space and time to identify the effect of spatio-temporal climate autocorrelation on outbreaks.  
   Github: hedvign
   Email: hedvig.nenzen@gmail.com
-  Website: hedvignenzen.wordpress.com
   Image: hedvig.jpg
 
--
+- 
   key: 8
   Name: Kevin
   LastName: Cazelles
@@ -117,7 +116,7 @@
   Year_finish: 2016
   Supervisor: Dominique Gravel
   CoSupervisor: Nicolas Mouquet
-  Title_en: Integration of biotic interactions in species distribution models.
+  Title_en: Integration of biotic interactions in species distribution models. 
   Title_fr: Intégration des interactions biotiques dans les modèles de distribution d’espèces
   Abstract_fr: "Derrière la beauté de la biodiversité terrestre se cache un important défi: révéler les causes de la répartition géographique des espèces. Les biogéographes tentent, en effet, de déceler l'ensemble des variables qui expliquent la répartition passée et présente des espèces afin de prédire leur répartition future avec précision. Une telle compréhension est cruciale pour prévoir et limiter les conséquences des forçages anthropiques sur la perte de la biodiversité. Au-delà des variables classiquement utilisées comme la température, les précipitations et les variables édaphiques, les biogéographes doivent intégrer les processus évolutifs ainsi que les interactions écologiques afin d'affiner les prédictions de biodiversité future à large échelle. Dans ce contexte et en tant que doctorant, je me concentre sur un problème théorique particulier : la relation existante entre les interactions écologiques et la co-occurrence des espèces. La théorie prédit que la répartition des espèces est influencée, entre autres, par leurs interactions. Il est donc vraisemablable qu'il existe un lien entre la co-occurrence des espèces et leur association biologique. En conséquence, je recherche des méthodes élégantes pour répondre aux questions relatives à ce lien afin de soutenir le dévelopement des modèles émergents de distribution jointe d'espèces qui pourraient, à mon avis, améliorer nos prédictions des changements futurs de biodiversité."
   Abstract_en: "Behind the aesthetic value of Earth's biodiversity, there is one exciting challenge: unravelling the underlying causes of species' geographic distribution. Indeed, biogeographers strive to find the set of variables that best explains past and present distribution in order to accurately forecast tomorrow's species occurrences. This understanding is crucial to foresee and control impacts of anthropogenic forcing on biodiversity loss. Beyond classical variables such as temperature, precipitations and edaphic factors, Biogeographers must take evolutionary processes and ecological interactions into account to better estimate future biodiversity at global scale. Working in this context, my Phd thesis project focuses on one particular theoretical issue: the relationship between ecological interactions and species co-occurrence. As theory predicts that species's range limits are affected by many factors including ecological interactions, there must be a link between co-occurrence of species and their biological association. Therefore I search for elegant methods to address questions pertaining to this link in order to sustain the development of emerging joint species distribution models, which I think could improve our predictions of future changes in biodiversity."
@@ -126,7 +125,7 @@
   Website: kevincazelles.fr
   Image: kev.jpg
 
--
+- 
   key: 12
   Name: Kevin
   LastName: Solarik
@@ -194,7 +193,7 @@
   Abstract_fr: "En milieu forestier, plus de 80 % du matériel végétal n’est pas consommé par les herbivores et doit être décomposé pour permettre le recyclage des nutriments. Malgré l’importance de ce processus, l’écosystème de la litière forestière est sous-étudié comparativement à l’écosystème au-dessus du sol. De ce fait, plusieurs aspects de la décomposition demeurent mal compris. Dans cette thèse, différentes hypothèses seront testées avec l’objectif de mieux comprendre comment les communautés d’arthropodes du sol sont structurées et comment celles-ci influencent la vitesse de décomposition de la litière forestière. En utilisant une approche basée sur les traits fonctionnels, je propose d’étudier : 1) les règles d’assemblage des espèces d’arthropodes; 2) la corrélation entre la diversité des différents niveaux trophiques (végétation, décomposeur, prédateur); et 3) l’impact de la diversité des prédateurs sur la décomposition. "
   Image: unknown.jpg
 
--
+- 
   key: 9
   Name: Timothée
   LastName: Poisot
@@ -208,7 +207,7 @@
   Email: tim@poisotlab.io
   Image: tim.jpg
 
--
+- 
   key: 10
   Name: Camille
   LastName: Albouy
@@ -221,7 +220,7 @@
   Email: albouycamille@gmail.com
   Image: camille.png
 
--
+- 
   key: 13
   Name: Matthew
   LastName: Talluto
@@ -234,7 +233,7 @@
   Email: mtalluto@gmail.com
   Image: Matt.jpg
 
--
+- 
   key: 11
   Name: Isabelle
   LastName: Boulangeat
@@ -248,7 +247,7 @@
   Github: iboulangeat
   Image: isaB.jpg
 
--
+- 
   key: 17
   Name: Isabelle
   LastName: Gounand
@@ -261,8 +260,8 @@
   Website: isabellegounand.wordpress.com
   Email: Isabelle.Gounand@eawag.ch
   Image: isa.jpg
-
--
+  
+- 
   key: 18
   Name: Sarah
   LastName: Gray
@@ -273,7 +272,7 @@
   Supervisor: Dominique Gravel
   Image: unknown.jpg
 
--
+- 
   key: 19
   Name: Eric
   LastName: Harvey
@@ -284,8 +283,8 @@
   Supervisor: Dominique Gravel
   Email: eric.harvey(at)eawag.ch
   Image: erich.jpg
-
--
+  
+- 
   key: 20
   Name: Renaud
   LastName: McKinnon
@@ -296,3 +295,4 @@
   Supervisor: Dominique Gravel
   Email: renaud.mckinnon@gmail.com
   Image: kinnon.jpg
+
