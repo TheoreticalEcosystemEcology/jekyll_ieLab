@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,600italic,400italic,100,100italic,300,300italic,600,700,700italic|Ubuntu:400,300,300italic,400italic,500,500italic,700,700italic);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900);
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans:400,100,200,300,500,600,700,800,900);
 
 .row
 {
@@ -43,17 +43,18 @@ body {
 }
 
 h1,h2 {
-  font-family: 'Ubuntu', sans-serif;
-  font-weight: 500;
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 700;
   font-size: 25px;
 }
 
 h2 {
   padding-top: 25px;
+  font-size: 24px;
 }
 
 h3 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Fira Sans', sans-serif;
   font-weight: 400;
   padding-top: 20px;
   font-size:21px;
@@ -61,13 +62,13 @@ h3 {
 }
 
 h4,h5,h6 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Fira Sans', sans-serif;
   font-weight: 200;
   margin-bottom: 18px;
 }
 
 p {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Fira Sans', sans-serif;
   font-weight: 400;
   text-align: justify;
   font-size: 14px;
@@ -76,7 +77,7 @@ p {
 }
 
 ul {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Fira Sans', sans-serif;
   font-weight: 400;
   text-align: justify;
   font-size: 16px;
@@ -95,14 +96,14 @@ img {
 
 
 footer {
-  font-family: 'Raleway', sans-serif;
-  font-weight: 300;
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 400;
   font-size: 13px;
   min-height: 200px;
   color: rgb(255, 255, 255);
   margin: auto;
   max-width: 65rem;
-  background-color:#222222;
+  background-color:#404040;
 }
 
 .circular {
@@ -170,7 +171,7 @@ footer {
   background-color: #e0e0e0;
   background-image: none;
   background-repeat: repeat;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Fira Sans', sans-serif;
   background-attachment: scroll;
   background-position: 0% 0%;
   background-clip: border-box;
@@ -186,7 +187,7 @@ footer {
 /* Line 2092 */
 .top-bar-section li:not(.has-form) a:not(.button)
 {
-  background-color: #222222;
+  background-color: #404040;
   background-image: none;
   background-repeat: repeat;
   background-attachment: scroll;
@@ -199,13 +200,15 @@ footer {
   padding-right: 0.9375rem;
   padding-bottom: 0px;
   padding-left: 0.9375rem;
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 500;
 }
 
 
 /* Line 1963 */
 .top-bar-section ul li.active > a:hover
 {
-  background-color: #222222;
+  background-color: #404040;
   background-image: none;
   background-repeat: repeat;
   background-attachment: scroll;
@@ -214,12 +217,14 @@ footer {
   background-origin: padding-box;
   background-size: auto auto;
   color: #ffffff;
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 500;
 }
 
 /* Line 2096 */
 .top-bar-section li:not(.has-form) a:hover:not(.button)
 {
-  background-color: #222222;
+  background-color: #404040;
   background-image: none;
   background-repeat: repeat;
   background-attachment: scroll;
@@ -227,12 +232,14 @@ footer {
   background-clip: border-box;
   background-origin: padding-box;
   background-size: auto auto;
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 500;
 }
 
 /* Line 2099 */
 .top-bar-section li.active:not(.has-form) a:not(.button)
 {
-  background-color: rgb(224, 188, 0);
+  background-color: rgb(232, 188, 0);
   background-image: none;
   background-repeat: repeat;
   background-attachment: scroll;
@@ -240,27 +247,31 @@ footer {
   background-clip: border-box;
   background-origin: padding-box;
   background-size: auto auto;
-  color: #222222;
+  color: #404040;
   line-height: 2.8125rem;
   padding-top: 0px;
   padding-right: 0.9375rem;
   padding-bottom: 0px;
   padding-left: 0.9375rem;
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 500;
 }
 
 .top-bar {
-    background: #222222;
+    background: #404040;
     height: 2.8125rem;
     line-height: 2.8125rem;
     margin-bottom: 0;
     overflow: hidden;
     position: relative;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 500;
 }
 
 /* Line 2104 */
 .top-bar-section li.active:not(.has-form) a:hover:not(.button)
 {
-  background-color: rgb(224, 188, 0);
+  background-color: rgb(232, 188, 0);
   background-image: none;
   background-repeat: repeat;
   background-attachment: scroll;
@@ -269,6 +280,8 @@ footer {
   background-origin: padding-box;
   background-size: auto auto;
   color: #ffffff;
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 500;
 }
 
 /* Line 3470 */
@@ -280,5 +293,5 @@ a
 /* Line 3474 */
 a:hover, a:focus
 {
-  color: rgb(210, 139, 0);
+  color: rgb(232, 188, 0);
 }

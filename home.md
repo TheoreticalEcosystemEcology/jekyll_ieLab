@@ -17,8 +17,7 @@ weight: 1
   </div>
   <div class="large-5 columns">
   <p>
-  <b>Contact</b> <br>
-  Dominique Gravel, Associate Professor <br>
+  <b>Dominique Gravel</b>, Associate Professor <br>
   Canada Research Chair on Integrative ecology <br>
   Département de biologie, Faculté des Sciences<br>
   Université de Sherbrooke<br>
