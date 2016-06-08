@@ -41,7 +41,7 @@ weight: 5
     <img src="/assets/img/members/{{ member.Image }}" alt="{{ member.Name }}" class="circular" />
   </div>
   <div class="large-9 columns text-left">
-    <h5 style="font-weight:600;"> {{ member.Name }} {{ member.LastName }}  <br> <span style="font-weight:400;font-size:15px;margin-top:20px;">{{ member.Status }} ({{ member.Year_start }}-{{ member.Year_finish }})</span> </h5>
+    <h5 style="font-weight:600;"> {{ member.Name }} {{ member.LastName }}  <br> <span style="font-weight:400;font-size:15px;margin-top:20px;">{{ member.Status }} ({%if member.Year_start != blank %}{{ member.Year_start }}-{% endif %}{{ member.Year_finish }})</span> </h5>
     <h6 style="font-weight:600;">{%if member.Title_en != blank %} {{ member.Title_en}} {% else %} {{ member.Title_fr}} {% endif %}</h6>
     <h6 style="font-weight:600;font-size:14px;"> Supervisor(s): <span style="font-weight:400;font-size:14px;"> {{ member.Supervisor }},   {{ member.CoSupervisor }}</span></h6>
     <p style="text-align:right;margin-right:25px;">
