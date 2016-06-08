@@ -36,10 +36,11 @@ weight: 10
   <img src="/assets/img/book.png"  style="width:40%" align="right" alt="git" >
   </div>
   <div class="large-7 columns" style="margin-top:30px">
-  <h2>Lab Book</h2>
+  <a href="https://ielab-o.dbio.usherbrooke.ca"><h2>Lab Book</h2></a> 
   <p>
   Tutorials, Tips and Tricks <br>
-  <a href="#"><i>Coming soon...</i></a> 
+  <a href="https://ielab-g.dbio.usherbrooke.ca/ielab/Docs/wikis/home"><i>https://ielab-g.dbio.usherbrooke.ca/ielab/Docs/wikis/home</i></a> <br>
+  <b>Login required</b>
   </p>
   </div>
 </div>
