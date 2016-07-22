@@ -22,7 +22,7 @@ scholar:
   order: reverse
 
   source: _bibliography
-  bibliography: publi_lab.bib
+  bibliography: labo.bib
   bibliography_template: bib
 
   replace_strings: true

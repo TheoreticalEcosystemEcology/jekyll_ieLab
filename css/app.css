@@ -11,6 +11,14 @@
   width: 100%;
 }
 
+
+pre {
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+}
+
 .contain-to-grid .top-bar{
   margin-top: 0px;
   margin-right: none;

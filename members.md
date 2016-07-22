@@ -54,7 +54,7 @@ weight: 5
       <a href="http://{{ member.Website }}/"> <i class="step fi-web" style="font-size: 30px;"></i>
       </a> {% endif %}
     </p>
-
+    
     <dl class="accordion" data-accordion>
       <dd class="accordion-navigation">
         <a href="#panel{{ member.key }}a" style="font-weight:600;">Research project</a>
@@ -64,6 +64,8 @@ weight: 5
           </p>
         </div>
       </dd>
+    
+      
       <dd class="accordion-navigation">
         <a href="#panel{{ member.key }}b" style="font-weight:600;">Publications</a>
         <div id="panel{{ member.key }}b" class="content">
