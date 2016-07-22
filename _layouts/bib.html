@@ -2,16 +2,15 @@
 layout: default
 ---
 
-{{ reference | replace_first: 'D. Gravel', '<b>D. Gravel</b>' | replace_first: 'Gravel, D.', '<b>Gravel, D.</b>' }}
-  
+<li>{{ reference | replace_first: 'D. Gravel', '<b>D. Gravel</b>' | replace_first: 'Gravel, D.', '<b>Gravel, D.</b>' }}
 {% if entry.file %}
 <a href="{{ entry.file }}"><span class="round info label">PDF</span></a>
 {% endif %}
 <a href="#" data-reveal-id="bib{{ entry.key }}"><span class="round info label">Bibtex</span></a>
 {% if entry.doi %}
 <a href="http://dx.doi.org/{{ entry.doi }}"><span class=" round info label">DOI</span> </a>
-{% endif %}
-</li> 
+{% endif %}</li> 
+
 
 <div id="bib{{ entry.key }}" class="reveal-modal" data-reveal aria-labelledby="bib{{ entry.key }}" aria-hidden="true" role="dialog">
   <h2 id="bib{{ entry.key }}">BibTeX</h2>
