@@ -6,19 +6,14 @@ weight: 5
 ---
 
 <div class="row">
-  <div class="large-12 columns">
-    <h2> Principal investigator </h2>
-  </div>
-</div>
-
-<div class="row">
   {% for member in site.data.members %}
   {% if member.Status == 'Principal investigator' %}
   <div class="small-6 columns text-right ">
     <img src="/assets/img/members/{{ member.Image }}" alt="{{ member.Name }}" class="circular"/>
   </div>
   <div class="small-6 columns text-left">
-    <h5  style="font-weight:600;"> {{ member.Name }} {{ member.LastName }} </h5>
+    <h5  style="font-weight:600; margin-top:75px;"> {{ member.Name }} {{ member.LastName }} </h5>
+    <p style="margin:0px;padding:0px;" >Principal investigator</p>
   </div>
   {% endif %}
   {% endfor %}
@@ -34,7 +29,7 @@ weight: 5
 {% assign cur_year = site.time | date: '%Y' | times: 1%}
 
 {% for member in  members %}
-{% if member.Status != 'Principal investigator' and member.Year_finish >= cur_year %}
+{% if member.Status != 'Principal investigator' and (member.Year_finish >= cur_year or member.Status == "Professional researcher") %}
 
 <div class="row" style="padding-top:50px;">
   <div class="large-3 columns text-right ">
@@ -43,9 +38,8 @@ weight: 5
   <div class="large-9 columns text-left">
     <h5 style="font-weight:600;"> {{ member.Name }} {{ member.LastName }}  <br> <span style="font-weight:400;font-size:15px;margin-top:20px;">{{ member.Status }} ({%if member.Year_start != blank %}{{ member.Year_start }}-{% endif %}{{ member.Year_finish }})</span> </h5>
     <h6 style="font-weight:600;">{%if member.Title_en != blank %} {{ member.Title_en}} {% else %} {{ member.Title_fr}} {% endif %}</h6>
-    <h6 style="font-weight:600;font-size:14px;"> Supervisor(s): <span style="font-weight:400;font-size:14px;"> {{ member.Supervisor }},   {{ member.CoSupervisor }}</span></h6>
+    {%if member.Supervisor != blank and member.CoSupervisor != blank %} <h6 style="font-weight:600;font-size:14px;"> Supervisor(s): <span style="font-weight:400;font-size:14px;"> {{ member.Supervisor }},   {{ member.CoSupervisor }}</span></h6>{% endif %}
     <p style="text-align:right;margin-right:25px;">
-
       <a href="mailto:{{ member.Email }} "> <i class="step fi-mail" style="font-size: 30px;"></i> </a>
       {%if member.Github != blank %}
       <a href="http://github.com/{{ member.Github }}"> <i class="step fi-social-github" style="font-size: 30px;"></i>
