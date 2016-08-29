@@ -31,7 +31,7 @@
     // value corresponds with the age of the person
     var DIR = '/assets/img/members/';
     nodes = [
-      {id: 1,  shape: 'circularImage',font:{size:20}, image: DIR + 'gravel.png',label:"Dominique Gravel"},
+      {id: 1,  shape: 'circularImage', image: DIR + 'gravel.png',label:"Dominique Gravel"},
       {id: 3,  shape: 'circularImage', image: DIR + 'claire.png',label:"Claire Jacquet"},
       {id: 2,  shape: 'circularImage', image: DIR + 'jo.png',label:"Jonathan Brassard"},
       {id: 4,  shape: 'circularImage', image: DIR + 'steve.png', label:"Steve Vissault"},
@@ -39,13 +39,13 @@
       {id: 6,  shape: 'circularImage', image: DIR + 'idaline.png', label:"Idaline Laigle"},
       {id: 7,  shape: 'circularImage', image: DIR + 'amael.png', label:"Amael Lesquin"},
       {id: 8,  shape: 'circularImage', image: DIR + 'kevin.png', label:"Kevin Solarik"},
-      {id: 9,  shape: 'box',font:{size:18,color:'#fff'},label:"Modelisation"},
-      {id: 10,  shape: 'box',font:{size:18,color:'#fff'},label:"Ecological networks"},
-      {id: 11,  shape: 'box',font:{size:18,color:'#fff'},label:"Biogeography"},
-      {id: 12,  shape: 'box',font:{size:18,color:'#fff'},label:"Forest ecology"},
+      {id: 9,  shape: 'box',font:{color:'#fff'},label:"Modelisation"},
+      {id: 10,  shape: 'box',font:{color:'#fff'},label:"Ecological networks"},
+      {id: 11,  shape: 'box',font:{color:'#fff'},label:"Biogeography"},
+      {id: 12,  shape: 'box',font:{color:'#fff'},label:"Forest ecology"},
       {id: 13,  shape: 'circularImage', image: DIR + 'hedvig.jpg', label:"Hedvig Nenzén"},
       {id: 14,  shape: 'circularImage', image: DIR + 'phdp.jpg', label:"Philippe Desjardins-Proulx"},
-      {id: 15,  shape: 'box',font:{size:18,color:'#fff'},label:"Machine learning"},
+      {id: 15,  shape: 'box',font:{color:'#fff'},label:"Machine learning"},
       {id: 16,  shape: 'circularImage', image: DIR + 'az.jpg', label:"Azenor Bideault"},
       {id: 17,  shape: 'circularImage', image: DIR + 'David.jpg', label:"David Beauchesne"},
       {id: 18,  shape: 'circularImage', image: DIR + 'raph.jpg', label:"Raphaël Aussenac"},
@@ -105,16 +105,6 @@
     var options = {
       height: '100%',
       width: '100%',
-      layout: {
-        randomSeed: 605,
-        improvedLayout:true,
-        hierarchical: {
-          enabled:false,
-          levelSeparation: 150,
-          direction: 'UD',   // UD, DU, LR, RL
-          sortMethod: 'hubsize' // hubsize, directed
-        },
-      },
       interaction:{
         dragNodes:true,
         dragView: false,
@@ -126,14 +116,10 @@
       },
       nodes: {
         borderWidth:4,
-        size:50,
+        size:35,
         shadow:true,
-        scaling: {
-          min:50,
-          max:50,
-        },
         font: {
-          size: 18,
+          size: 15,
           color:'dark',
           face:'Fira Sans',
         },
@@ -152,17 +138,9 @@
         dashes:true,
       },
       physics:{
-        repulsion: {
-          centralGravity: 0.2,
-          springLength: 200,
-          springConstant: 0.05,
-          nodeDistance: 300,
-          damping: 0.09
-        },
         barnesHut: {
-          gravitationalConstant: -4000,
-          springLength: 300
-        }
+          avoidOverlap: 0.2
+        },
       }
     };
     network = new vis.Network(container, data, options);
