@@ -3,8 +3,11 @@
   Title: Compléxité et stabilité en écologie
   Abstract:  Discussion sur le concept de stabilité en écologie, et en particulier sur la relation entre stabilité et complexité des écosystèmes. Je vais faire un bref rappel de la technique d'analyse de stabilité locale, et après nous aurons une discussion sur un papier que nous venons de publier sur le test de l'hypothèse de Robert May. J'ai aussi attaché un review récent sur les différentes approches pour mesurer la stabilité.
   Documents: { Donohue2013.pdf, Jacquet2016.pdf }
-- Presenter: Indéterminé
+- Presenter: Raphaël Aussenac
   Date: 24 octobre 2016
+  Title: Les algorithmes génétiques (GA)
+  Abstract: Les GA s'inspirent des principes de l'évolution des organismes (sélection, croisement, mutation et migration) et permettent de résoudre des problèmes d'optimisation. Pour alimenter notre discussion, je joins l'article présentant le package R "GA". On y trouve une présentation très didactique du fonctionnement des GA ainsi que des exemples.
+  Documents: { GA_article.pdf }
 - Presenter: Steve Vissault
   Date: 14 Novembre 2016
 - Presenter: Amaël Lesquin

@@ -10,11 +10,11 @@ weight: 4
 
 ### In review
 
-<ol>{% bibliography --query @*[status = review] %}</ol>
+<ol>{% bibliography --query @unpublished[] %}</ol>
 
 ### In press
 <ol>
-{% bibliography --query @*[status = press] %}
+{% bibliography --query @inpress[] %}
 </ol>
 
 ### Published
@@ -24,6 +24,6 @@ weight: 4
 {% for pub_year in (2006..act_year) reversed %}
   <h3 style="text-align:right;"> {{ pub_year }} </h3>
   <ol>
-  {% bibliography --query @*[year = {{ pub_year }} && status != review && status != press]  %}
+  {% bibliography --query @article[year = {{ pub_year }}]  %}
   </ol>
 {% endfor %}

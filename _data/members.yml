@@ -197,6 +197,7 @@
 - 
   Email: mtalluto@gmail.com
   Image: Matt.jpg
+  Github: mtalluto
   LastName: Talluto
   Name: Matthew
   Position: "Post-Doc at LECA (Prof. Dr. Thuiller)"
@@ -336,11 +337,13 @@
   key: 24
 - 
   Email: steve.vissault@usherbrooke.ca
+  Github: steveviss
+  Website: steveviss.github.io
   Image: steve.png
   LastName: Vissault
   Name: Steve
   Status: "Professional researcher"
-  Title_en: "Database manager and scientific programmer"
+  Title_en: "Database manager and scientific programer"
   Year_start: 2016
   key: 25
 - 
