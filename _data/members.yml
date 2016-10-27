@@ -380,3 +380,18 @@
   Year_start: 2011
   key: 28
 
+- 
+ Image: unknown.jpg
+ key: 29
+ Status: Post-Doc
+ Name: Guillaume
+ LastName: Blanchet
+ Year_start: 2016
+ Year_finish: 2017
+ Supervisor: Dominique Gravel
+ Title_en: Linking community ecology theory with new developments in statistical modelling 
+ Title_fr: Développer des liens avec les théories en écologie des communautés et les récents développements en modélisation statistique
+ Abstract_fr: Depuis les dernières années, il y a eu une explosion dans le développement de techniques statistiques spécialement conçu pour approcher différents problèmes en écologie des communautés. On appelle ces techniques les modèles de distribution jointe d'espèces (joint species distribution models). Ces développements proviennent principalement de mathématiciens et de statisticiens ayant un intérêt pour les problèmes écologiques, mais qui ont rarement une formation spécialisée en écologie. Pour cette raison, plusieurs des techniques proposées jusqu'à maintenant ne font que très peu de liens avec les théories développées en écologies des communautés. Pour mon stage postdoctoral, je vais développer les liens qui unissent les théories en écologie des communautés et les modèles de distribution jointe d'espèces. En développant ces liens, il deviendra possible de mieux connaître les lacunes dans les modèles de distribution jointes d'espèces et ainsi permettre de proposer des lignes directrices pour les prochains développements de méthodes statistiques. De plus, une meilleure connaissance des liens qui unissent les modèles de distribution jointe d'espèces et les théories écologiques peut aider les écologistes à mieux comprendre les avenues qui peuvent être approchées avec ces nouvelles méthodes et ainsi raffiner les connaissances en écologie des communautés.
+ Abstract_en: In recent years, there was an explosion in the development of statistical techniques especially designed to approach various problems in community ecology. These new techniques are often referred to as joint species distribution models. These developments came mainly from mathematicians and statisticians who have an interest in ecological problems but that rarely have formal training in ecology.  For this reason, many of the techniques proposed until now make few links with the theories in community ecology. For my postdoctoral fellowship, I will develop the links that relates the theories in community ecology and joint species distribution models. By developing these links, it will become possible to highlight the shortcomings in joint species distribution models and thus direct the developments of novel statistical methods. In addition, a better understanding of the link between ecological theory and joint species distribution models will help ecologists better understand the direction that can be taken with these new technical developments to refine the knowledge in community ecology.
+ Github: guiblanchet
+ Email: guillaume.blanchet@usherbrooke.ca
