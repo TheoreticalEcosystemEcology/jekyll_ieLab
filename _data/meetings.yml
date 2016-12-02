@@ -8,7 +8,12 @@
   Title: Les algorithmes génétiques (GA)
   Abstract: Les GA s'inspirent des principes de l'évolution des organismes (sélection, croisement, mutation et migration) et permettent de résoudre des problèmes d'optimisation. Pour alimenter notre discussion, je joins l'article présentant le package R "GA". On y trouve une présentation très didactique du fonctionnement des GA ainsi que des exemples.
   Documents: { GA_article.pdf }
-- Presenter: Steve Vissault
-  Date: 14 Novembre 2016
 - Presenter: Amaël Lesquin
+  Date: 14 Novembre 2016
+  Title: Validation de modèles en écologie
+  Abstract: Actuellement, les modèles mathématiques sont de plus en plus utilisés en écologie. Cependant leur interprétation n'est pas forcément simple et leur adéquation avec la réalité difficile à évaluer. Je vous propose ici une discussion sur les termes utilisés en modélisation et par les autorités gouvernementales (notamment vérification, validation, et confirmation) basée sur l'article de Naomie Oreskes (1994). Si nous avons le temps, je vous expliquerais ensuite l'analyse dimensionnelle qui permet d'aborder plus facilement un modèle.
+  Documents: { Oreskes1994.pdf }
+- Presenter: Guillaume Blanchet
+  Title: Atelier d'introduction sur la création de package R en écologie.
   Date: 5 Décembre 2016
+  Documents: { Hornik2012.pdf }
