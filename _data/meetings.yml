@@ -1,19 +1,26 @@
-- Presenter: Dominique Gravel
-  Date: 26 septembre 2016
-  Title: Compléxité et stabilité en écologie
-  Abstract:  Discussion sur le concept de stabilité en écologie, et en particulier sur la relation entre stabilité et complexité des écosystèmes. Je vais faire un bref rappel de la technique d'analyse de stabilité locale, et après nous aurons une discussion sur un papier que nous venons de publier sur le test de l'hypothèse de Robert May. J'ai aussi attaché un review récent sur les différentes approches pour mesurer la stabilité.
-  Documents: { Donohue2013.pdf, Jacquet2016.pdf }
-- Presenter: Raphaël Aussenac
-  Date: 24 octobre 2016
-  Title: Les algorithmes génétiques (GA)
-  Abstract: Les GA s'inspirent des principes de l'évolution des organismes (sélection, croisement, mutation et migration) et permettent de résoudre des problèmes d'optimisation. Pour alimenter notre discussion, je joins l'article présentant le package R "GA". On y trouve une présentation très didactique du fonctionnement des GA ainsi que des exemples.
-  Documents: { GA_article.pdf }
-- Presenter: Amaël Lesquin
-  Date: 14 Novembre 2016
-  Title: Validation de modèles en écologie
-  Abstract: Actuellement, les modèles mathématiques sont de plus en plus utilisés en écologie. Cependant leur interprétation n'est pas forcément simple et leur adéquation avec la réalité difficile à évaluer. Je vous propose ici une discussion sur les termes utilisés en modélisation et par les autorités gouvernementales (notamment vérification, validation, et confirmation) basée sur l'article de Naomie Oreskes (1994). Si nous avons le temps, je vous expliquerais ensuite l'analyse dimensionnelle qui permet d'aborder plus facilement un modèle.
-  Documents: { Oreskes1994.pdf }
-- Presenter: Guillaume Blanchet
-  Title: Atelier d'introduction sur la création de package R en écologie.
-  Date: 5 Décembre 2016
-  Documents: { Hornik2012.pdf }
+- Presenter: David Beauchesne
+  Date: 27 Février 2017
+  Title: Un algorithme d'apprentissage pour prédire les interactions biotiques dans des environnements pauvres en données.
+  Abstract: Je vais présenter les rouages d'une approche méthodologique que nous avons récemment développée permettant de prédire la structure des réseaux d'interactions biotiques dans les milieux où peu de données sont disponibles. Nous discuterons ensuite des limites de la méthodologie, des applications potentielles en écologie et l'utilisation des algorithmes d'apprentissages en général en écologie.
+  Documents: { Beauchesne2017.pdf }
+
+# Archive Automne 2016
+# - Presenter: Dominique Gravel
+#   Date: 26 septembre 2016
+#   Title: Compléxité et stabilité en écologie
+#   Abstract:  Discussion sur le concept de stabilité en écologie, et en particulier sur la relation entre stabilité et complexité des écosystèmes. Je vais faire un bref rappel de la technique d'analyse de stabilité locale, et après nous aurons une discussion sur un papier que nous venons de publier sur le test de l'hypothèse de Robert May. J'ai aussi attaché un review récent sur les différentes approches pour mesurer la stabilité.
+#   Documents: { Donohue2013.pdf, Jacquet2016.pdf }
+# - Presenter: Raphaël Aussenac
+#   Date: 24 octobre 2016
+#   Title: Les algorithmes génétiques (GA)
+#   Abstract: Les GA s'inspirent des principes de l'évolution des organismes (sélection, croisement, mutation et migration) et permettent de résoudre des problèmes d'optimisation. Pour alimenter notre discussion, je joins l'article présentant le package R "GA". On y trouve une présentation très didactique du fonctionnement des GA ainsi que des exemples.
+#   Documents: { GA_article.pdf }
+# - Presenter: Amaël Lesquin
+#   Date: 14 Novembre 2016
+#   Title: Validation de modèles en écologie
+#   Abstract: Actuellement, les modèles mathématiques sont de plus en plus utilisés en écologie. Cependant leur interprétation n'est pas forcément simple et leur adéquation avec la réalité difficile à évaluer. Je vous propose ici une discussion sur les termes utilisés en modélisation et par les autorités gouvernementales (notamment vérification, validation, et confirmation) basée sur l'article de Naomie Oreskes (1994). Si nous avons le temps, je vous expliquerais ensuite l'analyse dimensionnelle qui permet d'aborder plus facilement un modèle.
+#   Documents: { Oreskes1994.pdf }
+# - Presenter: Guillaume Blanchet
+#   Title: Atelier d'introduction sur la création de package R en écologie.
+#   Date: 5 Décembre 2016
+#   Documents: { Hornik2012.pdf }
