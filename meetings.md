@@ -21,7 +21,7 @@ L'objectif de ces rencontres est de présenter des avancées numériques et mét
 <div class="small-12 columns">
 <table style="width:100%">
 
-{% for meeting in site.data.meetings %}
+{% for meeting in site.data.meetings reversed %}
 <tr>
 <td style="min-width:150px;"><strong>{{ meeting.Date }}</strong></td>
 <td style="padding-top:20px;"><strong>{{ meeting.Title }}</strong> par {{ meeting.Presenter }}<br>
