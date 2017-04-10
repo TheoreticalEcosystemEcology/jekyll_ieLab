@@ -35,11 +35,6 @@
                     image: DIR + 'gravel.png',
                     label: "Dominique Gravel"
                 }, {
-                    id: 3,
-                    shape: 'circularImage',
-                    image: DIR + 'claire.png',
-                    label: "Claire Jacquet"
-                }, {
                     id: 2,
                     shape: 'circularImage',
                     image: DIR + 'jo.png',
@@ -49,11 +44,6 @@
                     shape: 'circularImage',
                     image: DIR + 'steve.png',
                     label: "Steve Vissault"
-                }, {
-                    id: 5,
-                    shape: 'circularImage',
-                    image: DIR + 'kev.jpg',
-                    label: "Kevin Cazelles"
                 }, {
                     id: 6,
                     shape: 'circularImage',
@@ -142,16 +132,21 @@
                     image: DIR + 'unknown.jpg',
                     label: "Chantal Hutchinson"
                 }, {
-                    id: 22,
-                    shape: 'circularImage',
-                    image: DIR + 'unknown.jpg',
-                    label: "Pierre-Marc Brousseau"
-                }, {
                     id: 23,
                     shape: 'circularImage',
                     image: DIR + 'unknown.jpg',
                     label: "Guillaume Blanchet"
-                }, ];
+                }, {
+                    id: 24,
+                    shape: 'circularImage',
+                    image: DIR + 'willian.jpg',
+                    label: "Willian Vieira"
+                },{
+                    id: 25,
+                    shape: 'circularImage',
+                    image: DIR + 'unknown.jpg',
+                    label: "Stephanie Préfontaine"
+                },];
 
                 // create connections between people
                 // value corresponds with the amount of contact between two people
@@ -171,28 +166,10 @@
                     from: 2,
                     to: 12
                 }, {
-                    from: 3,
-                    to: 11
-                }, {
-                    from: 3,
-                    to: 10
-                }, {
-                    from: 3,
-                    to: 9
-                }, {
                     from: 4,
                     to: 12
                 }, {
                     from: 4,
-                    to: 9
-                }, {
-                    from: 5,
-                    to: 11
-                }, {
-                    from: 5,
-                    to: 10
-                }, {
-                    from: 5,
                     to: 9
                 }, {
                     from: 6,
@@ -249,12 +226,6 @@
                     from: 6,
                     to: 20
                 }, {
-                    from: 22,
-                    to: 20
-                }, {
-                    from: 22,
-                    to: 12
-                }, {
                     from: 21,
                     to: 12
                 }, {
@@ -266,7 +237,16 @@
                 }, {
                     from: 23,
                     to: 9
-                }];
+                }, {
+                    from: 24,
+                    to: 9
+                }, {
+                    from: 24,
+                    to: 12
+                },{
+                    from: 25,
+                    to: 9
+                },];
 
                 // edges = [
                 //   {from: 1, to: 2},
