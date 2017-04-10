@@ -1,7 +1,7 @@
 # Site settings
 title: Integrative ecology Lab
 email: dominique.gravel@usherbrooke.ca
-description: "Integrative Ecology Research laboratory leaded by Dominique Gravel at Sherbrooke University"
+description: "Integrative Ecology Research laboratory led by Dominique Gravel at Sherbrooke University"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ielab.recherche.usherbrooke.ca/" # the base hostname & protocol for your site
 twitter_username: SVissault
