@@ -1,18 +1,24 @@
-- Presenter: David Beauchesne
-  Date: 27 Février 2017
-  Title: Un algorithme d'apprentissage pour prédire les interactions biotiques dans des environnements pauvres en données
-  Abstract: Je vais présenter les rouages d'une approche méthodologique que nous avons récemment développée permettant de prédire la structure des réseaux d'interactions biotiques dans les milieux où peu de données sont disponibles. Nous discuterons ensuite des limites de la méthodologie, des applications potentielles en écologie et l'utilisation des algorithmes d'apprentissages en général en écologie.
-  Documents: { Beauchene2017.pdf }
-- Presenter: Antoine Becker-Scarpitta
-  Date: 20 Mars 2017
-  Title: Les indices d'affinités à la température
-  Abstract: Je vais vous présenter une méthodologie que je veux utiliser dans mon dernier chapitre de thèse. Je calcule des indices d'affinités à certains paramètres climatiques (enveloppe thermique notamment) basés sur des cartes de distribution d'espèce. Pour chaque point d'observation d'une espèce en Amérique du nord on extrait un paramètre climatique. En prenant la médiane de ce paramètre, j'obtiens un "Species index" (e.g. la médiane des températures moyennes annuelles = Species Temperature Index, STI). Par la suite ces indices me permettent de calculer des enveloppes thermiques moyennes d'une communauté (i.e. on pondère le Species temperature index d'une espèce par son abondance relative dans sa communauté ce qui nous donne un Community Temperature Index (CTI). J'aimerai vous présenter mes idées sur ce point et avoir vos retours sur plusieurs questions méthodo sur le calcul de ces indices.
-  Documents: { Sanchez2012.pdf }
-- Presenter: Gabriel Pigeon
-  Date: 10 Avril 2017
-  Title: Les modèles de projections intégrales
-  Abstract: Les modèles de projections intégrales (IPM) sont des outils incroyables pour l'étude de l'écologie des populations. Ces modèles permettent de projeter dans le futur aussi bien la taille de la population que la distribution en trait dans cette population. Les IPMs ont des avantages non négligeables. Ils sont relativement faciles à paramétrer et bâtissent sur toutes les avancées du domaine des modèles matriciels de population. Ces modèles sont donc de plus en plus utilisés. Ils permettent aussi d'inclure l'effet du trait sur la survie et la reproduction. Ces modèles semblent donc destinés à l'étude de l'écologie évolutive et de la dynamique écoévolutive. Leur utilisation dans des contextes évolutifs est pourtant contestée. En effet, les prédictions tirées des IPMs sont souvent en désaccord avec prédictions tirées des méthodes de génétique quantitative.
-  Documents: { Rees2013.pdf, Janeiro2017.pdf }
+- Presenter: Amaël Lesquin
+  Date: 25 september 2017
+  Title: Écologie et écosystèmes bancaires
+  Abstract:
+  Documents: { May2008.pdf, Haldane2011.pdf }
+
+#- Presenter: David Beauchesne
+#  Date: 27 Février 2017
+#  Title: Un algorithme d'apprentissage pour prédire les interactions biotiques dans des environnements pauvres en données
+#  Abstract: Je vais présenter les rouages d'une approche méthodologique que nous avons récemment développée permettant de prédire la structure des réseaux d'interactions biotiques dans les milieux où peu de données sont disponibles. Nous discuterons ensuite des limites de la méthodologie, des applications potentielles en écologie et l'utilisation des algorithmes d'apprentissages en général en écologie.
+#  Documents: { Beauchene2017.pdf }
+#- Presenter: Antoine Becker-Scarpitta
+#  Date: 20 Mars 2017
+#  Title: Les indices d'affinités à la température
+#  Abstract: Je vais vous présenter une méthodologie que je veux utiliser dans mon dernier chapitre de thèse. Je calcule des indices d'affinités à certains paramètres climatiques (enveloppe thermique notamment) basés sur des cartes de distribution d'espèce. Pour chaque point d'observation d'une espèce en Amérique du nord on extrait un paramètre climatique. En prenant la médiane de ce paramètre, j'obtiens un "Species index" (e.g. la médiane des températures moyennes annuelles = Species Temperature Index, STI). Par la suite ces indices me permettent de calculer des enveloppes thermiques moyennes d'une communauté (i.e. on pondère le Species temperature index d'une espèce par son abondance relative dans sa communauté ce qui nous donne un Community Temperature Index (CTI). J'aimerai vous présenter mes idées sur ce point et avoir vos retours sur plusieurs questions méthodo sur le calcul de ces indices.
+#  Documents: { Sanchez2012.pdf }
+#- Presenter: Gabriel Pigeon
+#  Date: 10 Avril 2017
+#  Title: Les modèles de projections intégrales
+#  Abstract: Les modèles de projections intégrales (IPM) sont des outils incroyables pour l'étude de l'écologie des populations. Ces modèles permettent de projeter dans le futur aussi bien la taille de la population que la distribution en trait dans cette population. Les IPMs ont des avantages non négligeables. Ils sont relativement faciles à paramétrer et bâtissent sur toutes les avancées du domaine des modèles matriciels de population. Ces modèles sont donc de plus en plus utilisés. Ils permettent aussi d'inclure l'effet du trait sur la survie et la reproduction. Ces modèles semblent donc destinés à l'étude de l'écologie évolutive et de la dynamique écoévolutive. Leur utilisation dans des contextes évolutifs est pourtant contestée. En effet, les prédictions tirées des IPMs sont souvent en désaccord avec prédictions tirées des méthodes de génétique quantitative.
+#  Documents: { Rees2013.pdf, Janeiro2017.pdf }
 
 # Archive Automne 2016
 # - Presenter: Dominique Gravel

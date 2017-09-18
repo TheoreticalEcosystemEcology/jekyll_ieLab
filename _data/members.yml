@@ -134,7 +134,7 @@
 -
   CoSupervisor: "Catherine Potvin"
   Email: chantal.hutchison@mail.mcgill.ca
-  Image: unknown.jpg
+  Image: chantal.png
   LastName: Hutchison
   Name: Chantal
   Status: "Ph.D. Candidate"
@@ -178,7 +178,7 @@
   Position: "Assistant professor at the University of Montreal"
   Status: Post-Doc
   Supervisor: "Dominique Gravel"
-  Website: timotheepoisot.fr
+  Website: poisotlab.io
   Year_finish: 2013
   Year_start: 2011
   key: 9
@@ -383,7 +383,7 @@
   key: 28
 
 -
- Image: unknown.jpg
+ Image: guillaume.jpeg
  key: 29
  Status: Post-Doc
  Name: Guillaume
@@ -409,16 +409,16 @@
   Status: "Ph.D. Candidate"
   Supervisor: Dominique Gravel
   CoSupervisor: Robert Bradley
-  Title_en: Integrating forest dynamic and management under climate change
+  Title_en: Integrating forest dynamic and forest management under climate change
   Title_fr: Intégrer la dynamique et l’aménagement forestier dans le cadre du changement climatique
   Abstract_en: It is well known that climate change will modify the distribution of trees over the coming decades and many studies have already showed responses for some species. However, the potential of forest management to mitigate climate change impacts on forest dynamics remains poorly understood. The overall goal of my PhD is to develop a decision-make tool to improve management strategies that take climate change into account. I will build a model that represents forest dynamics at different spatial and temporal scales, and the effect of natural and anthropogenic disturbances (e.g. climate change, forest management). The model will be parametrized from a forest inventory database and we will focus on tracking uncertainty using Bayesian methods. By quantifying trees migration rate under climate change in different forest management scenarios, we expect to find a positive effect of forest management on accelerating forest migration towards the north. In addition, we expect a better understanding of the synergetic interactions between human actions and forest dynamics.
-  Website: https://willvieira.github.io
+  Website: willvieira.github.io
   Github: willvieira
   Email: willian.vieira@usherbrooke.ca
   Orcid: 0000-0003-0283-4570
 
 -
-  Image: unknown.jpg
+  Image: Steph.jpg
   key: 31
   Name: Stéphanie
   LastName: Préfontaine
