@@ -16,6 +16,7 @@ library(wordcloud2)
 library(extrafont)
 library(grDevices)
 library(htmlwidgets)
+library(webshot)
 
 # data
   refs <- read.bib(file = "_bibliography/labo.bib")
@@ -81,4 +82,6 @@ wordcloud2(rev(sort(titleKeyw)),
 
 # export
   # html
-saveWidget(my_graph, "keyword_cloud.html", selfcontained = F)
+saveWidget(my_graph, "keyword_cloud.html",libdir='assets/cloud_deps', selfcontained = F)
+system('mv keyword_cloud.html _includes/keyword_cloud.html')
+
