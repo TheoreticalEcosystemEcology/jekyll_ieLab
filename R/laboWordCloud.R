@@ -54,11 +54,18 @@ library(htmlwidgets)
 col1 <- c(rgb(159, 33, 31, maxColorValue = 255), # style 1
           rgb(226, 133, 72, maxColorValue = 255),
           rgb(79, 92, 70, maxColorValue = 255))
+
 col2 <- c(rgb(159, 33, 31, maxColorValue = 255), # style 2
           rgb(79, 92, 70, maxColorValue = 255),
           rgb(231, 187, 42, maxColorValue = 255))
 
-colFunc <- colorRampPalette(col2)
+col3 <- c(rgb(231, 187, 42, maxColorValue = 255), # style 3
+          rgb(79, 92, 70, maxColorValue = 255),
+          rgb(159, 33, 31, maxColorValue = 255))
+
+colFunc <- colorRampPalette(col3)
+
+hoverFunction = htmlwidgets::JS("function hover() {}")
 
 my_graph <-
 wordcloud2(rev(sort(titleKeyw)),
@@ -68,7 +75,8 @@ wordcloud2(rev(sort(titleKeyw)),
                        gridSize = 1,
                        backgroundColor = rgb(255, 255, 255, maxColorValue = 255),
                        rotateRatio = 0,
-                       ellipticity = 0.3
+                       ellipticity = 0.3,
+                       hoverFunction = hoverFunction
 )
 
 # export
