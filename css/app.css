@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,100,200,300,500,600,700,800,900);
 @import url(https://fonts.googleapis.com/css?family=Fira+Sans:400,100,200,300,500,600,700,800,900);
 
 .row
@@ -40,26 +41,26 @@ pre {
 }
 
 body {
-    background: url("/assets/img/Temperate_forest.jpg") no-repeat center center fixed;
+    background: url("/assets/img/Temperate_forest_min.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     width: 100% !important;
     height: 100% !important;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-weight: 400;
 }
 
 ol {
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   text-align: justify;
   font-size: 14px;
 }
 
 h1,h2 {
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   font-size: 25px;
 }
@@ -70,7 +71,7 @@ h2 {
 }
 
 h3 {
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   padding-top: 20px;
   font-size:21px;
@@ -78,13 +79,13 @@ h3 {
 }
 
 h4,h5,h6 {
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 200;
   margin-bottom: 18px;
 }
 
 p {
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   text-align: justify;
   font-size: 14px;
@@ -93,7 +94,7 @@ p {
 }
 
 ul {
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   text-align: justify;
   font-size: 16px;
@@ -112,7 +113,7 @@ img {
 
 
 footer {
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   font-size: 13px;
   min-height: 200px;
@@ -187,7 +188,7 @@ footer {
   background-color: #e0e0e0;
   background-image: none;
   background-repeat: repeat;
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   background-attachment: scroll;
   background-position: 0% 0%;
   background-clip: border-box;

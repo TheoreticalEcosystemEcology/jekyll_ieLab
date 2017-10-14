@@ -44,6 +44,7 @@
   CoSupervisor:   "David Mouillot"
   Email:          claire-jacquet@wanadoo.fr
   Image:          claire.png
+  Position:       Post-Doc at Swiss Federal Institute of Aquatic Science and Technology (Prof. Dr. Florian Altermatt)
   LastName:       Jacquet
   Name:           Claire
   Status:         "Ph.D. Candidate"
@@ -93,6 +94,7 @@
   Image:          hedvig.jpg
   LastName:       Nenzen
   Name:           Hedvig
+  Position: Post-Doc at Northern Forestry Centre (CFS, NRCan)
   Status:         "Ph.D. Candidate"
   Supervisor:     "Dominique Gravel"
   Title_en:       "Space-time interactions in forest metacommunities"
@@ -109,6 +111,7 @@
   Github:         KevCaz
   Image:          kev.jpg
   LastName:       Cazelles
+  Position:       Post-Doc at BioDiversity, BioStructure and Dynamics Lab (Prof. Doc. Kevin McCann)
   Name:           Kevin
   Status:         "Ph.D. Candidate"
   Supervisor:     "Dominique Gravel"
@@ -162,6 +165,7 @@
   CoSupervisor:   "Ira Tanya Handa"
   Image:          unknown.jpg
   LastName:       Brousseau
+  Position:       Post-Doc at UQAM (Prof. Doc. Tanya Handa)
   Name:           Pierre-Marc
   Status:         "Ph.D. Candidate"
   Supervisor:     "Dominique Gravel"
@@ -248,7 +252,7 @@
   Image:          erich.jpg
   LastName:       Harvey
   Name:           Eric
-  Position:       "Ph.D. at Guelph University (Pr. Dr. MacDougall )"
+  Position:       "Ph.D. at Guelph University (Pr. Dr. MacDougall)"
   Status:         "M.Sc. Student"
   Supervisor:     "Dominique Gravel"
   Year_finish:    2011
@@ -273,7 +277,7 @@
   Image:          kinnon.jpg
   LastName:       McKinnon
   Name:           Renaud
-  Position:       "Naval architect"
+  Position:       "Professional researcher at Chaire de recherche du Québec en géoscience côtière (Prof. Dr. Bernatchez, Pascal)"
   Status:         "M.Sc. Student"
   Supervisor:     "Dominique Gravel"
   Year_finish:    2015
