@@ -26,6 +26,6 @@ weight: 1
   </div>
 </div>
 
-<iframe src="/keyword_cloud.html" width="100%" height="250px" frameBorder="0"></iframe> 
+<iframe src="/keyword_cloud.html" width="100%" height="375px" frameBorder="0"></iframe> 
 
 {% include network.html %}
