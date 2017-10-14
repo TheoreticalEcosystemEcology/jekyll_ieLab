@@ -1,23 +1,12 @@
 ---
 layout: default
-title: Papers
+title: Publications
 permalink: /papers/
 weight: 4
 ---
 
 
-## Papers
-
-### In review
-
-<ol>{% bibliography --query @unpublished[] %}</ol>
-
-### In press
-<ol>
-{% bibliography --query @inpress[] %}
-</ol>
-
-### Published
+## Published articles
 
 {% assign act_year = site.time | date: '%Y' %}
 
