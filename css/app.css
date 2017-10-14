@@ -50,6 +50,7 @@ body {
     height: 100% !important;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
+    overflow: auto !important;
 }
 
 ol {

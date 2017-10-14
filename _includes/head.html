@@ -6,7 +6,7 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="author" content="IELab">
   <meta name="keywords" content="{% if page.tags %}{{ page.tags | join: ', ' | escape }}{% else %}{{ site.keys | join: ', ' | escape }}{% endif %}">
-  
+
   <link rel="stylesheet" href="/css/foundation.css"/>
   <link rel="stylesheet" href="/css/foundation-icons.css" />
   <!-- This is how you would link your custom stylesheet -->
@@ -14,5 +14,12 @@
 
 
   <script src="/js/vendor/modernizr.js"></script>
+  <script src="/js/htmlwidgets.js"></script>
+  <link href="/css/wordcloud.css" rel="stylesheet" />
+  <script src="/js/wordcloud2-all.js"></script>
+  <script src="/js/hover.js"></script>
+  <script src="/js/wordcloud2.js"></script>
+
+
 
 </head>

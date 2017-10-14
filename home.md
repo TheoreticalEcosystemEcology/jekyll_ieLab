@@ -26,11 +26,6 @@ weight: 1
   </div>
 </div>
 
-
-<div class="row">
-<div class="large-12 columns">
-    <img src="/assets/img/sarracenie.jpg" alt="pitcher"/>
-</div>
-</div>
+{% include keyword_cloud.html %}
 
 {% include network.html %}
