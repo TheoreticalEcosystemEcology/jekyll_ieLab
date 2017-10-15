@@ -460,10 +460,21 @@
   LastName:     Proulx
   key:          33
   Status:       "M.Sc Candidate"
-  Year_s    tart:    2017
+  Year_start:    2017
   Year_finish:   2019
   Supervisor:   Dominique Gravel
   CoSupervisor: Christine Parent
   Title_fr:     Macro-évolution des réseaux sur les Îles Galapagos
   Title_en:     Macro-evolution of food webs on Galapagos Islands
   Email:        madelaine.proulx@usherbrooke.ca
+  
+- 
+  Image: Chunchaozhu.jpeg
+  Name: Chunchao
+  LastName: Zhu
+  key: 34
+  Status: Visiting Post-Doc
+  Year_start:    2016
+  Year_finish:   2017
+  Supervisor: Fangliang He
+  Email: Chunchao.Zhu@USherbrooke.ca
