@@ -257,7 +257,7 @@
                         font: {
                             size: 15,
                             color: 'dark',
-                            face: 'Fira Sans',
+                            face: 'Open Sans',
                         },
                         color: {
                             border: '#222222',
@@ -277,8 +277,13 @@
                         barnesHut: {
                             avoidOverlap: 0.2
                         },
+                    },
+                    layout: {
+                        randomSeed: 139474,
                     }
                 };
+                
+                
                 network = new vis.Network(container, data, options);
             }
         </script>
