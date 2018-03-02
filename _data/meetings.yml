@@ -1,9 +1,23 @@
-- Presenter: Amaël Lesquin
-  Date: 25 september 2017
-  Title: Écologie et écosystèmes bancaires
-  Abstract:
-  Documents: { May2008.pdf, Haldane2011.pdf }
+- Presenter: François Rousseu
+  Date: 26 Février 2018
+  Title: Débogage de code en R
+  Abstract: Au Midi-numérique de cette semaine, je voudrais aborder les différentes stratégies pour déboguer votre code en R, particulièrement en ce qui a trait au débogage des fonctions. Je parlerai également brièvement des différents outils pour étudier la vitesse d'exécution et la performance de votre code.
+  Documents: Pas de document
 
+- Presenter: Amaël Lesquin
+  Date: 5 Février 2018
+  Title: Valeurs et les vecteurs propres
+  Abstract:
+  Documents: Pas de document
+
+# Archive Automne 2017
+#- Presenter: Amaël Lesquin
+#  Date: 25 september 2017
+#  Title: Écologie et écosystèmes bancaires
+#  Abstract:
+#  Documents: { May2008.pdf, Haldane2011.pdf }
+
+# Archive hiver 2017
 #- Presenter: David Beauchesne
 #  Date: 27 Février 2017
 #  Title: Un algorithme d'apprentissage pour prédire les interactions biotiques dans des environnements pauvres en données
