@@ -1,482 +1,410 @@
----
--
-  Email:          dominique_gravel@uqar.ca
-  Github:         DominiqueGravel
-  Image:          gravel.png
-  LastName:       Gravel
-  Name:           Dominique
-  Status:         "Principal investigator"
-  key:            1
--
+--- 
+- 
+  Email: dominique_gravel@uqar.ca
+  Github: DominiqueGravel
+  Image: gravel.png
+  LastName: Gravel
+  Name: Dominique
+  Status: "Principal investigator"
+  key: 1
+- 
   Abstract_en: "The location of the eastern temperate-boreal forest ecotone is expected to be affected by climate change in the next decades. Several tree species representative of the temperate forest are predicted to move northward (e.g. red and sugar maples) and through the boreal forest. These major biomes host a very contrasted biodiversity and are subject to different ecosystem functioning. Here we ask how fast the location of the ecotone will move under climate change. To explore this question, we develop a transition landscape model based on four forest states: boreal, temperate, mixed and post-disturbance regeneration. The model uses climate-dependent transition probabilities between forest types and incorporates dispersal. We parameterize the model on an extensive database of > 60 000 permanent forest inventory plots widely distributed along a latitudinal gradient in Eastern North America, from Maine state (US) to north Canada (52°N). We find that the observed transitions between the different states successfully predict the location of the ecotone. The model predicts a slight northward shift of the ecotone. We find that the slow demography will constrains the temperate forest migration and consequently generate a significant lag between the potential distribution of the temperate forest and his observed distribution. Our results also highlight the limits of the climate as only predictor of the future distribution of forests at the ecotone. Our modelling approach solve several issues of the more traditional species distribution models with explicit consideration of biotic interactions, demography and dispersal."
-  CoSupervisor:   "Isabelle Boulangeat & Matt Talluto"
-  Email:          s.vissault@yahoo.fr
-  Github:         SteveViss
-  Image:          steve.png
-  LastName:       Vissault
-  Name:           Steve
-  Position:       "Professional researcher at IELab"
-  Status:         "M.Sc. Student"
-  Supervisor:     "Dominique Gravel"
-  Title_en:       "Simulate the Eastern Boreal-Temperate forests ecotone under Climate Change"
-  Website:        steveviss.github.io
-  Year_finish:    2015
-  Year_start:     2013
-  key:            2
--
+  CoSupervisor: "Isabelle Boulangeat & Matt Talluto"
+  Email: s.vissault@yahoo.fr
+  Github: SteveViss
+  Image: steve.png
+  LastName: Vissault
+  Name: Steve
+  Position: "Professional researcher at IELab"
+  Status: "M.Sc. Student"
+  Supervisor: "Dominique Gravel"
+  Title_en: "Simulate the Eastern Boreal-Temperate forests ecotone under Climate Change"
+  Website: steveviss.github.io
+  Year_finish: 2015
+  Year_start: 2013
+  key: 2
+- 
   Abstract_en: "In the framework of forest dynamics, many studies showed that to understand species distribution, it is important to take into account biotic and abiotic conditions as well as dispersal phenomenon. We would like to understand what are the most important drivers determining tree's dispersal including inter/intra-species interactions and climatic conditions.  Nowadays, models are wide-spread in ecology to investigate dispersion and species distribution. In this Ph.D we use the McKendrick-von Foerster equations that we have spatialised. These equations determine forest dynamics (growth, renewal, mortality and seed dispersal). The first three components are affected by light availability. It is determined through perfect plasticity approximation, a threshold equation from N. Strigul et. al. (2008). Dispersal is assessed thanks to a dispersal kernel.  We expect that fecundity and long-dispersal distance (from the kernel) are the most influential parameters on migration rates. We also expect to extract some results from travelling waves, that are particular solutions. Eventually, we will investigate on a real case: sugar maple (Acer saccharum) and balsam fir (Abies balsamea).\n"
-  Abstract_fr:    "Dans le cadre de la dynamique forestière, plusieurs études ont montré que pour comprendre la distribution des espèces il est important de prendre en compte les conditions biotiques, abiotiques ainsi que les phénomènes de dispersion. Notre but est d'avoir une meilleure compréhension des facteurs régissant la dispersion des arbres en prenant notamment en compte les intéractions inter/intra-espèce et les conditions climatiques. L’utilisation de modèles est maintenant assez répandue pour explorer la dispersion et les possibles futures distributions des espèces. Nous utilisons dans cette thèse les équations de McKendrick-von Foerster que nous avons spatialisées. Ces équations régissent la dynamique forestière (croissance, renouvellement et mortalité des arbres ainsi que la dispersion de graines). Les trois premières composantes de la dynamique forestière sont affectées (dans notre cas) par la quantité de lumière. Il y a plusieurs algorithmes de calculs pour déterminer la lumière disponible, nous utilisons ici la perfect plasticity approximation (N. Strigul et. al., 2008). La dispersion est modélisée par une fonction dite \"dispersal kernel\". Les résultats attendus sont la mise en valeurs des paramètres les plus influant sur le taux de migration; hypothétiquement (i) la fécondité et (ii) les paramètres du kernel régissant la dispersion longue distance. Nous espérons aussi extraire des résultats analytiques sur les taux de migration via des solutions particulières nommées \"travelling waves\". Nous appliquerons ces résultats à la migration de l'érable à sucre (Acer saccharum) parmis le sapin baumier (Abies balsamea)."
-  CoSupervisor:   "Isabelle Boulangeat & Nikolay Strigul"
-  Email:          amael.lesquin@gmail.com
-  Github:         amaelGithub
-  Image:          amael.png
-  LastName:       Lesquin
-  Name:           Amael
-  Status:         "Ph.D. Candidate"
-  Supervisor:     "Dominique Gravel"
-  Title_en:       "Theoretical investigation on trees’ migration rates"
-  Title_fr:       "Etude théorique des taux de migration des arbres"
-  Year_finish:    2018
-  Year_start:     2014
-  key:            3
--
-  Abstract_en:    "My main project is to predict the effect of species spatial dynamics on food web structure and resilience, with the integration of metabolic theory, food web ecology and macroecology within a common framework. I use species body mass and allometric relationships as a cornerstone to achieve this objective. I combine this theoretical approach to the analysis of global marine databases, in order to model the effect of ocean acidification and overfishing on the structure and stability of marine food webs."
-  CoSupervisor:   "David Mouillot"
-  Email:          claire-jacquet@wanadoo.fr
-  Image:          claire.png
-  Position:       Post-Doc at Swiss Federal Institute of Aquatic Science and Technology (Prof. Dr. Florian Altermatt)
-  LastName:       Jacquet
-  Name:           Claire
-  Status:         "Ph.D. Candidate"
-  Supervisor:     "Dominique Gravel"
-  Title_en:       "Theoretical integration of biogeography and ecosystem functioning"
-  Title_fr:       "Intégration théorique de la biogéographie et du fonctionnement des écosystèmes"
-  Website:        clairejacquet.weebly.com
-  Year_finish:    2016
-  Year_start:     2012
-  key:            4
--
-  Abstract_en:    "My thesis focuses on a problem called transfer learning, which in layman's terms could be described as the capacity to automatically transfer knowledge between different tasks. It comes naturally to us, e.g. we use what we learned for walking when learning to run, but almost all machine learning algorithms build models from nothing. It is especially important in statistical relational learning, where learning a model from data is hard, often impossible, due to the number of possibilities. I hope to apply these new techniques to ecology, which has struggled to find integrative (and predictive) models of biodiversity."
-  CoSupervisor:   "Timothée Poisot"
-  Email:          philippe.desjardins.proulx@usherbrooke.ca
-  Github:         PhDP
-  Image:          phdp.jpg
-  LastName:       Desjardins-Proulx
-  Name:           Philippe
-  Status:         "Ph.D. Candidate"
-  Supervisor:     "Dominique Gravel"
-  Title_en:       "Knowledge Transfer in Statistical Relational Learning with Applications to Theoretical Ecology"
-  Website:        phdp.github.io
-  Year_finish:    2017
-  Year_start:     2012
-  key:            5
--
-  Abstract_en:    "Synthesizing the diversity of responses of the different organisms of a community into global patterns that capture the relevance of those changes to ecosystem processes is a major challenge in biodiversity science. One approach for capturing multiple taxa and their associated processes is to consider ecological communities as networks of interacting species and processes (Reiss et al. 2010). The goal of Idaline’s project is to develop a new multi-trophic way of assessment of community responses to disturbances. This method will be applied to the problematic of forest biomass removals in the context of bioenergy. In this project, we will first describe this ecological network using a theoretical model adapted to the context of biomass removal. To understand the food web functioning, a theoretical model of the soil food web will be created taking into account the vegetation, the fauna, and the microbes. The species composing the model will be chosen according to the species inventoried by the collaborators in the experimental site. One of the main problems in developing soil food webs model is to assess the interactions between the species, because we lack a lot of informations about species diet. That's why we will use, in an original and mechanistic way, species traits matching to infer the interactions. With this model we can do simulations of functional groups removals and calculate metrics that represent the network functions. We can then know what are the keystone species that maintain particular functions, or umbrella species on which numerous species depend. In the last chapter of this project, key taxa response, their interactions and their impacts on important ecosystem processes will be integrated within a response and effect traits framework. The theoretical knowledge developed in the 1st component will be used as framework to help understand patterns observed in the field."
-  Abstract_fr:    "L’utilisation croissante des ressources naturelles dans un but de production d’énergie requiert une évaluation de leur conséquences sur le maintient de l’intégrité écologique des écosystèmes. C’est dans cet objectif que s’inscrit ce projet. Plus précisément son but sera d’évaluer l’impact des prélèvements de biomasse forestière pour la bioénergie sur la biodiversité, et les processus des écosystèmes forestiers. Le projet se basera sur des études empiriques qui seront réalisées sur des parcelles forestières de pin gris (Pinus banksiana), suivant un gradient d'intensité de récolte de biomasse. L’objectif de la thèse sera de développer des indices de diversité fonctionnelle pour les réseaux d’interactions dans les sols. Il permettra alors d’estimer son fonctionnement, à partir des données récoltées sur le terrain et d’un modèle théorique. La modélisation de la dynamique des sols forestiers, fondée sur les interactions trophiques et le cycle des nutriments sera créée dans la première étape de la thèse. A l’aide de simulations de gradients de biodiversité et de diversité fonctionnelle, ce modèle mettra en évidence les processus de l’écosystème, et les traits de chaque taxon les plus affectés par les prélèvements. Dans la deuxième étape de la thèse j’intègrerai à ce modèle les données empiriques pour faire une analyse approfondie de l’écosystème."
-  CoSupervisor:   "Isabelle Aubin"
-  Email:          idaline.laigle@gmail.com
-  Github:         idaline
-  Image:          idaline.png
-  LastName:       Laigle
-  Name:           Idaline
-  Status:         "Ph.D. Candidate"
-  Supervisor:     "Dominique Gravel"
-  Title_en:       "Integrative evaluation of forest biomass removals for bio-energy, on biodiversity and ecosystems functioning."
-  Title_fr:       "Evaluation intégrée des impacts des prélèvements de biomasse forestière pour la bioénergie sur la biodiversité et le fonctionnement des écosystèmes."
-  Year_finish:    2017
-  Year_start:     2012
-  key:            6
--
-  Abstract_en:    "Understanding the processes that underlie observed outbreak patterns is key to developing efficient management strategies for species fluctuations such as destructive forest pest outbreaks. Yet, despite many empirical and modelling studies of species fluctuations, the roles of extrinsic and intrinsic factors along with their interaction in driving large-scale, multi-year outbreaks, is still not understood. It is important to test the roles of spatial and temporally autocorrelated environmental variation in both a statistical and process-based model. I develop a novel analysis and model to understand how dispersal and autocorrelated environmental variables relate to large-scale outbreaks. Existing models are often scaled to local-scale population dynamics, that offer limited insight into landscape-scale outbreaks. To create the process-based model needed, while obtaining parameters from spatio-temporal landscape outbreak data, we change the model scale to reflect insect disturbance instead of insect densities. We use as example species one of the most studied and widespread insect pests, the spruce budworm, whose defoliation distribution during one outbreak cycle and the start of a second outbreak has been mapped for 46 years in Quebec, Canada. We estimate effects of climate on both defoliation and dieback forest transitions. Spatial data allows us to quantify defoliation spread, and to discriminate between the effects of local dispersal and climate on outbreaks. Then, in simulations we randomize the climate predictions in space and time to identify the effect of spatio-temporal climate autocorrelation on outbreaks."
-  CoSupervisor:   "Pedro Peres-Neto"
-  Email:          hedvig.nenzen@gmail.com
-  Github:         hedvign
-  Image:          hedvig.jpg
-  LastName:       Nenzen
-  Name:           Hedvig
-  Position: Post-Doc at Northern Forestry Centre (CFS, NRCan)
-  Status:         "Ph.D. Candidate"
-  Supervisor:     "Dominique Gravel"
-  Title_en:       "Space-time interactions in forest metacommunities"
+  Abstract_fr: "Dans le cadre de la dynamique forestière, plusieurs études ont montré que pour comprendre la distribution des espèces il est important de prendre en compte les conditions biotiques, abiotiques ainsi que les phénomènes de dispersion. Notre but est d'avoir une meilleure compréhension des facteurs régissant la dispersion des arbres en prenant notamment en compte les intéractions inter/intra-espèce et les conditions climatiques. L’utilisation de modèles est maintenant assez répandue pour explorer la dispersion et les possibles futures distributions des espèces. Nous utilisons dans cette thèse les équations de McKendrick-von Foerster que nous avons spatialisées. Ces équations régissent la dynamique forestière (croissance, renouvellement et mortalité des arbres ainsi que la dispersion de graines). Les trois premières composantes de la dynamique forestière sont affectées (dans notre cas) par la quantité de lumière. Il y a plusieurs algorithmes de calculs pour déterminer la lumière disponible, nous utilisons ici la perfect plasticity approximation (N. Strigul et. al., 2008). La dispersion est modélisée par une fonction dite \"dispersal kernel\". Les résultats attendus sont la mise en valeurs des paramètres les plus influant sur le taux de migration; hypothétiquement (i) la fécondité et (ii) les paramètres du kernel régissant la dispersion longue distance. Nous espérons aussi extraire des résultats analytiques sur les taux de migration via des solutions particulières nommées \"travelling waves\". Nous appliquerons ces résultats à la migration de l'érable à sucre (Acer saccharum) parmis le sapin baumier (Abies balsamea)."
+  CoSupervisor: "Isabelle Boulangeat & Nikolay Strigul"
+  Email: amael.lesquin@gmail.com
+  Github: amaelGithub
+  Image: amael.png
+  LastName: Lesquin
+  Name: Amael
+  Status: "Ph.D. Student"
+  Supervisor: "Dominique Gravel"
+  Title_en: "Theoretical investigation on trees’ migration rates"
+  Title_fr: "Etude théorique des taux de migration des arbres"
+  Year_finish: 2018
+  Year_start: 2014
+  key: 3
+- 
+  Abstract_en: "My main project is to predict the effect of species spatial dynamics on food web structure and resilience, with the integration of metabolic theory, food web ecology and macroecology within a common framework. I use species body mass and allometric relationships as a cornerstone to achieve this objective. I combine this theoretical approach to the analysis of global marine databases, in order to model the effect of ocean acidification and overfishing on the structure and stability of marine food webs."
+  CoSupervisor: "David Mouillot"
+  Email: claire-jacquet@wanadoo.fr
+  Image: claire.png
+  LastName: Jacquet
+  Name: Claire
+  Status: "Ph.D. Student"
+  Supervisor: "Dominique Gravel"
+  Title_en: "Theoretical integration of biogeography and ecosystem functioning"
+  Title_fr: "Intégration théorique de la biogéographie et du fonctionnement des écosystèmes"
+  Website: clairejacquet.weebly.com
+  Year_finish: 2016
+  Year_start: 2012
+  key: 4
+- 
+  Abstract_en: "My thesis focuses on a problem called transfer learning, which in layman's terms could be described as the capacity to automatically transfer knowledge between different tasks. It comes naturally to us, e.g. we use what we learned for walking when learning to run, but almost all machine learning algorithms build models from nothing. It is especially important in statistical relational learning, where learning a model from data is hard, often impossible, due to the number of possibilities. I hope to apply these new techniques to ecology, which has struggled to find integrative (and predictive) models of biodiversity."
+  CoSupervisor: "Timothée Poisot"
+  Email: philippe.desjardins.proulx@usherbrooke.ca
+  Github: PhDP
+  Image: phdp.jpg
+  LastName: Desjardins-Proulx
+  Name: Philippe
+  Status: "Ph.D. Student"
+  Supervisor: "Dominique Gravel"
+  Title_en: "Knowledge Transfer in Statistical Relational Learning with Applications to Theoretical Ecology"
+  Website: phdp.github.io
+  Year_finish: 2016
+  Year_start: 2012
+  key: 5
+- 
+  Abstract_en: "Synthesizing the diversity of responses of the different organisms of a community into global patterns that capture the relevance of those changes to ecosystem processes is a major challenge in biodiversity science. One approach for capturing multiple taxa and their associated processes is to consider ecological communities as networks of interacting species and processes (Reiss et al. 2010). The goal of Idaline’s project is to develop a new multi-trophic way of assessment of community responses to disturbances. This method will be applied to the problematic of forest biomass removals in the context of bioenergy. In this project, we will first describe this ecological network using a theoretical model adapted to the context of biomass removal. To understand the food web functioning, a theoretical model of the soil food web will be created taking into account the vegetation, the fauna, and the microbes. The species composing the model will be chosen according to the species inventoried by the collaborators in the experimental site. One of the main problems in developing soil food webs model is to assess the interactions between the species, because we lack a lot of informations about species diet. That's why we will use, in an original and mechanistic way, species traits matching to infer the interactions. With this model we can do simulations of functional groups removals and calculate metrics that represent the network functions. We can then know what are the keystone species that maintain particular functions, or umbrella species on which numerous species depend. In the last chapter of this project, key taxa response, their interactions and their impacts on important ecosystem processes will be integrated within a response and effect traits framework. The theoretical knowledge developed in the 1st component will be used as framework to help understand patterns observed in the field."
+  Abstract_fr: "L’utilisation croissante des ressources naturelles dans un but de production d’énergie requiert une évaluation de leur conséquences sur le maintient de l’intégrité écologique des écosystèmes. C’est dans cet objectif que s’inscrit ce projet. Plus précisément son but sera d’évaluer l’impact des prélèvements de biomasse forestière pour la bioénergie sur la biodiversité, et les processus des écosystèmes forestiers. Le projet se basera sur des études empiriques qui seront réalisées sur des parcelles forestières de pin gris (Pinus banksiana), suivant un gradient d'intensité de récolte de biomasse. L’objectif de la thèse sera de développer des indices de diversité fonctionnelle pour les réseaux d’interactions dans les sols. Il permettra alors d’estimer son fonctionnement, à partir des données récoltées sur le terrain et d’un modèle théorique. La modélisation de la dynamique des sols forestiers, fondée sur les interactions trophiques et le cycle des nutriments sera créée dans la première étape de la thèse. A l’aide de simulations de gradients de biodiversité et de diversité fonctionnelle, ce modèle mettra en évidence les processus de l’écosystème, et les traits de chaque taxon les plus affectés par les prélèvements. Dans la deuxième étape de la thèse j’intègrerai à ce modèle les données empiriques pour faire une analyse approfondie de l’écosystème."
+  CoSupervisor: "Isabelle Aubin"
+  Email: idaline.laigle@gmail.com
+  Github: idaline
+  Image: idaline.png
+  LastName: Laigle
+  Name: Idaline
+  Status: "Ph.D. Student"
+  Supervisor: "Dominique Gravel"
+  Title_en: "Integrative evaluation of forest biomass removals for bio-energy, on biodiversity and ecosystems functioning."
+  Title_fr: "Evaluation intégrée des impacts des prélèvements de biomasse forestière pour la bioénergie sur la biodiversité et le fonctionnement des écosystèmes."
+  Year_finish: 2018
+  Year_start: 2012
+  key: 6
+- 
+  Abstract_en: "Understanding the processes that underlie observed outbreak patterns is key to developing efficient management strategies for species fluctuations such as destructive forest pest outbreaks. Yet, despite many empirical and modelling studies of species fluctuations, the roles of extrinsic and intrinsic factors along with their interaction in driving large-scale, multi-year outbreaks, is still not understood. It is important to test the roles of spatial and temporally autocorrelated environmental variation in both a statistical and process-based model. I develop a novel analysis and model to understand how dispersal and autocorrelated environmental variables relate to large-scale outbreaks. Existing models are often scaled to local-scale population dynamics, that offer limited insight into landscape-scale outbreaks. To create the process-based model needed, while obtaining parameters from spatio-temporal landscape outbreak data, we change the model scale to reflect insect disturbance instead of insect densities. We use as example species one of the most studied and widespread insect pests, the spruce budworm, whose defoliation distribution during one outbreak cycle and the start of a second outbreak has been mapped for 46 years in Quebec, Canada. We estimate effects of climate on both defoliation and dieback forest transitions. Spatial data allows us to quantify defoliation spread, and to discriminate between the effects of local dispersal and climate on outbreaks. Then, in simulations we randomize the climate predictions in space and time to identify the effect of spatio-temporal climate autocorrelation on outbreaks."
+  CoSupervisor: "Pedro Peres-Neto"
+  Email: hedvig.nenzen@gmail.com
+  Github: hedvign
+  Image: hedvig.jpg
+  LastName: Nenzen
+  Name: Hedvig
+  Status: "Ph.D. Student"
+  Supervisor: "Dominique Gravel"
+  Title_en: "Space-time interactions in forest metacommunities"
   Title_fr: "Interactions spatio-temporelles dans les métacommunautés forestières: Dynamique, modélisation et interventions"
-  Website:        hedvignenzen.wordpress.com/
-  Year_finish:    2016
-  Year_start:     2011
-  key:            7
--
+  Website: hedvignenzen.wordpress.com/
+  Year_finish: 2016
+  Year_start: 2011
+  key: 7
+- 
   Abstract_en: "Behind the aesthetic value of Earth's biodiversity, there is one exciting challenge: unravelling the underlying causes of species' geographic distribution. Indeed, biogeographers strive to find the set of variables that best explains past and present distribution in order to accurately forecast tomorrow's species occurrences. This understanding is crucial to foresee and control impacts of anthropogenic forcing on biodiversity loss. Beyond classical variables such as temperature, precipitations and edaphic factors, Biogeographers must take evolutionary processes and ecological interactions into account to better estimate future biodiversity at global scale. Working in this context, my Phd thesis project focuses on one particular theoretical issue: the relationship between ecological interactions and species co-occurrence. As theory predicts that species's range limits are affected by many factors including ecological interactions, there must be a link between co-occurrence of species and their biological association. Therefore I search for elegant methods to address questions pertaining to this link in order to sustain the development of emerging joint species distribution models, which I think could improve our predictions of future changes in biodiversity."
   Abstract_fr: "Derrière la beauté de la biodiversité terrestre se cache un important défi: révéler les causes de la répartition géographique des espèces. Les biogéographes tentent, en effet, de déceler l'ensemble des variables qui expliquent la répartition passée et présente des espèces afin de prédire leur répartition future avec précision. Une telle compréhension est cruciale pour prévoir et limiter les conséquences des forçages anthropiques sur la perte de la biodiversité. Au-delà des variables classiquement utilisées comme la température, les précipitations et les variables édaphiques, les biogéographes doivent intégrer les processus évolutifs ainsi que les interactions écologiques afin d'affiner les prédictions de biodiversité future à large échelle. Dans ce contexte et en tant que doctorant, je me concentre sur un problème théorique particulier : la relation existante entre les interactions écologiques et la co-occurrence des espèces. La théorie prédit que la répartition des espèces est influencée, entre autres, par leurs interactions. Il est donc vraisemablable qu'il existe un lien entre la co-occurrence des espèces et leur association biologique. En conséquence, je recherche des méthodes élégantes pour répondre aux questions relatives à ce lien afin de soutenir le dévelopement des modèles émergents de distribution jointe d'espèces qui pourraient, à mon avis, améliorer nos prédictions des changements futurs de biodiversité."
-  CoSupervisor:   "Nicolas Mouquet"
-  Email:          kevin.cazelles@univ-montp2.fr
-  Github:         KevCaz
-  Image:          kev.jpg
-  LastName:       Cazelles
-  Position:       Post-Doc at BioDiversity, BioStructure and Dynamics Lab (Prof. Doc. Kevin McCann)
-  Name:           Kevin
-  Status:         "Ph.D. Candidate"
-  Supervisor:     "Dominique Gravel"
-  Title_en:       "Integration of biotic interactions in species distribution models."
-  Title_fr:       "Intégration des interactions biotiques dans les modèles de distribution d’espèces"
-  Website:        kevincazelles.fr
-  Year_finish:    2016
-  Year_start:     2012
-  key:            8
--
-  CoSupervisor:   "Christian Messier"
-  Email:          kevinsolarik@hotmail.com
-  Image:          kevin.png
-  LastName:       Solarik
-  Name:           Kevin
-  Status:         "Ph.D. Candidate"
-  Supervisor:     "Dominique Gravel"
-  Title_en:       "Limiting Migration - Will sugar maple be tapped out due to climate change?"
-  Website:        www.cef-cfr.ca/index.php?n=Membres.KevinSolarik
-  Year_finish:    2017
-  Year_start:     2013
-  key:            12
--
-  CoSupervisor:   "Catherine Potvin"
-  Email:          chantal.hutchison@mail.mcgill.ca
-  Image:          chantal.png
-  LastName:       Hutchison
-  Name:           Chantal
-  Status:         "Ph.D. Candidate"
-  Supervisor:     "Dominique Gravel"
-  Year_finish:    2018
-  Year_start:     2014
-  key:            15
--
-  Abstract_fr:    "L’intensification de l’empreinte humaine dans l’estuaire et le golfe du Saint-Laurent (EGSL) impose une planification stratégique et systématique de l’utilisation et de l’exploitation des ressources marines. Pourtant, une évaluation systématique des impacts cumulés demeure absente de la littérature. Un nombre important d’activités historiques, actuelles et émergentes caractérisent l’utilisation humaine du Saint-Laurent. Ces activités imposent plusieurs stresseurs environnementaux affichant un chevauchement spatial croissant. Individuellement, ils peuvent affecter la structure et le fonctionnement des écosystèmes. Imposés simultanément, les stresseurs peuvent agir en synergie et entraîner des effets non-linéaires. Ces effets demeurent largement incompris et conséquemment ignorés lors d’évaluations d’impacts environnementaux, qui demeurent orientées sur des espèces ou secteurs uniques. Les effets non-linéaires peuvent s’exprimer selon divers mécanismes, notamment la propagation indirecte de perturbations engendrée par la complexité des interactions biotiques structurant les communautés. Nous suggérons ainsi qu’une compréhension de la structure des réseaux d’interactions biotiques est nécessaire à l’évaluation adéquate des impacts cumulés au sein des écosystèmes. L’objectif général de ma thèse sera d’évaluer les effets de multiples stresseurs sur les réseaux d’interactions biotiques. Les objectifs spécifiques seront 1) d’évaluer les impacts cumulés sur les écosystèmes de l’EGSL, 2) de caractériser la structure spatiale des réseaux d’interactions biotiques de l’ESGL et 3) d’évaluer les impacts cumulés sur les communautés de l’EGSL. Les résultats de cette thèse permettront d’approfondir les connaissances sur les impacts de multiples stresseurs sur les communautés, de fournir un outil performant d’évaluation des impacts cumulés et de favoriser une approche systématique et proactive de gestion des ressources naturelles."
-  CoSupervisor:   "Dominique Gravel"
-  Email:          david.beauchesne@hotmail.com
-  Github:         david-beauchesne
-  Image:          David.jpg
-  LastName:       Beauchesne
-  Name:           David
-  Status:         "Ph.D. Candidate"
-  Supervisor:     "Philippe Archambault"
-  Title_en:       "Evaluating the cumulative impacts of natural and anthropogenic stressors on the structure and function of the food web of the Estuary and Gulf of St.Lawrence"
-  Title_fr:       "Évaluation des impacts cumulés des stresseurs naturels et anthropiques sur la structure et le fonctionnement du réseau trophique de l’Estuaire et du Golfe du Saint-Laurent"
-  Year_finish:    2018
-  Year_start:     2014
-  key:            16
--
+  CoSupervisor: "Nicolas Mouquet"
+  Email: kevin.cazelles@univ-montp2.fr
+  Github: KevCaz
+  Image: kev.jpg
+  LastName: Cazelles
+  Name: Kevin
+  Status: "Ph.D. Student"
+  Supervisor: "Dominique Gravel"
+  Title_en: "Integration of biotic interactions in species distribution models."
+  Title_fr: "Intégration des interactions biotiques dans les modèles de distribution d’espèces"
+  Website: kevincazelles.fr
+  Year_finish: 2016
+  Year_start: 2012
+  key: 8
+- 
+  CoSupervisor: "Christian Messier"
+  Email: kevinsolarik@hotmail.com
+  Image: kevin.png
+  LastName: Solarik
+  Name: Kevin
+  Status: "Ph.D. Student"
+  Supervisor: "Dominique Gravel"
+  Title_en: "Limiting Migration - Will sugar maple be tapped out due to climate change?"
+  Website: www.cef-cfr.ca/index.php?n=Membres.KevinSolarik
+  Year_finish: 2017
+  Year_start: 2013
+  key: 12
+  
+- 
+  CoSupervisor: "Catherine Potvin"
+  Email: chantal.hutchison@mail.mcgill.ca
+  Image: unknown.jpg
+  LastName: Hutchison
+  Name: Chantal
+  Status: "Ph.D. Student"
+  Supervisor: "Dominique Gravel"
+  Year_finish: 2018
+  Year_start: 2014
+  key: 15 
+ 
+- 
+  CoSupervisor: "Catherine Potvin"
+  Email: chantal.hutchison@mail.mcgill.ca
+  Image: unknown.jpg
+  LastName: Hutchison
+  Name: Chantal
+  Status: "Ph.D. Student"
+  Supervisor: "Dominique Gravel"
+  Year_finish: 2018
+  Year_start: 2014
+  key: 15
+- 
+  Abstract_fr: "L’intensification de l’empreinte humaine dans l’estuaire et le golfe du Saint-Laurent (EGSL) impose une planification stratégique et systématique de l’utilisation et de l’exploitation des ressources marines. Pourtant, une évaluation systématique des impacts cumulés demeure absente de la littérature. Un nombre important d’activités historiques, actuelles et émergentes caractérisent l’utilisation humaine du Saint-Laurent. Ces activités imposent plusieurs stresseurs environnementaux affichant un chevauchement spatial croissant. Individuellement, ils peuvent affecter la structure et le fonctionnement des écosystèmes. Imposés simultanément, les stresseurs peuvent agir en synergie et entraîner des effets non-linéaires. Ces effets demeurent largement incompris et conséquemment ignorés lors d’évaluations d’impacts environnementaux, qui demeurent orientées sur des espèces ou secteurs uniques. Les effets non-linéaires peuvent s’exprimer selon divers mécanismes, notamment la propagation indirecte de perturbations engendrée par la complexité des interactions biotiques structurant les communautés. Nous suggérons ainsi qu’une compréhension de la structure des réseaux d’interactions biotiques est nécessaire à l’évaluation adéquate des impacts cumulés au sein des écosystèmes. L’objectif général de ma thèse sera d’évaluer les effets de multiples stresseurs sur les réseaux d’interactions biotiques. Les objectifs spécifiques seront 1) d’évaluer les impacts cumulés sur les écosystèmes de l’EGSL, 2) de caractériser la structure spatiale des réseaux d’interactions biotiques de l’ESGL et 3) d’évaluer les impacts cumulés sur les communautés de l’EGSL. Les résultats de cette thèse permettront d’approfondir les connaissances sur les impacts de multiples stresseurs sur les communautés, de fournir un outil performant d’évaluation des impacts cumulés et de favoriser une approche systématique et proactive de gestion des ressources naturelles."
+  CoSupervisor: "Dominique Gravel"
+  Email: david.beauchesne@hotmail.com
+  Github: david-beauchesne
+  Image: David.jpg
+  LastName: Beauchesne
+  Name: David
+  Status: "Ph.D. Student"
+  Supervisor: "Philippe Archambault"
+  Title_en: "Evaluating the cumulative impacts of natural and anthropogenic stressors on the structure and function of the food web of the Estuary and Gulf of St.Lawrence"
+  Title_fr: "Évaluation des impacts cumulés des stresseurs naturels et anthropiques sur la structure et le fonctionnement du réseau trophique de l’Estuaire et du Golfe du Saint-Laurent"
+  Year_finish: 2018
+  Year_start: 2014
+  key: 16
+- 
   Abstract_fr: "En milieu forestier, plus de 80 % du matériel végétal n’est pas consommé par les herbivores et doit être décomposé pour permettre le recyclage des nutriments. Malgré l’importance de ce processus, l’écosystème de la litière forestière est sous-étudié comparativement à l’écosystème au-dessus du sol. De ce fait, plusieurs aspects de la décomposition demeurent mal compris. Dans cette thèse, différentes hypothèses seront testées avec l’objectif de mieux comprendre comment les communautés d’arthropodes du sol sont structurées et comment celles-ci influencent la vitesse de décomposition de la litière forestière. En utilisant une approche basée sur les traits fonctionnels, je propose d’étudier : 1) les règles d’assemblage des espèces d’arthropodes; 2) la corrélation entre la diversité des différents niveaux trophiques (végétation, décomposeur, prédateur); et 3) l’impact de la diversité des prédateurs sur la décomposition. "
-  CoSupervisor:   "Ira Tanya Handa"
-  Image:          unknown.jpg
-  LastName:       Brousseau
-  Position:       Post-Doc at UQAM (Prof. Doc. Tanya Handa)
-  Name:           Pierre-Marc
-  Status:         "Ph.D. Candidate"
-  Supervisor:     "Dominique Gravel"
-  Title_fr:       "Implication des traits fonctionnels dans la structure des communautés d'arthropodes de la litière forestière et dans sa décomposition"
-  Year_finish:    2016
-  Year_start:     2011
-  key:            21
--
-  Email:          tim@poisotlab.io
-  Github:         tpoisot
-  Image:          tim.jpg
-  LastName:       Poisot
-  Name:           Timothée
-  Position:       "Assistant professor at the University of Montreal"
-  Status:         Post-Doc
-  Supervisor:     "Dominique Gravel"
-  Website:        poisotlab.io
-  Year_finish:    2013
-  Year_start:     2011
-  key:            9
--
-  Email:          albouycamille@gmail.com
-  Image:          camille.png
-  LastName:       Albouy
-  Name:           Camille
-  Position:       "Post-Doc at ETH Zurich (Prof. Dr. Pellissier)"
-  Status:         Post-Doc
-  Supervisor:     "Dominique Gravel"
-  Website:        albouycamille.free.fr
-  Year_finish:    2014
-  Year_start:     2013
-  key:            10
--
-  Email:          mtalluto@gmail.com
-  Image:          Matt.jpg
-  Github:         mtalluto
-  LastName:       Talluto
-  Name:           Matthew
-  Position:       "Post-Doc at LECA (Prof. Dr. Thuiller)"
-  Status:         Post-Doc
-  Supervisor:     "Dominique Gravel"
-  Website:        sites.google.com/site/mtalluto/home
-  Year_finish:    2014
-  Year_start:     2013
-  key:            13
--
-  Email:          isabelle.boulangeat@gmail.com
-  Github:         iboulangeat
-  Image:          isaB.jpg
-  LastName:       Boulangeat
-  Name:           Isabelle
-  Position:       "Post-Doc at Aarhus University (Prof. Dr. Svenning)"
-  Status:         Post-Doc
-  Supervisor:     "Dominique Gravel"
-  Website:        j.boulangeat.free.fr
-  Year_finish:    2014
-  Year_start:     2013
-  key:            11
--
-  CoSupervisor:   "Nicolas Mouquet & Nicolas Mouillot"
-  Email:          Isabelle.Gounand@eawag.ch
-  Image:          isa.jpg
-  LastName:       Gounand
-  Name:           Isabelle
-  Position:       "Post-Doc at Swiss Federal Institute of Aquatic Science and Technology (Prof. Dr. Altermatt)"
-  Status:         "Ph.D. Candidate"
-  Supervisor:     "Dominique Gravel"
-  Website:        isabellegounand.wordpress.com
-  Year_finish:    2014
-  Year_start:     2010
-  key:            17
--
-  Image:          sarahgray.jpg
-  LastName:       Gray
-  Name:           Sarah
-  Position:       "Post-Doc at Fribourg University"
-  Status:         Post-Doc
-  Supervisor:     "Dominique Gravel"
-  Year_finish:    2012
-  Year_start:     2011
-  key:            18
--
-  Email:          eric.harvey(at)eawag.ch
-  Image:          erich.jpg
-  LastName:       Harvey
-  Name:           Eric
-  Position:       "Ph.D. at Guelph University (Pr. Dr. MacDougall)"
-  Status:         "M.Sc. Student"
-  Supervisor:     "Dominique Gravel"
-  Year_finish:    2011
-  Year_start:     2009
-  Website:        ericharvey.weebly.com/
-  key:            19
--
-  Image:          annie_seguin.jpg
-  LastName:       Seguin
-  Name:           Annie
-  Position:       Researcher at Medicago
-  Status:         Ph.D Student
-  Supervisor:     "Dominique Gravel"
-  CoSupervisor:   "Philippe Archambault"
-  Year_finish:    2008
-  Year_start:     2012
-  key:            29
-  Email:          annie.o.seguin@gmail.com
-  Website:        www.ismer.ca/Seguin-Annie?lang=fr
--
-  Email:          renaud.mckinnon@gmail.com
-  Image:          kinnon.jpg
-  LastName:       McKinnon
-  Name:           Renaud
-  Position:       "Professional researcher at Chaire de recherche du Québec en géoscience côtière (Prof. Dr. Bernatchez, Pascal)"
-  Status:         "M.Sc. Student"
-  Supervisor:     "Dominique Gravel"
-  Year_finish:    2015
-  Year_start:     2013
-  key:            20
+  CoSupervisor: "Ira Tanya Handa"
+  Image: unknown.jpg
+  LastName: Brousseau
+  Name: Pierre-Marc
+  Status: "Ph.D. Student"
+  Supervisor: "Dominique Gravel"
+  Title_fr: "Implication des traits fonctionnels dans la structure des communautés d'arthropodes de la litière forestière et dans sa décomposition"
+  Year_finish: 2016
+  Year_start: 2011
+  key: 21
+- 
+  Email: tim@poisotlab.io
+  Github: tpoisot
+  Image: tim.jpg
+  LastName: Poisot
+  Name: Timothée
+  Position: "Assistant professor at the University of Montreal"
+  Status: Post-Doc
+  Supervisor: "Dominique Gravel"
+  Website: timotheepoisot.fr
+  Year_finish: 2013
+  Year_start: 2011
+  key: 9
+- 
+  Email: albouycamille@gmail.com
+  Image: camille.png
+  LastName: Albouy
+  Name: Camille
+  Position: "Post-Doc at ETH Zurich (Prof. Dr. Pellissier)"
+  Status: Post-Doc
+  Supervisor: "Dominique Gravel"
+  Website: albouycamille.free.fr
+  Year_finish: 2014
+  Year_start: 2013
+  key: 10
+- 
+  Email: mtalluto@gmail.com
+  Image: Matt.jpg
+  Github: mtalluto
+  LastName: Talluto
+  Name: Matthew
+  Position: "Post-Doc at LECA (Prof. Dr. Thuiller)"
+  Status: Post-Doc
+  Supervisor: "Dominique Gravel"
+  Website: sites.google.com/site/mtalluto/home
+  Year_finish: 2014
+  Year_start: 2013
+  key: 13
+- 
+  Email: isabelle.boulangeat@gmail.com
+  Github: iboulangeat
+  Image: isaB.jpg
+  LastName: Boulangeat
+  Name: Isabelle
+  Position: "Post-Doc at Aarhus University (Prof. Dr. Svenning)"
+  Status: Post-Doc
+  Supervisor: "Dominique Gravel"
+  Website: j.boulangeat.free.fr
+  Year_finish: 2014
+  Year_start: 2013
+  key: 11
+- 
+  CoSupervisor: "Nicolas Mouquet & Nicolas Mouillot"
+  Email: Isabelle.Gounand@eawag.ch
+  Image: isa.jpg
+  LastName: Gounand
+  Name: Isabelle
+  Position: "Post-Doc at Swiss Federal Institute of Aquatic Science and Technology (Prof. Dr. Altermatt)"
+  Status: "Ph.D. Student"
+  Supervisor: "Dominique Gravel"
+  Website: isabellegounand.wordpress.com
+  Year_finish: 2014
+  Year_start: 2010
+  key: 17
+- 
+  Image: sarahgray.jpg
+  LastName: Gray
+  Name: Sarah
+  Position: "Post-Doc at Fribourg University"
+  Status: Post-Doc
+  Supervisor: "Dominique Gravel"
+  Year_finish: 2012
+  Year_start: 2011
+  key: 18
+- 
+  Email: eric.harvey(at)eawag.ch
+  Image: erich.jpg
+  LastName: Harvey
+  Name: Eric
+  Position: "Ph.D. at Guelph University (Pr. Dr. MacDougall )"
+  Status: "M.Sc. Student"
+  Supervisor: "Dominique Gravel"
+  Year_finish: 2011
+  Year_start: 2009
+  Website: ericharvey.weebly.com/
+  key: 19
+- 
+  Image: annie_seguin.jpg
+  LastName: Seguin
+  Name: Annie
+  Position: Researcher at Medicago
+  Status: Ph.D Student
+  Supervisor: "Dominique Gravel"
+  CoSupervisor: "Philippe Archambault"
+  Year_finish: 2008
+  Year_start: 2012
+  key: 29
+  Email: annie.o.seguin@gmail.com
+  Website: www.ismer.ca/Seguin-Annie?lang=fr
+- 
+  Email: renaud.mckinnon@gmail.com
+  Image: kinnon.jpg
+  LastName: McKinnon
+  Name: Renaud
+  Position: "Naval architect"
+  Status: "M.Sc. Student"
+  Supervisor: "Dominique Gravel"
+  Year_finish: 2015
+  Year_start: 2013
+  key: 20
+- 
+  Abstract_en: "Spatial distribution of biodiversity always fascinated ecologists. What are the main drivers of species distribution and why is species richness peaking in the tropics? Understanding food webs dynamics is a key point in trying to clarify this question. Trophic cascade is a central feature of food webs and has been widely documented in diverse ecosystems. However, their strength can be highly variable and it seems that temperature plays a role in this variation by strengthening the top down effect of predators on primary producers. Temperature is an essential driver of many ecosystem processes over large biogeographical gradients and can affect food webs structure in many ways by impacting (1) organisms’ biological and chemical rates, (2) organisms’ body size and (3) species richness; and indirectly altering the strength of trophic interaction. The nature of the relationships between temperature, body size, metabolic rates and richness remains hazy and lead to conflicting results. We use a modelling approach to investigate the impact of temperature on trophic cascade through biological rates, body size and richness."
+  Abstract_fr: "Les facteurs déterminant la distribution spatiale de la biodiversité ont toujours intéressés les écologistes. Comprendre la dynamique des réseaux tropiques est un point essentiel pour tenter de clarifier ces interrogations. Les cascades trophiques sont un élément clé des réseaux trophiques et ont été observées dans nombreux et divers écosystèmes. Néanmoins, leur force peut fortement varier et il apparaît que la température joue un rôle dans cette variation en renforçant l’effet des prédateurs sur les producteurs primaires. La température est un facteur abiotique central dans nombreux processus écosystèmiques et peut affecter la structure des réseaux trophiques en agissant sur (1) les taux biologiques des organismes, (2) la taille corporelle des organismes et (3) la richesse spécifique ; modifiant indirectement la force des interactions trophiques. Nous nous intéressons à l’impacte de la température sur les cascades trophiques, à travers son effet sur les taux biologiques, la taille corporelle et la richesse, par une approche de modélisation."
+  Email: azenor.bideault@outlook.fr
+  Image: az.jpg
+  LastName: Bideault
+  Name: Azenor
+  Status: "M.Sc. Internship"
+  Supervisor: "Dominique Gravel"
+  Title_en: "Effect of temperature on trophic cascades"
+  Title_fr: "Effet de la température sur les cascades trophiques"
+  Year_finish: 2016
+  key: 26
+- 
+  Email: Jonathan.Brassard2@USherbrooke.ca
+  Image: jo.png
+  LastName: Brassard
+  Name: Jonathan
+  Status: "Professional researcher"
+  Title_en: "Field coordinator"
+  Year_start: 2011
+  key: 22
+- 
+  Abstract_en: "Biodiversity has been shown to stabilize ecosystem productivity through time, suggesting it may be critical to ecosystems sustainability in the face of environmental fluctuations. Both theory and grassland experiments have suggested that the asynchrony of species response to environmental fluctuations was the primary mechanism underlying the stabilizing effect of diversity. However, the variability of response within species may modulate the stabilizing effect of the asynchrony of species response. My Ph.D. project aims to determine whether tree species diversity stabilizes the productivity of temperate and boreal forests of Eastern Canada. We are particularly interested in the mechanisms at the origin of the variability of individuals' response to environmental fluctuations and in the role of these mechanisms in the stabilizing effect of diversity. Individuals being not well defined in grassland plants, the variability of individuals' response to environmental fluctuations cannot be estimated in grassland communities. For this reason, we investigated the diversity stability relationship in forest ecosystems, where individuals (i.e. trees) are easily identifiable. Our work could help better understand the mechanisms underlying the stabilizing effect of diversity and thus could help implement adapted management strategies to increase ecosystems stability in the face of environmental fluctuations."
+  CoSupervisor: "Yves Bergeron, Dominique Gravel"
+  Email: raphael.aussenac@gmail.com
+  Image: raph.jpg
+  LastName: Aussenac
+  Name: Raphaël
+  Status: "Ph.D. Student"
+  Supervisor: "Igor Drobyshev"
+  Title_en: "Diversity Stability relationship in forest ecosystems"
+  Year_finish: 2017
+  Year_start: 2014
+  key: 14
+- 
+  CoSupervisor: "Philippe Archambault"
+  Image: charlotte_moritz.jpg
+  LastName: Moritz
+  Name: Charlotte
+  Position: Consultant at CRIOBE
+  Status: Post-Doc
+  Supervisor: "Dominique Gravel"
+  Year_finish: 2013
+  Year_start: 2011
+  key: 23
+- 
+  Image: unknown.jpg
+  LastName: Legagneux
+  Name: Pierre
+  Position: "Professional researcher at CSBQ"
+  Status: Post-Doc
+  Supervisor: "Dominique Gravel"
+  Year_finish: 2013
+  Year_start: 2012
+  key: 24
+- 
+  Email: steve.vissault@usherbrooke.ca
+  Github: steveviss
+  Website: steveviss.github.io
+  Image: steve.png
+  LastName: Vissault
+  Name: Steve
+  Status: "Professional researcher"
+  Title_en: "Database manager and scientific programer"
+  Year_start: 2016
+  key: 25
+- 
+  Image: unknown.jpg
+  LastName: Fournier
+  Name: Bertrand
+  Position: unknown
+  Status: Post-Doc
+  Supervisor: "Dominique Gravel"
+  CoSupervisor: "Nicolas Mouquet"
+  Year_finish: 2015
+  Year_start: 2013
+  key: 26
+- 
+  Image: unknown.jpg
+  LastName: Velez
+  Name: Laure
+  Position: unknown
+  Status: MSc Internship
+  Supervisor: "Dominique Gravel"
+  CoSupervisor: "David Mouillot"
+  Year_finish: 2011
+  Year_start: 2010
+  key: 27
+- 
+  Image: unknown.jpg
+  LastName: Canard
+  Name: Elsa
+  Position: unknown
+  Status: "Ph.D. Student"
+  Supervisor: "Dominique Gravel"
+  CoSupervisor: "Nicolas Mouquet"
+  Year_finish: 2008
+  Year_start: 2011
+  key: 28
 
--
-  Abstract_en:    "Spatial distribution of biodiversity always fascinated ecologists. What are the main drivers of species distribution and why is species richness peaking in the tropics? Understanding food webs dynamics is a key point in trying to clarify this question. Trophic cascade is a central feature of food webs and has been widely documented in diverse ecosystems. However, their strength can be highly variable and it seems that temperature plays a role in this variation by strengthening the top down effect of predators on primary producers. Temperature is an essential driver of many ecosystem processes over large biogeographical gradients and can affect food webs structure in many ways by impacting (1) organisms’ biological and chemical rates, (2) organisms’ body size and (3) species richness; and indirectly altering the strength of trophic interaction. The nature of the relationships between temperature, body size, metabolic rates and richness remains hazy and lead to conflicting results. We use a modelling approach to investigate the impact of temperature on trophic cascade through biological rates, body size and richness."
-  Abstract_fr:    "Les facteurs déterminant la distribution spatiale de la biodiversité ont toujours intéressés les écologistes. Comprendre la dynamique des réseaux tropiques est un point essentiel pour tenter de clarifier ces interrogations. Les cascades trophiques sont un élément clé des réseaux trophiques et ont été observées dans nombreux et divers écosystèmes. Néanmoins, leur force peut fortement varier et il apparaît que la température joue un rôle dans cette variation en renforçant l’effet des prédateurs sur les producteurs primaires. La température est un facteur abiotique central dans nombreux processus écosystèmiques et peut affecter la structure des réseaux trophiques en agissant sur (1) les taux biologiques des organismes, (2) la taille corporelle des organismes et (3) la richesse spécifique ; modifiant indirectement la force des interactions trophiques. Nous nous intéressons à l’impacte de la température sur les cascades trophiques, à travers son effet sur les taux biologiques, la taille corporelle et la richesse, par une approche de modélisation."
-  Email:          azenor.bideault@outlook.fr
-  Image:          az.jpg
-  LastName:       Bideault
-  Name:           Azenor
-  Status:         "Ph.D. Candidate"
-  Supervisor:     "Dominique Gravel"
-  Title_en:       "Effect of temperature on trophic cascades"
-  Title_fr:       "Effet de la température sur les cascades trophiques"
-  Year_finish:    2021
-  Year_start:     2017
-  key:            34
--
-  Email:          Jonathan.Brassard2@USherbrooke.ca
-  Image:          jo.png
-  LastName:       Brassard
-  Name:           Jonathan
-  Status:         "Professional researcher"
-  Title_en:       "Field coordinator"
-  Year_start:     2011
-  key:            22
--
-  Abstract_en:    "Biodiversity has been shown to stabilize ecosystem productivity through time, suggesting it may be critical to ecosystems sustainability in the face of environmental fluctuations. Both theory and grassland experiments have suggested that the asynchrony of species response to environmental fluctuations was the primary mechanism underlying the stabilizing effect of diversity. However, the variability of response within species may modulate the stabilizing effect of the asynchrony of species response. My Ph.D. project aims to determine whether tree species diversity stabilizes the productivity of temperate and boreal forests of Eastern Canada. We are particularly interested in the mechanisms at the origin of the variability of individuals' response to environmental fluctuations and in the role of these mechanisms in the stabilizing effect of diversity. Individuals being not well defined in grassland plants, the variability of individuals' response to environmental fluctuations cannot be estimated in grassland communities. For this reason, we investigated the diversity stability relationship in forest ecosystems, where individuals (i.e. trees) are easily identifiable. Our work could help better understand the mechanisms underlying the stabilizing effect of diversity and thus could help implement adapted management strategies to increase ecosystems stability in the face of environmental fluctuations."
-  CoSupervisor:   "Yves Bergeron, Dominique Gravel"
-  Email:          raphael.aussenac@gmail.com
-  Image:          raph.jpg
-  LastName:       Aussenac
-  Name:           Raphaël
-  Status:         "Ph.D. Candidate"
-  Supervisor:     "Igor Drobyshev"
-  Title_en:       "Diversity Stability relationship in forest ecosystems"
-  Year_finish:    2017
-  Year_start:     2014
-  key:            14
--
-  CoSupervisor:   "Philippe Archambault"
-  Image:          charlotte_moritz.jpg
-  LastName:       Moritz
-  Name:           Charlotte
-  Position:       Consultant at CRIOBE
-  Status:         Post-Doc
-  Supervisor:     "Dominique Gravel"
-  Year_finish:    2013
-  Year_start:     2011
-  key:            23
--
-  Image:          unknown.jpg
-  LastName:       Legagneux
-  Name:           Pierre
-  Position:       "Professional researcher at CSBQ"
-  Status:         Post-Doc
-  Supervisor:     "Dominique Gravel"
-  Year_finish:    2013
-  Year_start:     2012
-  key:            24
--
-  Email:          steve.vissault@usherbrooke.ca
-  Github:         steveviss
-  Website:        steveviss.github.io
-  Image:          steve.png
-  LastName:       Vissault
-  Name:           Steve
-  Status:         "Professional researcher"
-  Title_en:       "Database manager and scientific programer"
-  Year_start:     2016
-  key:            25
--
-  Image:          unknown.jpg
-  LastName:       Fournier
-  Name:           Bertrand
-  Position:       unknown
-  Status:         Post-Doc
-  Supervisor:     "Dominique Gravel"
-  CoSupervisor:   "Nicolas Mouquet"
-  Year_finish:    2015
-  Year_start:     2013
-  key:            26
--
-  Image:          unknown.jpg
-  LastName:       Velez
-  Name:           Laure
-  Position:       unknown
-  Status:         MSc Internship
-  Supervisor:     "Dominique Gravel"
-  CoSupervisor:   "David Mouillot"
-  Year_finish:    2011
-  Year_start:     2010
-  key:            27
--
-  Image:          unknown.jpg
-  LastName:       Canard
-  Name:           Elsa
-  Position:       unknown
-  Status:         "Ph.D. Candidate"
-  Supervisor:     "Dominique Gravel"
-  CoSupervisor:   "Nicolas Mouquet"
-  Year_finish:    2008
-  Year_start:     2011
-  key:            28
-
--
- Image:           guillaume.jpeg
- key:             29
- Status:          Post-Doc
- Name:            Guillaume
- LastName:        Blanchet
- Year_start:      2016
- Year_finish:     2018
- Supervisor:      Dominique Gravel
- Title_en:        Linking community ecology theory with new developments in statistical modelling
- Title_fr:        Développer des liens avec les théories en écologie des communautés et les récents développements en modélisation statistique
- Abstract_fr:     Depuis les dernières années, il y a eu une explosion dans le développement de techniques statistiques spécialement conçu pour approcher différents problèmes en écologie des communautés. On appelle ces techniques les modèles de distribution jointe d'espèces (joint species distribution models). Ces développements proviennent principalement de mathématiciens et de statisticiens ayant un intérêt pour les problèmes écologiques, mais qui ont rarement une formation spécialisée en écologie. Pour cette raison, plusieurs des techniques proposées jusqu'à maintenant ne font que très peu de liens avec les théories développées en écologies des communautés. Pour mon stage postdoctoral, je vais développer les liens qui unissent les théories en écologie des communautés et les modèles de distribution jointe d'espèces. En développant ces liens, il deviendra possible de mieux connaître les lacunes dans les modèles de distribution jointes d'espèces et ainsi permettre de proposer des lignes directrices pour les prochains développements de méthodes statistiques. De plus, une meilleure connaissance des liens qui unissent les modèles de distribution jointe d'espèces et les théories écologiques peut aider les écologistes à mieux comprendre les avenues qui peuvent être approchées avec ces nouvelles méthodes et ainsi raffiner les connaissances en écologie des communautés.
- Abstract_en:     In recent years, there was an explosion in the development of statistical techniques especially designed to approach various problems in community ecology. These new techniques are often referred to as joint species distribution models. These developments came mainly from mathematicians and statisticians who have an interest in ecological problems but that rarely have formal training in ecology.  For this reason, many of the techniques proposed until now make few links with the theories in community ecology. For my postdoctoral fellowship, I will develop the links that relates the theories in community ecology and joint species distribution models. By developing these links, it will become possible to highlight the shortcomings in joint species distribution models and thus direct the developments of novel statistical methods. In addition, a better understanding of the link between ecological theory and joint species distribution models will help ecologists better understand the direction that can be taken with these new technical developments to refine the knowledge in community ecology.
- Github:          guiblanchet
- Email:           guillaume.blanchet@usherbrooke.ca
-
-
--
-  Image:          willian.jpg
-  Name:           Willian
-  LastName:       Vieira
-  key:            30
-  Year_start:     2017
-  Year_finish:    2021
-  Status:         "Ph.D. Candidate"
-  Supervisor:     Dominique Gravel
-  CoSupervisor:   Robert Bradley
-  Title_en:       Integrating forest dynamic and forest management under climate change
-  Title_fr:       Intégrer la dynamique et l’aménagement forestier dans le cadre du changement climatique
-  Abstract_en:    It is well known that climate change will modify the distribution of trees over the coming decades and many studies have already showed responses for some species. However, the potential of forest management to mitigate climate change impacts on forest dynamics remains poorly understood. The overall goal of my PhD is to develop a decision-make tool to improve management strategies that take climate change into account. I will build a model that represents forest dynamics at different spatial and temporal scales, and the effect of natural and anthropogenic disturbances (e.g. climate change, forest management). The model will be parametrized from a forest inventory database and we will focus on tracking uncertainty using Bayesian methods. By quantifying trees migration rate under climate change in different forest management scenarios, we expect to find a positive effect of forest management on accelerating forest migration towards the north. In addition, we expect a better understanding of the synergetic interactions between human actions and forest dynamics.
-  Website:        willvieira.github.io
-  Github:         willvieira
-  Email:          willian.vieira@usherbrooke.ca
-  Orcid:          0000-0003-0283-4570
-
--
-  Image:          Steph.jpg
-  key:            31
-  Name:           Stéphanie
-  LastName:       Préfontaine
-  Year_start:     2017
-  Year_finish:    2018
-  Status:         "M.Sc Candidate"
-  Supervisor:     Dominique Gravel
-  CoSupervisor:   Timothée Poisot
-  Title_en:       Metabolic response of pitcher plant (Sarracenia purpurea) bacterial communities from a latitudinal gradient when exposed to a temperature gradient
-  Title_fr:       Réponse métabolique de communautés bactériennes de sarracénies pourpres (Sarracenia purpurea) provenant d'un gradient latitudinal lorsqu'elles sont exposées à un gradient de température
-  Abstract_fr:    Les changements climatiques deviennent de plus en plus préoccupants quant à leur impact sur les systèmes écologiques. Les modifications de température risquent notamment d’influencer la répartition des espèces en causant des déplacements de leur niche écologique et d’entraîner une restructuration des écosystèmes. La température est une variable importante de la niche écologique et celle-ci affecte de façon marquée le métabolisme. Ainsi, en 2004, Brown et al. ont élaboré la théorique métabolique de l’écologie (TME) qui vise à intégrer les concepts de métabolisme, température et taille corporelle ensemble. L’objectif de cette recherche est donc de vérifier l’application de cette théorie sur la forme de la réponse métabolique d’une communauté. Dans cette optique, différentes communautés bactériennes de sarracénies pourpres (Sarracenia purpurea) ont été prélevées au long d’un gradient latitudinal et seront soumises à différentes températures. Leur métabolisme sera déterminé d’après leur taux de croissance maximal. Il est attendu que les réponses individuelles prendront une forme de cloche et s’insèreront sous une courbe exponentielle. Si les résultats sont concluant, la TME pourrait s’avérer être un outil précieux pour anticiper les transformations des écosystèmes, les modifications des services écosystémiques qu’ils nous procurent et de permettre de les gérer en conséquence.
-  Abstract_en:    The impact of climate change on ecosystems is a concern of growing importance. Modifications in the global temperatures may influence species repartition by a translation of their ecological niche and cause a change in ecosystems’ structure. Temperature is an important aspect of ecological niche and affects the metabolism greatly. Consequently, in 2004, Brown et al. elaborated the metabolic theory of ecology (TME) which incorporate the concepts of metabolism, temperature ant body size together. Therefore, the purpose of this research is to attest the application of this theory on the metabolic response form of a community. Hence, different bacterial communities from pitcher plants (Sarracenia purpurea) were sampled along a latitudinal gradient et will be exposed to different temperatures. Their metabolism will be determined according to their maximal growth rate. The expected results are that each individual response will take the shape of a bell curve that will fit under an exponential curve. If the results are concluding, the TME could be a precious tool to anticipate ecosystems transformations, modifications in  the services they provide us and could allow a better administration of them.
-  Email:          Stephanie.Prefontaine@USherbrooke.ca
-
-
--
-  Image:        andreanne.jpg
-  Name:         Andréanne
-  LastName:     Beardsell
-  Status:       "Ph.D. Candidate"
-  key:          32
-  Year_start:    2017
-  Year_finish:   2021
-  Supervisor:   Joël Bêty
-  CoSupervisor: Dominique Gravel
-  Title_en:     Predator-mediated effects of herbivores on tundra nesting birds
-  Title_fr:     Effets des interactions trophiques indirectes sur les oiseaux insectivores de l'Arctique
-  Abstract_fr:  Les changements globaux menacent la biodiversité et transforment les communautés terrestres arctiques. Une de ces transformations, observées à l’échelle circumpolaire, est l’explosion démographique des populations d’oies. Alors que les oies atteignent des tailles de populations record, les cycles de population de lemmings s’affaissent dans plusieurs régions de l’Arctique et les populations de limicoles connaissent des déclins marqués à l’échelle circumpolaire. Les mécanismes responsables demeurent méconnus et les changements dans la dynamique des populations d'oies et de lemmings sont susceptibles de contribuer au déclin des limicoles via la prédation. En effet, les oies, les lemmings et les limicoles partagent des prédateurs communs et sont ainsi étroitement reliés par l’entremise de relations trophiques indirectes. Ces interactions prennent différentes formes, comme le mutualisme apparent ou la compétition apparente, et peuvent influencer l’abondance et la coexistence des espèces à l’échelle des communautés. Bien que plusieurs études aient portées sur les interactions trophiques impliquant les limicoles, la nature de ces interactions demeure mal comprise. En combinant une approche théorique et empirique, l’objectif principal de ce projet est de déterminer le rôle des interactions trophiques indirectes sur les limicoles de l’Arctique. Cette problématique sera abordée en collaboration avec des chercheurs travaillant sur plusieurs sites à l’échelle circumpolaire (Canada, Norvège et Groenland). Ce projet est également basé sur des données issues du suivi écosystémique à long terme (> 25 ans) de l'île Bylot (NU).
-  Abstract_en:  Global changes, particularly pronounced in the Arctic, threaten biodiversity and transform Arctic terrestrial communities. One of these transformations, observed at the circumpolar scale, is the explosion of geese populations. As geese reach record population levels, lemming cycles are fading in several parts of the Arctic and shorebird populations are experiencing marked declines at the circumpolar scale. Geese, lemmings and shorebirds share common predators and are therefore closely linked through indirect trophic interactions. Shared predation can affect species abundance and coexistence at the community level through a variety of indirect effects (e.g. apparent mutualism, apparent competition). Despite a large number of studies on trophic interactions involving shorebirds, predator-mediated effects of herbivores on shorebirds remain poorly understood. By adopting a multi-sites approach combined with long-term ecosystem monitoring, this thesis addresses predator-prey interactions and their potential indirect impact on shorebirds experiencing significant population declines. The main objective of my project is to determine the role of indirect trophic interactions on Arctic shorebirds. This project combines a theoretical and empirical approach in collaboration with researchers working in various sites at a circumpolar scale (Canada, Norway and Greenland). This project also relies on long-term ecosystem monitoring datas (>25 years) from Bylot Island (NU). Understanding indirect interactions is necessary to maintain the ecological integrity of protected ecosystems and to preserve Arctic biodiversity. How species interact have fascinated and continue to generate great interest among the scientific community and the relative simplicity of the Arctic vertebrate community provides an ideal theoretical framework to address these questions.
-  Email:        Andreanne.Beardsell@uqar.ca
-
--
-  Image:        madelaine.jpg
-  Name:         Madelaine
-  LastName:     Proulx
-  key:          33
-  Status:       "M.Sc Candidate"
-  Year_start:    2017
-  Year_finish:   2019
-  Supervisor:   Dominique Gravel
-  CoSupervisor: Christine Parent
-  Title_fr:     Macro-évolution des réseaux sur les Îles Galapagos
-  Title_en:     Macro-evolution of food webs on Galapagos Islands
-  Abstract_fr: La théorie de la biogéographie des îles, initialement élaborée par MacArthur et Wilson (1963), a inspiré plusieurs chercheurs dans leurs recherches sur la dynamique des populations et l’assemblage des communautés insulaires. Ce qui a commencé comme une théorie plutôt simple mettant en relation les taux d’immigration, d’extinction et la distance entre les îles et le continent, pour expliquer la richesse spécifique d’une île a rapidement été reprise et extrapolée par certains pour tenter d’obtenir un modèle de macroévolution sur les îles. Toutefois, que ce soit par immigration, par spéciation ou par extinction, le changement de composition des espèces modifie toujours, avec plus ou moins d’impact, l’assemblage des communautés et la distribution des espèces sur le territoire. Une question importante à se poser est donc comment les réseaux alimentaires déjà en place réagissent à ces arrivées ou à ces extinctions. Comment ceux-ci ont-ils évolués dans le temps pour arriver à ce que l’on connaît aujourd’hui, et comment réagiront-ils dans le futur aux modifications occasionnés par les changements climatiques ? Par son caractère historique riche pour l’étude de l’évolution, l’archipel des Îles Galapagos sera utlilisé comme cas de figure puisqu’une documentation importante existe sur les occurences des différentes espèces sur chacunes des îles. Grâce à ces données, la structure des réseaux sera inférée, puis mise en relation avec l’âge de l’île pour tenter de déterminer l’influence de la période évolutive sur la complexité des réseaux.
-  Abstract_en: The theory of island biogeography, initially elaborated by MacArthur and Wilson (1963), inspired many scientists on their research on population dynamics and insular community assembly. What began as a pretty simple theory putting in relation immigration, extinction and distance between the island and the mainland to explain species richness of an island rapidely got adapted by a few reserchers to try and obtain a macroevolution model on islands. However,whether it is by immigration, speciation or extinction, the variation of species composition always modifies, with more or less impact, community assembly and the species distribution on a given territory. Therefore, an important question to ask is how the already existing foodweb networks react to these new species arrivals or extinctions. How did these networks evolved to what we know today, and how will they react in the futur to the modifications caused by the global warming ? Given it’s rich historical character for the study of evolution, the Galapagos Islands archipelago will be used as my experimental playground since there is an important documentation existing on the species occurences on each island. With these data, the network structure will be infered, and put in relation with the age of the island to try to determine the influence of the evolutinary period on the network complexity.
-  Email:        madelaine.proulx@usherbrooke.ca
-
--
-  Image: Chunchaozhu.jpeg
-  Name: Chunchao
-  LastName: Zhu
-  key: 34
-  Status: Visiting Post-Doc
-  Year_start:    2016
-  Year_finish:   2018
-  Supervisor: Fangliang He
-  Email: Chunchao.Zhu@USherbrooke.ca
+- 
+ Image: unknown.jpg
+ key: 29
+ Status: Post-Doc
+ Name: Guillaume
+ LastName: Blanchet
+ Year_start: 2016
+ Year_finish: 2018
+ Supervisor: Dominique Gravel
+ Title_en: Linking community ecology theory with new developments in statistical modelling 
+ Title_fr: Développer des liens avec les théories en écologie des communautés et les récents développements en modélisation statistique
+ Abstract_fr: Depuis les dernières années, il y a eu une explosion dans le développement de techniques statistiques spécialement conçu pour approcher différents problèmes en écologie des communautés. On appelle ces techniques les modèles de distribution jointe d'espèces (joint species distribution models). Ces développements proviennent principalement de mathématiciens et de statisticiens ayant un intérêt pour les problèmes écologiques, mais qui ont rarement une formation spécialisée en écologie. Pour cette raison, plusieurs des techniques proposées jusqu'à maintenant ne font que très peu de liens avec les théories développées en écologies des communautés. Pour mon stage postdoctoral, je vais développer les liens qui unissent les théories en écologie des communautés et les modèles de distribution jointe d'espèces. En développant ces liens, il deviendra possible de mieux connaître les lacunes dans les modèles de distribution jointes d'espèces et ainsi permettre de proposer des lignes directrices pour les prochains développements de méthodes statistiques. De plus, une meilleure connaissance des liens qui unissent les modèles de distribution jointe d'espèces et les théories écologiques peut aider les écologistes à mieux comprendre les avenues qui peuvent être approchées avec ces nouvelles méthodes et ainsi raffiner les connaissances en écologie des communautés.
+ Abstract_en: In recent years, there was an explosion in the development of statistical techniques especially designed to approach various problems in community ecology. These new techniques are often referred to as joint species distribution models. These developments came mainly from mathematicians and statisticians who have an interest in ecological problems but that rarely have formal training in ecology.  For this reason, many of the techniques proposed until now make few links with the theories in community ecology. For my postdoctoral fellowship, I will develop the links that relates the theories in community ecology and joint species distribution models. By developing these links, it will become possible to highlight the shortcomings in joint species distribution models and thus direct the developments of novel statistical methods. In addition, a better understanding of the link between ecological theory and joint species distribution models will help ecologists better understand the direction that can be taken with these new technical developments to refine the knowledge in community ecology.
+ Github: guiblanchet
+ Email: guillaume.blanchet@usherbrooke.ca
