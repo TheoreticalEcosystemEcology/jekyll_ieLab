@@ -142,7 +142,7 @@
   Name:           Chantal
   Status:         "Ph.D. Candidate"
   Supervisor:     "Dominique Gravel"
-  Year_finish:    2017
+  Year_finish:    2018
   Year_start:     2014
   key:            15
 -
@@ -157,7 +157,7 @@
   Supervisor:     "Philippe Archambault"
   Title_en:       "Evaluating the cumulative impacts of natural and anthropogenic stressors on the structure and function of the food web of the Estuary and Gulf of St.Lawrence"
   Title_fr:       "Évaluation des impacts cumulés des stresseurs naturels et anthropiques sur la structure et le fonctionnement du réseau trophique de l’Estuaire et du Golfe du Saint-Laurent"
-  Year_finish:    2017
+  Year_finish:    2018
   Year_start:     2014
   key:            16
 -
@@ -393,7 +393,7 @@
  Name:            Guillaume
  LastName:        Blanchet
  Year_start:      2016
- Year_finish:     2017
+ Year_finish:     2018
  Supervisor:      Dominique Gravel
  Title_en:        Linking community ecology theory with new developments in statistical modelling
  Title_fr:        Développer des liens avec les théories en écologie des communautés et les récents développements en modélisation statistique
@@ -477,6 +477,6 @@
   key: 34
   Status: Visiting Post-Doc
   Year_start:    2016
-  Year_finish:   2017
+  Year_finish:   2018
   Supervisor: Fangliang He
   Email: Chunchao.Zhu@USherbrooke.ca
