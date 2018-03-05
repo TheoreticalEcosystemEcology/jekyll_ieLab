@@ -42,7 +42,7 @@ L'objectif de ces rencontres est de présenter des avancées numériques et mét
   <img src="/assets/img/brain.svg" alt="brain" style="height:50px">
 </div>
   <div class="large-11 columns">
-  <h3>The lab meetings<br><span style="font-weight:300;padding-top:10px;">Calendar of weekly meetings</span></h3>
+  <h3>The lab meetings<br><span style="font-weight:300;padding-top:20px;">Calendar of weekly meetings</span></h3>
 </div>
   <div class="small-12 columns">
   <p>
@@ -50,15 +50,15 @@ The aim of these lab meetings is to promote discussion among members on all subj
 The meetings are intended primarily for lab members, but everyone interested in the subject is welcome! The meetings will be held in D8-0022 at noon on the date in the table:
 </p>
 
-<hr>
 <div class="small-12 columns">
 <table style="width:100%">
 
-{% for lab-meetings in site.data.lab-meetings reversed %}
+{% for lab-meetings in site.data.lab reversed %}
+
 <tr>
-  <td style="min-width:150px;">{{ lab-meetings.Date }}</td>
+  <td style="min-width:150px;"><strong>{{ lab-meetings.Date }}</strong></td>
   <td style="min-width:150px;">{{ lab-meetings.Presenter }}</td>
-  <td style="padding-top:20px;"><strong>{{ lab-meetings.Title }}</strong> <a href="{{ lab-meetings.Link }}"><i class="fa fa-link" aria-hidden="true"></i> <small>PDF</small></a></td>
+  <td style="padding-top:20px;">{{ lab-meetings.Title }} {% if lab-meetings.Link != blank %} <a href="{{ lab-meetings.Link }}"><i class="fi-link" aria-hidden="true"></i> <small>PDF</small></a> {% endif %}</td>
 </tr>
 {% endfor %}
 
