@@ -5,7 +5,6 @@ permalink: /papers/
 weight: 4
 ---
 
-
 ## Published articles
 
 {% assign act_year = site.time | date: '%Y' %}
