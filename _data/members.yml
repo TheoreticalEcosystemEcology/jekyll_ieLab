@@ -45,6 +45,7 @@
   Email: claire-jacquet@wanadoo.fr
   Image: claire.png
   LastName: Jacquet
+  Position: Post-Doc at the University of Zurich (Altermatt's Lab)
   Name: Claire
   Status: "Ph.D. Student"
   Supervisor: "Dominique Gravel"
@@ -62,6 +63,7 @@
   Image: phdp.jpg
   LastName: Desjardins-Proulx
   Name: Philippe
+  Position: Freelance, scientific programmer
   Status: "Ph.D. Student"
   Supervisor: "Dominique Gravel"
   Title_en: "Knowledge Transfer in Statistical Relational Learning with Applications to Theoretical Ecology"
@@ -94,6 +96,7 @@
   LastName: Nenzen
   Name: Hedvig
   Status: "Ph.D. Student"
+  Position: Post-Doc at Northern Forestry Centre, Alberta
   Supervisor: "Dominique Gravel"
   Title_en: "Space-time interactions in forest metacommunities"
   Title_fr: "Interactions spatio-temporelles dans les métacommunautés forestières: Dynamique, modélisation et interventions"
@@ -107,6 +110,7 @@
   CoSupervisor: "Nicolas Mouquet"
   Email: kevin.cazelles@univ-montp2.fr
   Github: KevCaz
+  Position: Post-Doc at Guelph University (McCann's Lab)
   Image: kev.jpg
   LastName: Cazelles
   Name: Kevin
@@ -123,6 +127,7 @@
   Email: kevinsolarik@hotmail.com
   Image: kevin.png
   LastName: Solarik
+  Position: Post-Doc at University of Alberta (Landhäusser Research Group)
   Name: Kevin
   Status: "Ph.D. Student"
   Supervisor: "Dominique Gravel"
@@ -133,7 +138,7 @@
   key: 12
   
 - 
-  CoSupervisor: "Catherine Potvin"
+  CoSupervisor: "Frédéric Guichard"
   Email: chantal.hutchison@mail.mcgill.ca
   Image: unknown.jpg
   LastName: Hutchison
@@ -144,17 +149,6 @@
   Year_start: 2014
   key: 15 
  
-- 
-  CoSupervisor: "Catherine Potvin"
-  Email: chantal.hutchison@mail.mcgill.ca
-  Image: unknown.jpg
-  LastName: Hutchison
-  Name: Chantal
-  Status: "Ph.D. Student"
-  Supervisor: "Dominique Gravel"
-  Year_finish: 2018
-  Year_start: 2014
-  key: 15
 - 
   Abstract_fr: "L’intensification de l’empreinte humaine dans l’estuaire et le golfe du Saint-Laurent (EGSL) impose une planification stratégique et systématique de l’utilisation et de l’exploitation des ressources marines. Pourtant, une évaluation systématique des impacts cumulés demeure absente de la littérature. Un nombre important d’activités historiques, actuelles et émergentes caractérisent l’utilisation humaine du Saint-Laurent. Ces activités imposent plusieurs stresseurs environnementaux affichant un chevauchement spatial croissant. Individuellement, ils peuvent affecter la structure et le fonctionnement des écosystèmes. Imposés simultanément, les stresseurs peuvent agir en synergie et entraîner des effets non-linéaires. Ces effets demeurent largement incompris et conséquemment ignorés lors d’évaluations d’impacts environnementaux, qui demeurent orientées sur des espèces ou secteurs uniques. Les effets non-linéaires peuvent s’exprimer selon divers mécanismes, notamment la propagation indirecte de perturbations engendrée par la complexité des interactions biotiques structurant les communautés. Nous suggérons ainsi qu’une compréhension de la structure des réseaux d’interactions biotiques est nécessaire à l’évaluation adéquate des impacts cumulés au sein des écosystèmes. L’objectif général de ma thèse sera d’évaluer les effets de multiples stresseurs sur les réseaux d’interactions biotiques. Les objectifs spécifiques seront 1) d’évaluer les impacts cumulés sur les écosystèmes de l’EGSL, 2) de caractériser la structure spatiale des réseaux d’interactions biotiques de l’ESGL et 3) d’évaluer les impacts cumulés sur les communautés de l’EGSL. Les résultats de cette thèse permettront d’approfondir les connaissances sur les impacts de multiples stresseurs sur les communautés, de fournir un outil performant d’évaluation des impacts cumulés et de favoriser une approche systématique et proactive de gestion des ressources naturelles."
   CoSupervisor: "Dominique Gravel"
@@ -177,6 +171,7 @@
   LastName: Brousseau
   Name: Pierre-Marc
   Status: "Ph.D. Student"
+  Position: Post-Doc at UQAM (Prof. Handa)
   Supervisor: "Dominique Gravel"
   Title_fr: "Implication des traits fonctionnels dans la structure des communautés d'arthropodes de la litière forestière et dans sa décomposition"
   Year_finish: 2016
@@ -278,7 +273,7 @@
   CoSupervisor: "Philippe Archambault"
   Year_finish: 2008
   Year_start: 2012
-  key: 29
+  key: 30
   Email: annie.o.seguin@gmail.com
   Website: www.ismer.ca/Seguin-Annie?lang=fr
 - 
@@ -286,7 +281,7 @@
   Image: kinnon.jpg
   LastName: McKinnon
   Name: Renaud
-  Position: "Naval architect"
+  Position: Professional researcher at UQAR (Bernatchez Lab)
   Status: "M.Sc. Student"
   Supervisor: "Dominique Gravel"
   Year_finish: 2015
@@ -304,7 +299,7 @@
   Title_en: "Effect of temperature on trophic cascades"
   Title_fr: "Effet de la température sur les cascades trophiques"
   Year_finish: 2016
-  key: 26
+  key: 31
 - 
   Email: Jonathan.Brassard2@USherbrooke.ca
   Image: jo.png
@@ -319,6 +314,7 @@
   CoSupervisor: "Yves Bergeron, Dominique Gravel"
   Email: raphael.aussenac@gmail.com
   Image: raph.jpg
+  Position: Professional researcher at INRA-Bordeaux
   LastName: Aussenac
   Name: Raphaël
   Status: "Ph.D. Student"
@@ -392,6 +388,17 @@
   Year_finish: 2008
   Year_start: 2011
   key: 28
+
+- 
+  Image: Chunchaozhu.jpeg
+  LastName: Zhu
+  Name: Chunchao
+  Position: unknown
+  Status: "Visiting Post-Doc"
+  Supervisor: "Fangliang He"
+  Year_finish: 2017
+  Year_start: 2018
+  key: 31
 
 - 
  Image: unknown.jpg
