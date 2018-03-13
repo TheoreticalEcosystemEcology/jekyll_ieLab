@@ -25,7 +25,7 @@ weight: 5
   </div>
 </div>
 
-{% assign members = (site.data.members | sort: 'Name') %}
+{% assign members = site.data.members | sort: 'Name' %}
 {% assign cur_year = site.time | date: '%Y' | times: 1%}
 
 {% for member in  members %}
