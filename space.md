@@ -27,7 +27,7 @@ weight: 10
   <a href="https://ielab-g.dbio.usherbrooke.ca"><h2>GitLab</h2></a>
   <p>
   Private Git repository manager with wiki and issue tracking features. <br>
-  <a href="https://ielab-g.dbio.usherbrooke.ca"><i>https://ielab-g.dbio.usherbrooke.ca</i></a>
+  <a href="https://depot.ielab.usherbrooke.ca"><i>https://depot.ielab.usherbrooke.ca</i></a>
   </p>
   </div>
 </div>
@@ -39,7 +39,7 @@ weight: 10
   <a href="https://ielab-o.dbio.usherbrooke.ca"><h2>Lab Book</h2></a>
   <p>
   Tutorials, Tips and Tricks <br>
-  <a href="https://ielab-g.dbio.usherbrooke.ca/ielab/Docs/wikis/home"><i>https://ielab-g.dbio.usherbrooke.ca/ielab/Docs/wikis/home</i></a> <br>
+  <a href="https://ielab-g.dbio.usherbrooke.ca/ielab/Docs/wikis/home"><i>https://depot.ielab.usherbrooke.ca/ielab/Docs/wikis/home</i></a> <br>
   <b>Login required</b>
   </p>
   </div>

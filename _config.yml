@@ -11,7 +11,7 @@ keys: [Dominique Gravel,Integrative,computational,theoretical,ecology,modelisati
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
   - jekyll-sitemap
 
 scholar:
