@@ -2,13 +2,20 @@
   Date: 5 Février 2018
   Title: Valeurs et les vecteurs propres
   Abstract:
-  Documents: Pas de document
-  
+  Documents:
+
 - Presenter: François Rousseu
   Date: 26 Février 2018
   Title: Débogage de code en R
   Abstract: Au Midi-numérique de cette semaine, je voudrais aborder les différentes stratégies pour déboguer votre code en R, particulièrement en ce qui a trait au débogage des fonctions. Je parlerai également brièvement des différents outils pour étudier la vitesse d'exécution et la performance de votre code.
-  Documents: Pas de document
+  Documents:
+
+- Presenter: Limoilou Renaud et François Rousseu
+  Date: 26 Mars 2018
+  Title: Normalized Difference Vegetation Index (NDVI)
+  Abstract: "Le NDVI est un indice normalisé qui permet de recréer une image de la couverture de la végétation. Par les propriétés de réflexion et d’absorption de certains pigments comme la chlorophylle, on obtient la quantité de « vert » à un endroit donné à partir d'images satellitaires. Or, son extraction est complexe, mais les informations soutirées sont multiples. Voici donc quelques points dont on discutera : <br /><br />1. Où obtient-on les données brutes; <br />2. Quels sont les outils et librairies R disponibles pour extraire et manipuler les données; <br />3. Quelles métriques peut-on extraire des séries temporelles et y a-t-il des méthodes idéales pour le faire (e.g. smooth, filtres, etc.); <br />4. Que peut-on faire avec cette variable environnementale, avec des exemples de mouflons ! <br /><br />En bref, il s’agit d’une variable essentielle à quiconque s’intéresse aux effets de la phénologie des plantes sur les herbivores, et bien d’autres choses !"
+  Documents:
+
 # Archive Automne 2017
 #- Presenter: Amaël Lesquin
 #  Date: 25 september 2017
