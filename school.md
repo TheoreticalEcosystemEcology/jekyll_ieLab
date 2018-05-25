@@ -9,10 +9,10 @@ weight: 11
 
 <div class="row">
   <div class="large-7 columns">
-  <img src="/assets/img/poster_modelisation.png" style="width:100%" align="right" alt="owc" >
+  <img src="/assets/img/poster_modelisation_en.png" style="width:100%" align="right" alt="owc" >
   </div>
   <div class="large-5 columns" style="margin-top:30px">
-  <h2>Biodiversity modelisation</h2>
+  <h2>Biodiversity modelling</h2>
   <h4>August 19th to 24th, 2018</h4>
   <p>
   The Integrative Ecology lab is organizing a summer school on biodiversity modelling. You can apply by writing a cover letter and sending it to <a href="mailto:ecole.biologie@usherbrooke.ca">ecole.biologie@usherbrooke.ca</a> by May 28th. Enrollment is limited to 20 students. The class will run from August 19th to 24th, at Orford Musique, an art and music center located in the Mont Orford provincial park.
