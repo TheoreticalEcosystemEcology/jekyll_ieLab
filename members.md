@@ -38,7 +38,7 @@ weight: 5
   <div class="large-9 columns text-left">
     <h5 style="font-weight:600;font-family:Fira Sans;"> {{ member.Name }} {{ member.LastName }}<br> <span style="font-weight:400;font-size:15px;margin-top:20px;">{{ member.Status }} ({%if member.Year_start != blank %}{{ member.Year_start }}-{% endif %}{{ member.Year_finish }})</span> </h5>
     <h6 style="font-weight:600;">{%if member.Title_en != blank %} {{ member.Title_en}} {% else %} {{ member.Title_fr}} {% endif %}</h6>
-    {%if member.Supervisor != blank and member.CoSupervisor != blank %} <h6 style="font-weight:600;font-size:14px;"> Supervisor(s): <span style="font-weight:400;font-size:14px;"> {{ member.Supervisor }},   {{ member.CoSupervisor }}</span></h6>{% endif %}
+    {%if member.Supervisor != blank %} <h6 style="font-weight:600;font-size:14px;"> Supervisor(s): <span style="font-weight:400;font-size:14px;"> {{ member.Supervisor }} {%if member.CoSupervisor != blank %}, {{ member.CoSupervisor }}{% endif %}</span></h6>{% endif %}
     <p style="text-align:right;margin-right:25px;">
       <a href="mailto:{{ member.Email }} "> <i class="step fi-mail" style="font-size: 30px;"></i> </a>
       {%if member.Github != blank %}
@@ -58,7 +58,7 @@ weight: 5
           </p>
         </div>
       </dd>
-      
+
       <dd class="accordion-navigation">
         <a href="#panel{{ member.key }}b" style="font-weight:600;">Publications</a>
         <div id="panel{{ member.key }}b" class="content">

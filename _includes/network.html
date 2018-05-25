@@ -76,6 +76,13 @@
                     },
                     label: "Forest ecology"
                 }, {
+                    id: 99,
+                    shape: 'box',
+                    font: {
+                        color: '#fff'
+                    },
+                    label: "Biostatistic"
+                }, {
                     id: 14,
                     shape: 'circularImage',
                     image: DIR + 'phdp.jpg',
@@ -139,6 +146,11 @@
                     shape: 'circularImage',
                     image: DIR + 'Chunchaozhu.jpeg',
                     label: "Chunchao zhu"
+                },{
+                    id: 29,
+                    shape: 'circularImage',
+                    image: DIR + 'kath.jpg',
+                    label: "Katherine Hébert"
                 },];
 
                 // create connections between people
@@ -212,6 +224,18 @@
                 }, {
                     from: 28,
                     to: 10
+                },{
+                    from: 26,
+                    to: 11
+                },{
+                    from: 29,
+                    to: 10
+                },{
+                    from: 29,
+                    to: 11
+                },{
+                    from: 23,
+                    to: 99
                 },];
 
                 // edges = [
