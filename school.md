@@ -21,5 +21,16 @@ weight: 11
   </p><p>
   If you need any additional information about the course, send your questions to <a href="mailto:ecole.biologie@usherbrooke.ca">ecole.biologie@usherbrooke.ca</a>.
   </p>
+  <h5>Course outline</h5>
+  <ul>
+  <li> <a href="/assets/pdf/biodiv2018/plan_cours_biodiv.pdf">Télécharger le plan de cours</a> </li>
+  <li> <a href="/assets/pdf/biodiv2018/plan_cours_biodiv_EN.pdf">Download the course outline</a> </li>
+  </ul>
+
+  <h5>Poster</h5>
+  <ul>
+  <li><a href="/assets/pdf/biodiv2018/poster_modelisation_fr_new_date.pdf">Télécharger l'affiche</a></li>
+  <li><a href="/assets/pdf/biodiv2018/poster_modelisation_en_new_date.pdf">Download the poster</a></li>
+  </ul>
   </div>
 </div>
