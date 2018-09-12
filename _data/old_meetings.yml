@@ -1,0 +1,100 @@
+#Archive hiver 2018
+- Presenter: Amaël Lesquin
+  Date: 5 Février 2018
+  Title: Valeurs et les vecteurs propres
+  Abstract: Si vous ne savez pas ce que sont des valeurs propres et des vecteurs propres, Amaël va discuter de ces bébittes lors du midi-numérique d’aujourd’hui.
+  Documents:
+
+- Presenter: François Rousseu
+  Date: 26 Février 2018
+  Title: Débogage de code en R
+  Abstract: Au Midi-numérique de cette semaine, je voudrais aborder les différentes stratégies pour déboguer votre code en R, particulièrement en ce qui a trait au débogage des fonctions. Je parlerai également brièvement des différents outils pour étudier la vitesse d'exécution et la performance de votre code.
+  Documents:
+
+- Presenter: Limoilou Renaud et François Rousseu
+  Date: 26 Mars 2018
+  Title: Normalized Difference Vegetation Index (NDVI)
+  Abstract: "Le NDVI est un indice normalisé qui permet de recréer une image de la couverture de la végétation. Par les propriétés de réflexion et d’absorption de certains pigments comme la chlorophylle, on obtient la quantité de « vert » à un endroit donné à partir d'images satellitaires. Or, son extraction est complexe, mais les informations soutirées sont multiples. Voici donc quelques points dont on discutera : <br /><br />1. Où obtient-on les données brutes; <br />2. Quels sont les outils et librairies R disponibles pour extraire et manipuler les données; <br />3. Quelles métriques peut-on extraire des séries temporelles et y a-t-il des méthodes idéales pour le faire (e.g. smooth, filtres, etc.); <br />4. Que peut-on faire avec cette variable environnementale, avec des exemples de mouflons ! <br /><br />En bref, il s’agit d’une variable essentielle à quiconque s’intéresse aux effets de la phénologie des plantes sur les herbivores, et bien d’autres choses !"
+  Documents:
+
+- Presenter: Guillaume Blanchet
+  Date: 16 Avril 2018
+  Title: La reproductibilité en science
+  Abstract: "Cette discussion sera en fait une introduction pour les prochains midi-numériques où nous discuterons différentes approches pratiques pour rendre notre approche à la science reproductible."
+  Documents: { Barba2016.pdf, Sandve2013.pdf }
+
+#Archive Automne 2017
+- Presenter: Idaline Laigle
+  Date: 4 décembre 2017
+  Title: Modèles de dynamique de population
+  Abstract: "Pour ce midi-numérique j'aimerais parler des modèles de dynamique de population. Ces modèles sont de plus en plus utilisés mais on entend encore des commentaires tels que 'oui mais c'est de la théorie', 'c'est incomplet, pas réaliste'. Après avoir fait une brève introduction sur le fonctionnement de ces modèles, les intégrations numériques ect, je vous présenterai rapidement le modèle que j'utilise dans mon doctorat afin d'en discuter. Ensuite j'aimerais beaucoup que certains d'entre vous choisissent un ou plusieurs articles où un modèle est développé, soit parce que vous l'avez trouvé très bien, ou à l'inverse, très nul."
+  Documents:
+
+- Presenter: Azenor Bideault
+  Date: 13 novembre 2017
+  Title: Stabilité en écologie
+  Abstract: "Pas de lecture pour ce midi numérique, l'idée est de discuter du concept
+  de stabilité en écologie et de réfléchir aux façons de la quantifier.
+  <br /><br />
+  Les études de stabilité ont une riche histoire en écologie. La stabilité
+  peut avoir différentes définitions selon le type de perturbations et la
+  réponse mesurée. En effet, un grand nombre de mesures de stabilité ont
+  été développées, et ces mesures varient entre études théoriques et
+  expérimentales. Ceci a mené à des résultats contradictoires entre les
+  études, quelles soient théoriques ou expérimentales. L'un des exemples
+  majeurs concerne la relation diversité-stabilité. Aujourd'hui, certaines
+  recherches cherchent à déterminer si les différentes composantes de la
+  stabilité sont indépendantes ou au contraire corrélées afin de mieux
+  caractériser l'aspect multidimensionnel de la stabilité en écologie."
+  Documents:
+
+- Presenter: Amaël Lesquin
+  Date: 25 september 2017
+  Title: Écologie et écosystèmes bancaires
+  Abstract: "La discussion sera orientée sur les parallèles possibles entre systèmes bancaires et écosystèmes. Au début de la discussion, je ferai un résumé de l'article afin de définir un vocabulaire précis. Je puiserai aussi des informations complémentaires provenant notamment des papiers et documentaires suivants: <br />
+  <br />1. Systemic risk: the dynamics of model banking systems (doi = 10.1098/rsif.2009.0359)
+  <br />2. Systemic risk in banking ecosystems (doi = 10.1038/nature09659)
+  <br />3. Noire finance, épisode 1 (la grande pompe à phynances, documentaire ARTE)
+  <br />4. Noire finance, épisode 2 (Le bal des vautours, documentaire ARTE) <br />
+
+  <br /> Le modèle est basé sur la théorie des réseaux où chaque noeud est une banque."
+
+  Documents: { May2008.pdf, Haldane2011.pdf }
+
+#Archive hiver 2017
+- Presenter: David Beauchesne
+  Date: 27 Février 2017
+  Title: Un algorithme d'apprentissage pour prédire les interactions biotiques dans des environnements pauvres en données
+  Abstract: Je vais présenter les rouages d'une approche méthodologique que nous avons récemment développée permettant de prédire la structure des réseaux d'interactions biotiques dans les milieux où peu de données sont disponibles. Nous discuterons ensuite des limites de la méthodologie, des applications potentielles en écologie et l'utilisation des algorithmes d'apprentissages en général en écologie.
+  Documents: { Beauchene2017.pdf }
+- Presenter: Antoine Becker-Scarpitta
+  Date: 20 Mars 2017
+  Title: Les indices d'affinités à la température
+  Abstract: Je vais vous présenter une méthodologie que je veux utiliser dans mon dernier chapitre de thèse. Je calcule des indices d'affinités à certains paramètres climatiques (enveloppe thermique notamment) basés sur des cartes de distribution d'espèce. Pour chaque point d'observation d'une espèce en Amérique du nord on extrait un paramètre climatique. En prenant la médiane de ce paramètre, j'obtiens un "Species index" (e.g. la médiane des températures moyennes annuelles = Species Temperature Index, STI). Par la suite ces indices me permettent de calculer des enveloppes thermiques moyennes d'une communauté (i.e. on pondère le Species temperature index d'une espèce par son abondance relative dans sa communauté ce qui nous donne un Community Temperature Index (CTI). J'aimerai vous présenter mes idées sur ce point et avoir vos retours sur plusieurs questions méthodo sur le calcul de ces indices.
+  Documents: { Sanchez2012.pdf }
+- Presenter: Gabriel Pigeon
+  Date: 10 Avril 2017
+  Title: Les modèles de projections intégrales
+  Abstract: Les modèles de projections intégrales (IPM) sont des outils incroyables pour l'étude de l'écologie des populations. Ces modèles permettent de projeter dans le futur aussi bien la taille de la population que la distribution en trait dans cette population. Les IPMs ont des avantages non négligeables. Ils sont relativement faciles à paramétrer et bâtissent sur toutes les avancées du domaine des modèles matriciels de population. Ces modèles sont donc de plus en plus utilisés. Ils permettent aussi d'inclure l'effet du trait sur la survie et la reproduction. Ces modèles semblent donc destinés à l'étude de l'écologie évolutive et de la dynamique écoévolutive. Leur utilisation dans des contextes évolutifs est pourtant contestée. En effet, les prédictions tirées des IPMs sont souvent en désaccord avec prédictions tirées des méthodes de génétique quantitative.
+  Documents: { Rees2013.pdf, Janeiro2017.pdf }
+
+#Archive Automne 2016
+- Presenter: Dominique Gravel
+  Date: 26 septembre 2016
+  Title: Compléxité et stabilité en écologie
+  Abstract:  Discussion sur le concept de stabilité en écologie, et en particulier sur la relation entre stabilité et complexité des écosystèmes. Je vais faire un bref rappel de la technique d'analyse de stabilité locale, et après nous aurons une discussion sur un papier que nous venons de publier sur le test de l'hypothèse de Robert May. J'ai aussi attaché un review récent sur les différentes approches pour mesurer la stabilité.
+  Documents: { Donohue2013.pdf, Jacquet2016.pdf }
+- Presenter: Raphaël Aussenac
+  Date: 24 octobre 2016
+  Title: Les algorithmes génétiques (GA)
+  Abstract: Les GA s'inspirent des principes de l'évolution des organismes (sélection, croisement, mutation et migration) et permettent de résoudre des problèmes d'optimisation. Pour alimenter notre discussion, je joins l'article présentant le package R "GA". On y trouve une présentation très didactique du fonctionnement des GA ainsi que des exemples.
+  Documents: { GA_article.pdf }
+- Presenter: Amaël Lesquin
+  Date: 14 Novembre 2016
+  Title: Validation de modèles en écologie
+  Abstract: Actuellement, les modèles mathématiques sont de plus en plus utilisés en écologie. Cependant leur interprétation n'est pas forcément simple et leur adéquation avec la réalité difficile à évaluer. Je vous propose ici une discussion sur les termes utilisés en modélisation et par les autorités gouvernementales (notamment vérification, validation, et confirmation) basée sur l'article de Naomie Oreskes (1994). Si nous avons le temps, je vous expliquerais ensuite l'analyse dimensionnelle qui permet d'aborder plus facilement un modèle.
+  Documents: { Oreskes1994.pdf }
+- Presenter: Guillaume Blanchet
+  Title: Atelier d'introduction sur la création de package R en écologie.
+  Date: 5 Décembre 2016
+  Documents: { Hornik2012.pdf }
