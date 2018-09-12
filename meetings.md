@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Meetings
+menu: main
 permalink: /meetings/
 weight: 10
 ---

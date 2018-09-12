@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Publications
+menu: main
 permalink: /papers/
 weight: 4
 ---

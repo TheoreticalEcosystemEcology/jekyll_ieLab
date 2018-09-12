@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Members
+menu: main
 permalink: /members/
 weight: 5
 ---

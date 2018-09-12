@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Lab spaces
+menu: main
 permalink: /space/
 weight: 10
 ---

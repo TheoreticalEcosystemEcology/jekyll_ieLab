@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+menu: main
 permalink: /home/
 weight: 1
 ---
@@ -26,6 +27,6 @@ weight: 1
   </div>
 </div>
 
-<iframe src="/keyword_cloud.html" width="100%" height="375px" frameBorder="0"></iframe> 
+<iframe src="/keyword_cloud.html" width="100%" height="375px" frameBorder="0"></iframe>
 
 {% include network.html %}
