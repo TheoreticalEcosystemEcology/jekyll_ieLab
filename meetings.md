@@ -37,7 +37,7 @@ L'objectif de ces rencontres est de présenter des avancées numériques et mét
 </table>
 
 <p>
-List of old presentations can be found <a href="/../old_meetings"><strong>here</strong></a>.
+List of old presentations can be found <a href="/../old_meetings.html"><strong>here</strong></a>.
 </p>
 
 <div class="row">
@@ -69,5 +69,5 @@ The meetings are intended primarily for lab members, but everyone interested in 
 
 </div>
 <p>
-List of old presentations can be found <a href="/../old_lab-meetings"><strong>here</strong></a>.
+List of old presentations can be found <a href="/../old_lab-meetings.html"><strong>here</strong></a>.
 </p>

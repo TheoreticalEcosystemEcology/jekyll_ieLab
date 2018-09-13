@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Summer schools
-menu: main
 permalink: /schools/
 weight: 11
 ---
