@@ -2,7 +2,7 @@
 ## Integrative Ecology Lab wordCloud
 ##
 ## first version: October, 14 2017
-## last modification: October, 14 2017
+## last modification: September, 12 2018
 ## Willian Vieira
 ##
 ## R version 3.4.0 (2017-04-21)
@@ -17,6 +17,7 @@ library(extrafont)
 library(grDevices)
 library(htmlwidgets)
 library(webshot)
+library(magrittr)
 
 # data
   refs <- read.bib(file = "_bibliography/labo.bib")
@@ -31,6 +32,8 @@ library(webshot)
 
   keyw <- unlist(keyList)
   keyw <- stringr::str_replace_all(keyw, "[^a-zA-Z0-9\\s]", "") #remove everything is not a number or letter
+  keyw <- unlist(strsplit(keyw, ' ')) # split compound words
+  keyw <- keyw[which(keyw != "")] # remove empty space
 
 # title
   title <- tolower(as.character(refs$title))
@@ -47,9 +50,49 @@ library(webshot)
   # stop words
   abst <- abst[! abst %in% stopWords]
 
-# merging title and keywords
-  titleKeyw <- table(c(title, keyw))
-  titleKeyw <- titleKeyw[which(titleKeyw > 3)]
+# merging titles and keywords
+tk <- c(title)
+
+# fix frequent compound words and remove usless words
+tk <- tk[-grep('species', tk)]
+tk <- tk[-grep('using', tk)]
+tk <- tk[-grep('relationship', tk)]
+tk <- tk[-grep('ffect', tk)]
+tk <- tk[-grep('link', tk)]
+tk <- tk[-grep('drive', tk)]
+tk <- tk[-grep('assess', tk)]
+tk <- tk[-grep('toward', tk)]
+tk <- tk[-grep('outbreak', tk)]
+tk <- tk[-grep('identi', tk)]
+tk <- tk[tk != 'and' & tk != 'et' & tk != 'st' & tk != 'making' & tk != 'des' & tk != 'can' & tk != 'major' & tk != 'different' & tk != 'along' & tk != 'represent']
+
+tk[grep('model', tk)] <- 'models'
+tk[unique(c(grep('food', tk), grep('web', tk)))] <- 'food web'
+tk[grep('interaction', tk)] <- 'interaction'
+tk[grep('dynamic', tk)] <- 'dynamic'
+tk[grep('diversity', tk)] <- 'diversity'
+tk[c(grep('climate', tk), grep('change', tk))] <- 'climate change'
+tk[grep('metaecos', tk)] <- 'meta-ecosystem'
+tk[grep('metacom', tk)] <- 'meta-community'
+tk[grep('probabil', tk)] <- 'probability'
+tk[grep('networ', tk)] <- 'netwok'
+tk[grep('theor', tk)] <- 'theory'
+tk[grep('distribution', tk)] <- 'distribution'
+tk[grep('ecolog', tk)] <- 'ecology'
+tk[grep('communities', tk)] <- 'community'
+tk[grep('function', tk)] <- 'functional'
+tk[grep('trait', tk)] <- 'trait'
+tk[grep('tree', tk)] <- 'tree'
+tk[grep('integrat', tk)] <- 'integrating'
+tk[grep('scale', tk)] <- 'scale'
+tk[grep('shade', tk)] <- 'shade'
+tk[grep('experiment', tk)] <- 'experiment'
+tk[grep('gradient', tk)] <- 'gradient'
+tk[grep('forest', tk)] <- 'forest'
+
+# merging title and keywords into table
+  titleKeyw <- table(tk)
+  titleKeyw <- titleKeyw[which(titleKeyw > 1)]
 
   # color
 col1 <- c(rgb(159, 33, 31, maxColorValue = 255), # style 1
@@ -72,7 +115,7 @@ my_graph <-
 wordcloud2(rev(sort(titleKeyw)),
                        fontFamily = "Fira Sans",
                        color = colFunc(nrow(titleKeyw)),
-                       size = 0.55,
+                       size = 0.5,
                        gridSize = 1,
                        backgroundColor = rgb(255, 255, 255, maxColorValue = 255),
                        rotateRatio = 0,
@@ -83,5 +126,3 @@ wordcloud2(rev(sort(titleKeyw)),
 # export
   # html
 saveWidget(my_graph, "keyword_cloud.html",libdir='assets/cloud_deps', selfcontained = F)
-system('mv keyword_cloud.html _includes/keyword_cloud.html')
-
