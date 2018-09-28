@@ -16,3 +16,6 @@ $(SITE): $(WDH) $(DATA) $(INC) $(LAY) $(PAGES) $(ASS) $(ASSPDF) $(ASSimg)
 
 $(WDH): $(WD) $(BIB)
 	Rscript $(WD)
+
+server:
+	jekyll server --destination _server
