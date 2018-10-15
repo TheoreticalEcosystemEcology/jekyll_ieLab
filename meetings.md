@@ -27,9 +27,9 @@ L'objectif de ces rencontres est de présenter des avancées numériques et mét
 <td style="min-width:150px;"><strong>{{ meeting.Date }}</strong></td>
 <td style="padding-top:20px;"><strong>{{ meeting.Title }}</strong> par {{ meeting.Presenter }}<br>
 <hr style="margin:5px;">
-<p>{{ meeting.Abstract }}<br><strong>Documents à lire</strong>:
+<p>{{ meeting.Abstract }}<br>
 {% for doc in meeting.Documents %}
-  <a href="../assets/pdf/midi_num/{{ doc }}"> {{ doc }} </a>
+  <a href="../assets/pdf/midi_num/{{ doc }}"><i class="fi-link" aria-hidden="true"></i><strong>PDF</strong></a>
 {% endfor %}</p>
 </td>
 </tr>
