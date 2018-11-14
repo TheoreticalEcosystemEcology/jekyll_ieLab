@@ -19,3 +19,6 @@ $(WDH): $(WD) $(BIB)
 
 server:
 	jekyll server --destination _server
+
+clean:
+	rm -rf _server _site

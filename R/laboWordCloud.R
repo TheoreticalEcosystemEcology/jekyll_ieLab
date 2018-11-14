@@ -64,6 +64,7 @@ tk <- tk[-grep('assess', tk)]
 tk <- tk[-grep('toward', tk)]
 tk <- tk[-grep('outbreak', tk)]
 tk <- tk[-grep('identi', tk)]
+tk <- tk[-grep('structu', tk)]
 tk <- tk[tk != 'and' & tk != 'et' & tk != 'st' & tk != 'making' & tk != 'des' & tk != 'can' & tk != 'major' & tk != 'different' & tk != 'along' & tk != 'represent']
 
 tk[grep('model', tk)] <- 'models'
@@ -84,15 +85,23 @@ tk[grep('function', tk)] <- 'functional'
 tk[grep('trait', tk)] <- 'trait'
 tk[grep('tree', tk)] <- 'tree'
 tk[grep('integrat', tk)] <- 'integrating'
-tk[grep('scale', tk)] <- 'scale'
+tk[grep('scal', tk)] <- 'scale'
 tk[grep('shade', tk)] <- 'shade'
 tk[grep('experiment', tk)] <- 'experiment'
 tk[grep('gradient', tk)] <- 'gradient'
 tk[grep('forest', tk)] <- 'forest'
+tk[grep('biogeogr', tk)] <- 'biogeography'
+tk[grep('simula', tk)] <- 'simulation'
+tk[grep('landscap', tk)] <- 'landscape'
+tk[grep('hypothes', tk)] <- 'hypothesis'
+tk[grep('extincti', tk)] <- 'extinction'
+tk[grep('environment', tk)] <- 'environment'
+tk[grep('data', tk)] <- 'data'
+tk[grep('complexi', tk)] <- 'complexity'
 
 # merging title and keywords into table
   titleKeyw <- table(tk)
-  titleKeyw <- titleKeyw[which(titleKeyw > 1)]
+  titleKeyw <- titleKeyw[which(titleKeyw > 2)]
 
   # color
 col1 <- c(rgb(159, 33, 31, maxColorValue = 255), # style 1
@@ -113,13 +122,11 @@ hoverFunction = htmlwidgets::JS("function hover() {}")
 
 my_graph <-
 wordcloud2(rev(sort(titleKeyw)),
-                       fontFamily = "Fira Sans",
                        color = colFunc(nrow(titleKeyw)),
-                       size = 0.5,
-                       gridSize = 1,
+                       size = 0.55,
                        backgroundColor = rgb(255, 255, 255, maxColorValue = 255),
                        rotateRatio = 0,
-                       ellipticity = 0.3,
+                       ellipticity = 0.4,
                        hoverFunction = hoverFunction
 )
 
