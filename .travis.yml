@@ -17,7 +17,7 @@ install: gem install jekyll jekyll-sitemap jekyll-scholar
 script: jekyll build
 
 after_script:
- - cp _site/home/index.html index.html
+ - cp _site/home/index.html _site/index.html
 
 
 cache: bundler # caching bundler gem packages will speed up build
