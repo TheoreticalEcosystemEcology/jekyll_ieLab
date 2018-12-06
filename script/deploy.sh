@@ -8,4 +8,4 @@ abort() {
 [ -z $FTP_USER ] && abort "FTP_USER is undefined"
 [ -z $FTP_SITE ] && abort "FTP_SITE is undefined"
 lftp -u $FTP_USER,$FTP_PASS $FTP_SITE \
- -e 'mirror -c -e -R _site ~ ; exit'
+ -e 'mirror -c -e -v -R _site ~ ; exit'
