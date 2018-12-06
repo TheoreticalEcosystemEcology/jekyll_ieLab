@@ -23,5 +23,5 @@ after_script:
 cache: bundler # caching bundler gem packages will speed up build
 
 after_success:
- - chmod +x deploy.sh
+ - chmod +x script/deploy.sh
  - bash script/deploy.sh
