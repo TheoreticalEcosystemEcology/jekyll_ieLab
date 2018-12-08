@@ -8,4 +8,4 @@ abort() {
 [ -z $FTP_USER ] && abort "FTP_USER is undefined"
 [ -z $FTP_SITE ] && abort "FTP_SITE is undefined"
 lftp -d -u $FTP_USER,$FTP_PASS $FTP_SITE \
- -e 'set ssl:verify-certificate no; mirror --ignore-time --parallel=10 -e -v -R _site ~ ; exit'
+ -e 'set ssl:verify-certificate no; set ftp:ssl-allow no; mirror --ignore-time --parallel=10 -e -v -R _site ~ ; exit'
