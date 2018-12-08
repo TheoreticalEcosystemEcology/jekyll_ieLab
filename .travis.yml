@@ -1,5 +1,6 @@
 language: ruby
 sudo: false 
+dist: xenial
 rvm:
   - 2.4.1
 warnings_are_errors: false
