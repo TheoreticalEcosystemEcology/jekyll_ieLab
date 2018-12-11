@@ -19,7 +19,7 @@ script: jekyll build
 
 cache: bundler # caching bundler gem packages will speed up build
 
-after_success:
-  - cp _site/home/index.html _site/index.html
-  - chmod +x script/deploy.sh
-  - bash script/deploy.sh
+# after_success:
+#   - cp _site/home/index.html _site/index.html
+#   - chmod +x script/deploy.sh
+#   - bash script/deploy.sh
