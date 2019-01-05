@@ -1,20 +1,5 @@
-- Presenter: Guillaume Blanchet
-  Date: 22 octobre 2018
-  Title: Modèle mixte
+- Presenter:
+  Date:
+  Title:
   Abstract:
   Documents:
-
-- Presenter: Kate Wootton
-  Date: 29 octobre 2018
-  Title: 'Matching-centrality decomposition'
-  Abstract: "This paper describes a method I might try and use to analyze some of my data while I’m visiting Quebec. I thought it might be useful to discuss so that I can try and understand it better and to get some thoughts and input (and help) from all of you. And I hope it is something that will be of interest to you too!"
-  Documents: 'Rohr2016.pdf'
-
-- Presenter: Amaël Lesquin
-  Date: 19 novembre 2018
-  Title: "How to read an equation without understanding it at first glance"
-  Abstract: "This week, I want to discuss dimension (units) in biology and how can we get information on a mathematically formulated problem without solving it. The paper to read is the same as last week, you just need to focus on figures 1 & 2, and equation 2! As long as you know basic units (kg, meter and second; apologies to the USA, I am using the International System of Units IS) there is nothing else to do.
-I would like to divide the discussion into two parts: <br><br>
-1. Intuition on diffusion equation (cf equation 2 from the paper) without solving it. Checking in a second if an equation is correct; <br>
-2. Twist the former equation to have a dimensionless problem;"
-  Documents: 'Goldstein2018.pdf'
