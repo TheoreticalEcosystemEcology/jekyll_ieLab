@@ -22,7 +22,7 @@ L'objectif de ces rencontres est de présenter des avancées numériques et mét
 <div class="small-12 columns">
 <table style="width:100%">
 
-{% for meeting in site.data.meetings reversed %}
+{% for meeting in site.data.meetings %}
 <tr>
 <td style="min-width:150px;"><strong>{{ meeting.Date }}</strong></td>
 <td style="padding-top:20px;"><strong>{{ meeting.Title }}</strong> par {{ meeting.Presenter }}<br>
@@ -56,7 +56,7 @@ The meetings are intended primarily for lab members, but everyone interested in 
 <div class="small-12 columns">
 <table style="width:100%">
 
-{% for lab-meetings in site.data.lab reversed %}
+{% for lab-meetings in site.data.lab %}
 
 <tr>
   <td style="min-width:150px;"><strong>{{ lab-meetings.Date }}</strong></td>
