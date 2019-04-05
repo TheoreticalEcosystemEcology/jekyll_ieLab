@@ -23,6 +23,11 @@
 
 - Presenter: Willian Vieira
   Date: April 8, 2019
-  Title: "Integral Projection Models"
-  Abstract:
-  Documents:
+  Title: "Integrated integral projection models (IPM²)"
+  Abstract: "Lundi prochain à la salle du conseil nous allons avoir un midi-numérique sur les Integrated integral projection models (IPM²). Cette approche proposée par Plard et al. 2019 promet de mixer le meilleur des deux mondes. D’une coté les Integrated PM ont l’avantage de lier la démographie avec les donnés au niveau de la population, alors que les Integral PM se basent seulement sur la démographie. De l’autre coté, les Integral PM considèrent la distribution de la variation individuelle, alors que les Integrated PM utilisent seulement la moyenne des individus. <br />
+
+Je voudrais discuter donc <br />
+(i) Sur les avantages d’utiliser leur approache au lieu d’un Integral PM (qui je suis en train de construire) <br />
+(ii) La possibilité d'utiliser leur approche avec nos systèmes d'étude (pensez à vos systèmes alors que vous lisez les méthodes) <br />
+(iii) Les autres possibilités de surmonter le point faible des Integral PM (sans utiliser leur méthode)"
+  Documents: { Plard2019.pdf }
