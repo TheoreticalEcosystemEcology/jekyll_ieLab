@@ -13,10 +13,10 @@ weight: 10
   <img src="/assets/img/owncloud-logo.png" style="width:40%" align="right" alt="owc" >
   </div>
   <div class="large-7 columns" style="margin-top:30px">
-  <a href="https://ielab-o.dbio.usherbrooke.ca"><h2>OwnCloud</h2></a>
+  <a href="https://doc.ielab.usherbrooke.ca"><h2>OwnCloud</h2></a>
   <p>
   Access & share your files, calendars, contacts, mail & more from any device. <br>
-  <a href="https://ielab-o.dbio.usherbrooke.ca"><i>https://ielab-o.dbio.usherbrooke.ca</i></a>
+  <a href="https://doc.ielab.usherbrooke.ca"><i>https://doc.ielab.usherbrooke.ca</i></a>
   </p>
   </div>
 </div>
