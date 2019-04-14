@@ -1,5 +1,5 @@
 language: ruby
-sudo: false 
+sudo: false
 dist: xenial
 rvm:
   - 2.4.1
@@ -9,13 +9,14 @@ notifications:
   email:
     recipients:
       - s.vissault@yahoo.fr
+      - w.vieiraw@gmail.com
 
 before_install:
   - sudo apt-get install -y lftp
 
 install: gem install jekyll jekyll-sitemap jekyll-scholar
 
-script: jekyll build
+script: bundle exec jekyll build
 
 cache: bundler # caching bundler gem packages will speed up build
 
