@@ -14,7 +14,9 @@ notifications:
 before_install:
   - sudo apt-get install -y lftp
 
-install: gem install jekyll jekyll-sitemap jekyll-scholar
+install:
+  - gem install jekyll bundler
+  - bundle install
 
 script: bundle exec jekyll build
 
