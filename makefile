@@ -10,7 +10,7 @@ ASSimg=assets/img/*
 PAGES=$(wildcard *.md)
 
 $(SITE): $(WDH) $(DATA) $(INC) $(LAY) $(PAGES) $(ASS) $(ASSPDF) $(ASSimg)
-	jekyll build
+	bundle exec jekyll build
 	cd _site && cp home/index.html index.html
 	cd _site && lftp ftp://view2301.ielab.02778@ielab.recherche.usherbrooke.ca -e "mirror -e -R ; quit"
 
@@ -18,7 +18,7 @@ $(WDH): $(WD) $(BIB)
 	Rscript $(WD)
 
 server:
-	jekyll server --destination _server
+	bundle exec jekyll server --destination _server
 
 clean:
 	rm -rf _server _site
