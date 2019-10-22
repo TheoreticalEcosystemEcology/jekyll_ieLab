@@ -1,33 +1,26 @@
 - Presenter: Dominique Gravel
-  Date: January 28, 2019
-  Title: Methodes pour considerer l'incertitude de données provenant d'un cytomètre
+  Date: September 16, 2019
+  Title: Co-occurrence is not evidence of ecological interactions
+  Abstract: "Lundi prochain sera le premier midi numérique de l'automne. À cette occasion nous allons discuter de la co-occurrence et des interactions entre espèces. Il s'agit d'un des sujets les plus contentieux dans l'histoire de l'écologie, depuis la publication par Jared Diamond des fameuses 'Assembly rules' et par la suite des contestations par la Tallahassee Mafia. <br/>
+L'étude de la co-occurrence a par la suite été promue par le développement de modèles nuls par Gotelli et tout récemment par les modèles de distribution jointe. En microbiologie en particulier, ils utilisent des mesures d'association spatiale ou temporelle pour inférer les interactions entre espèces.<br/>
+Cette approche est fort intéressante, mais aussi parsemée de nuances et de pièges. Nous avons écris récemment une évaluation critique des limites à l'inférence des interactions à partir de la co-occurrence et voudrions échanger avec vous sur le sujet. <br/>
+Vous trouverez en PJ un manuscrit qui présente 7 raisons pourquoi il faut se méfier de l'adéquation entre co-occurrence et interactions biotiques. Nous passerons certains arguments en revue et discuterons des avantages et des limites de ce type d'analyse de plus en plus populaire."
+  Documents:
+
+- Presenter: TBD
+  Date: October 28, 2019
+  Title: "TBD"
   Abstract:
   Documents:
 
-- Presenter: David Watts
-  Date: Februrary 18, 2019
-  Title: "Biodiversity 'accounting'"
-  Abstract: "J'aimerais que tout le monde lire un article à propos de 'diversity ordering' pour avoir une discussion sur comment nous pouvons comparer la biodiversité parmi des communautés ecologiques. Les mathematiques qui sont presenté ne sont pas trop important pour notre discussion, c'est plus important de comprendre le concept de base (donc si vous n'avez pas beaucoup de temps, au moins lisez l'Introduction - c'est suffisament pour avoir l'idée). Je vais couvrir quelques exemples d'analyses des différentes types de communautés. En avance de notre discussion, SVP pensez-vous les points suivants: <br />
-  <br />1. Est-il important de savoir quelle communauté a plus de diversité à travers du spectre de poids d'abondance?
-  <br />2. Est-ce que vous allez reconsiderer des conclusions passées qui etaient basées sur un seul indice de diversité (e.g. H')?
-  <br />3. Y a-t-il des autres façons pour utiliser cette méthode? <br />
-
-  <br /> J'espère que ce sujet est pertinent pour tout le monde, donc je vais vous voir en grand nombre :)"
-  Documents: { Liu2007.pdf }
-
-- Presenter: François Rousseu
-  Date: March 18, 2019
-  Title: "Simulations pour effectuer la validation et la vérification des modèles statistiques"
-  Abstract: J'animerai le prochain Midi Numérique ce lundi le 18 mars au D3-2042. Nous discuterons de l'utilisation des simulations pour effectuer la validation et la vérification des modèles statistiques (model checking, goodness-of-fit, posterior predictive checking, etc.). Comme lecture, voici la <a href="https://cran.r-project.org/web/packages/DHARMa/vignettes/DHARMa.html"> <strong>vignette du package DHARMa</strong> </a> qui se base entre autres sur l'utilisation de simulations et sur les résidus quantiles pour faciliter cette validation. La partie Motivation devrait être suffisante pour avoir une bonne idée de la méthode.
+- Presenter: Amaël Lesquin
+  Date: November 18, 2019
+  Title: "Deep learning"
+  Abstract:
   Documents:
 
-- Presenter: Willian Vieira
-  Date: April 8, 2019
-  Title: "Integrated integral projection models (IPM²)"
-  Abstract: "Lundi prochain à la salle du conseil nous allons avoir un midi-numérique sur les Integrated integral projection models (IPM²). Cette approche proposée par Plard et al. 2019 promet de mixer le meilleur des deux mondes. D’une coté les Integrated PM ont l’avantage de lier la démographie avec les donnés au niveau de la population, alors que les Integral PM se basent seulement sur la démographie. De l’autre coté, les Integral PM considèrent la distribution de la variation individuelle, alors que les Integrated PM utilisent seulement la moyenne des individus. <br />
-
-Je voudrais discuter donc <br />
-(i) Sur les avantages d’utiliser leur approache au lieu d’un Integral PM (qui je suis en train de construire) <br />
-(ii) La possibilité d'utiliser leur approche avec nos systèmes d'étude (pensez à vos systèmes alors que vous lisez les méthodes) <br />
-(iii) Les autres possibilités de surmonter le point faible des Integral PM (sans utiliser leur méthode)"
-  Documents: { Plard2019.pdf }
+- Presenter: TBD
+  Date: December 9, 2019
+  Title: "TBD"
+  Abstract:
+  Documents:

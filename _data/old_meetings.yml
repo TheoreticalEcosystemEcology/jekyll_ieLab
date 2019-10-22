@@ -130,3 +130,41 @@ I would like to divide the discussion into two parts: <br><br>
 1. Intuition on diffusion equation (cf equation 2 from the paper) without solving it. Checking in a second if an equation is correct; <br>
 2. Twist the former equation to have a dimensionless problem;"
   Documents: 'Goldstein2018.pdf'
+
+##################################
+# Archive winter 2019
+##################################
+
+- Presenter: Dominique Gravel
+  Date: January 28, 2019
+  Title: Methodes pour considerer l'incertitude de données provenant d'un cytomètre
+  Abstract:
+  Documents:
+
+- Presenter: David Watts
+  Date: Februrary 18, 2019
+  Title: "Biodiversity 'accounting'"
+  Abstract: "J'aimerais que tout le monde lire un article à propos de 'diversity ordering' pour avoir une discussion sur comment nous pouvons comparer la biodiversité parmi des communautés ecologiques. Les mathematiques qui sont presenté ne sont pas trop important pour notre discussion, c'est plus important de comprendre le concept de base (donc si vous n'avez pas beaucoup de temps, au moins lisez l'Introduction - c'est suffisament pour avoir l'idée). Je vais couvrir quelques exemples d'analyses des différentes types de communautés. En avance de notre discussion, SVP pensez-vous les points suivants: <br />
+  <br />1. Est-il important de savoir quelle communauté a plus de diversité à travers du spectre de poids d'abondance?
+  <br />2. Est-ce que vous allez reconsiderer des conclusions passées qui etaient basées sur un seul indice de diversité (e.g. H')?
+  <br />3. Y a-t-il des autres façons pour utiliser cette méthode? <br />
+
+  <br /> J'espère que ce sujet est pertinent pour tout le monde, donc je vais vous voir en grand nombre :)"
+  Documents: { Liu2007.pdf }
+
+- Presenter: François Rousseu
+  Date: March 18, 2019
+  Title: "Simulations pour effectuer la validation et la vérification des modèles statistiques"
+  Abstract: J'animerai le prochain Midi Numérique ce lundi le 18 mars au D3-2042. Nous discuterons de l'utilisation des simulations pour effectuer la validation et la vérification des modèles statistiques (model checking, goodness-of-fit, posterior predictive checking, etc.). Comme lecture, voici la <a href="https://cran.r-project.org/web/packages/DHARMa/vignettes/DHARMa.html"> <strong>vignette du package DHARMa</strong> </a> qui se base entre autres sur l'utilisation de simulations et sur les résidus quantiles pour faciliter cette validation. La partie Motivation devrait être suffisante pour avoir une bonne idée de la méthode.
+  Documents:
+
+- Presenter: Willian Vieira
+  Date: April 8, 2019
+  Title: "Integrated integral projection models (IPM²)"
+  Abstract: "Lundi prochain à la salle du conseil nous allons avoir un midi-numérique sur les Integrated integral projection models (IPM²). Cette approche proposée par Plard et al. 2019 promet de mixer le meilleur des deux mondes. D’une coté les Integrated PM ont l’avantage de lier la démographie avec les donnés au niveau de la population, alors que les Integral PM se basent seulement sur la démographie. De l’autre coté, les Integral PM considèrent la distribution de la variation individuelle, alors que les Integrated PM utilisent seulement la moyenne des individus. <br />
+
+Je voudrais discuter donc <br />
+(i) Sur les avantages d’utiliser leur approache au lieu d’un Integral PM (qui je suis en train de construire) <br />
+(ii) La possibilité d'utiliser leur approche avec nos systèmes d'étude (pensez à vos systèmes alors que vous lisez les méthodes) <br />
+(iii) Les autres possibilités de surmonter le point faible des Integral PM (sans utiliser leur méthode)"
+  Documents: { Plard2019.pdf }
