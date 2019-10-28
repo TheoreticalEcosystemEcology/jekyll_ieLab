@@ -144,7 +144,7 @@
   Name:           Chantal
   Status:         "Ph.D. Candidate"
   Supervisor:     "Dominique Gravel"
-  Year_finish:    2018
+  Year_finish:    2019
   Year_start:     2014
   key:            15
 -
@@ -497,3 +497,35 @@
   Year_finish: 2022
   Year_start: 2018
   key: 37
+
+-
+  Abstract_en:  The response of forest trees to climate change is limited because of slow demography, competition and dispersal limitations. Mobile animals such as birds are however more reactive and can track suitable environmental conditions, resulting in a spatial mismatch with their essential habitat. I will study co-distribution of forest trees and passerine birds with parameterized dynamic range models. The project will build on two open databases&#58; forest inventory plots and eBird occurrences. I expect latitudinal shifts to be slower than altitudinal shifts because of dispersal limitations, resulting in range contraction of temperate birds. My work should help the NGO Corridor Appalachien to document the future of the coniferous mountain tops found in their protected land in the Eastern Townships.
+  Abstract_fr:  La réponse des arbres en milieu forestier aux changements climatiques est limité à cause de leur démographie lente, de la compétition et de la dispersion limitée. Toutefois, les animaux mobiles tels que les oiseaux sont plus réactifs et capables de suivre les changements environnementaux, ce qui peut résulter en une disparité spatiale avec leur habitat essentiel. Je vais étudier la codistribution des arbres en milieu forestier et des oiseaux passerins à l’aide de modèles de distributions dynamiques paramétrés. Le projet intégrera deux bases de données &#58; des inventaires forestiers et des occurrences eBird. Je m’attend à ce que les déplacements latitudinaux soient plus lents qu’en altitude à cause des limitations de dispersion, résultant en une contraction de l’aire de répartition des oiseaux. Mes travaux aideront l’ONG Corridor Appalachien à documenter le futur des sommets de conifères présent dans leurs aires protégés en Estrie.
+  Image:
+  Email:        victor.cameron@usherbrooke.ca
+  LastName:     Cameron
+  Name:         Victor
+  Status:       M.Sc. Student
+  Supervisor:   Dominique Gravel
+  Title_en:     Effect of climate change on the co-distribution of forest trees and passerine birds
+  Title_fr:     Effets des changements climatiques sur la codistribution des arbres en milieu forestier et des oiseaux passerins
+  Year_finish:  2021
+  Year_start:   2019
+  key:          38
+
+-
+  Abstract_en:  After nearly a hundred years of research in population dynamics, much remains to understand of demographic fluctuations observed in arctic ecosystems. The causes and processes responsible for the interannual oscillation of lemming populations, a key specie in the tundra food web, are still up to debate. Predation is currently identified as an important element of the system, however the role played by specialist vs generalist is less understood. Moreover, the nature of the interaction is subject to change under the strong contrast that exist between winter and summer in the high arctic. It is not known how predator-prey interaction and seasonality affect lemming’s population dynamic. Modeling can address this problem by connecting the theoretical and empirical approach. My project is to construct such a model that integrate seasonality and predator-prey interaction into lemming population dynamics. The basis modeling approach is the coupling of the functional and numerical responses of the predators to the variation in lemming abundance. Seasonality will be a novel and essential aspect of the model since lemming undergo very different predation pressure between season. Questions I hope answering through this model are&#58; (1) are predator-prey interaction alone enough to reproduce cycle like those of lemming populations in the high arctic? (2) Are all predators needed to generate this cyclical dynamic and what is the significance/role of each one (e.g. specialist vs generalist; resident vs migrant)? Is the strong seasonality that characterise arctic ecosystem an essential component in generating this cyclical dynamic?
+  Abstract_fr:  Près de cent ans après le début de la recherche en dynamique des populations, les fluctuations démographiques observés dans l’écosystème arctique demeurent incomprises. Les phénomènes et mécanismes responsables des oscillations interannuelles chez le lemming, une espèce clef du réseau trophique de la toundra, sont encore débattues. Actuellement, la prédation est identifiée comme un élément important du système, mais le rôle des spécialistes vs généralistes est mal compris. De plus, la nature de ses interactions est fortement affectée par l’important contraste saisonnier qui existe en arctique entre hiver et été. Ainsi, on ignore comment les interactions prédateurs-proies et la saisonnalité affectent la dynamique de population des lemmings. La modélisation permet d’aborder ce problème par une approche mêlant le théorique à l’empirique. Mon projet est de construire un modèle saisonnier de la dynamique de population de lemming en fonction des interactions prédateurs-proies. La base de l’approche de modélisation sera le couplage des réponses fonctionnelles et numériques des prédateurs aux variations d’abondance des lemmings. La saisonnalité sera un aspect novateur et essentiel dans le modèle puisque les lemmings subissent une pression de prédation très contrasté d’une saison à l’autre. Les questions auxquelles j’espères répondre avec ce modèle sont &#58; (1) est-ce que les interactions prédateurs-proies sont suffisantes pour engendrer des cycles similaire à ceux des populations de lemmings du système?; (2) est-ce que tous les prédateurs sont nécessaires pour générer cette dynamique cyclique et quel est l’importance/rôle de chacun (e.g. spécialiste vs généraliste; résidents vs migrateurs)?; (3) est-ce que la forte saisonnalité qui caractérise les milieux arctiques est une composante essentielle pour générer cette dynamique cyclique?
+  Image:
+  Email:        gabriel.bergeron3@usherbrooke.ca
+  LastName:     Bergeron
+  Name:         Gabriel
+  Status:       M.Sc. Student
+  Supervisor:   Dominique Gravel
+  CoSupervisor: Gilles Gauthier
+  Title_en:     Lemming population dynamics in relation to predator-prey interaction and seasonnality on Bylot Island, Nu
+  Title_fr:     Dynamique de populations des lemmings en relation aux intéractions prédateurs-proies et à la saisonnalité sur l'île Bylot, Nu
+  Year_finish:  2021
+  Year_start:   2019
+  Orcid:        0000-0002-5956-069X
+  key:          39
