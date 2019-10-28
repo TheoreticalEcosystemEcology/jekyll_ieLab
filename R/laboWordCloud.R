@@ -53,6 +53,10 @@ library(magrittr)
 # merging titles and keywords
 tk <- c(title)
 
+# Add people's keywords
+ppl <- c("beauté", "raclette")
+tk <- c(tk, rep(ppl, 3))
+
 # fix frequent compound words and remove usless words
 tk <- tk[-grep('species', tk)]
 tk <- tk[-grep('using', tk)]
@@ -65,7 +69,7 @@ tk <- tk[-grep('toward', tk)]
 tk <- tk[-grep('outbreak', tk)]
 tk <- tk[-grep('identi', tk)]
 tk <- tk[-grep('structu', tk)]
-tk <- tk[tk != 'and' & tk != 'et' & tk != 'st' & tk != 'making' & tk != 'des' & tk != 'can' & tk != 'major' & tk != 'different' & tk != 'along' & tk != 'represent']
+tk <- tk[tk != 'and' & tk != 'et' & tk != 'st' & tk != 'making' & tk != 'des' & tk != 'can' & tk != 'major' & tk != 'different' & tk != 'along' & tk != 'represent' & tk != 'shade' & tk != 'reveal' & tk != 'across' & tk != 'years']
 
 tk[grep('model', tk)] <- 'models'
 tk[unique(c(grep('food', tk), grep('web', tk)))] <- 'food web'
@@ -76,7 +80,7 @@ tk[c(grep('climate', tk), grep('change', tk))] <- 'climate change'
 tk[grep('metaecos', tk)] <- 'meta-ecosystem'
 tk[grep('metacom', tk)] <- 'meta-community'
 tk[grep('probabil', tk)] <- 'probability'
-tk[grep('networ', tk)] <- 'netwok'
+tk[grep('networ', tk)] <- 'network'
 tk[grep('theor', tk)] <- 'theory'
 tk[grep('distribution', tk)] <- 'distribution'
 tk[grep('ecolog', tk)] <- 'ecology'
