@@ -7,10 +7,14 @@ Cette approche est fort intéressante, mais aussi parsemée de nuances et de pi�
 Vous trouverez en PJ un manuscrit qui présente 7 raisons pourquoi il faut se méfier de l'adéquation entre co-occurrence et interactions biotiques. Nous passerons certains arguments en revue et discuterons des avantages et des limites de ce type d'analyse de plus en plus populaire."
   Documents:
 
-- Presenter: TBD
+- Presenter: Willian Vieira
   Date: October 28, 2019
-  Title: "TBD"
-  Abstract:
+  Title: "Vers la science reproductible avec Rmarkdown!"
+  Abstract: "Suite à conférence de Timothée Poisot vendredi dernière, ce midi j’aimerais faire un survole sur la science reproductible en mélangeant des discussions fondamentales aussi que des outils afin que vous puissiez le metre en pratiques : <br/><br/>
+1. Je vais commencer avec un rappel rapide sur c’est quoi exactement la science reproductible ? Pourquoi faire ?<br/>
+2. Comment on fait ? Ici je vais vous presenter quelques outils (markdown inclus) de comment on peut arriver à différent niveau de reproductibilité. Je vous présenterai comme example mon première article en construction.<br/>
+3. Finalement j’aimerais finir la discussion sur quelles actions pouvons-nous faire pour que recherche reproductible devient la norme?
+"
   Documents:
 
 - Presenter: Amaël Lesquin
