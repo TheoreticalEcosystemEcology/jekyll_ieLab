@@ -13,6 +13,8 @@ notifications:
 
 before_install:
   - sudo apt-get install -y lftp
+  - sudo /sbin/modprobe tun
+  - sudo apt-get install network-manager-openconnect-gnome
 
 install:
   - gem install jekyll bundler
@@ -22,7 +24,8 @@ script: bundle exec jekyll build
 
 cache: bundler # caching bundler gem packages will speed up build
 
-# after_success:
-#   - cp _site/home/index.html _site/index.html
-#   - chmod +x script/deploy.sh
-#   - bash script/deploy.sh
+after_success:
+  - echo $PASS | sudo openconnect rpv.usherbrooke.ca --user=view2301 --background --passwd-on-stdin
+  - cp _site/home/index.html _site/index.html
+  - chmod +x script/deploy.sh
+  - bash script/deploy.sh
