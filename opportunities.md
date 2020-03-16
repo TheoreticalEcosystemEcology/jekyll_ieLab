@@ -20,3 +20,18 @@ Two graduate programs with several specialities are available to students intere
 
 - [Ph.D. degree in Biology](http://www.usherbrooke.ca/programmes/sec/sciences-de-la-vie/troisieme-cycle/doctorats/doctorat-en-biologie/)
 - [Msc. degree in Biology](http://www.usherbrooke.ca/programmes/sec/sciences-de-la-vie/deuxieme-cycle/maitrises/maitrise-en-biologie/)
+
+
+## Open positions
+
+### FULLY-FUNDED PHD POSITION ON SPECIES RANGE MODELLING AND KEY BIODIVERSITY AREAS
+
+We are looking for a graduate student with a strong background in statistics or modelling to undertake a PhD project whose main objective is to develop species distribution models. The PhD will be completed as part of the Key Biodiversity Areas (KBA) identification process coordinated by the Wildlife Conservation Society Canada. The student will be based at the Université de Sherbrooke (Québec) and will join the Computational Biodiversity Science and Services (BIOS²) training program.
+
+Supervisors: Dominique Gravel (UdeS) and Ciara Raudsepp-Hearne (WCS)
+
+Beginning of studies: summer or fall 2020
+
+Funding: Fellowship of $ 20000 CAD per year for 4 years
+
+More information: [***here***](http://bios2.usherbrooke.ca/2020/02/19/article12/) or [***here***](http://bios2.usherbrooke.ca/wp-content/uploads/2020/02/BIO2-WCS_KBA-PhD.pdf)
