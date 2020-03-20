@@ -24,6 +24,18 @@ Two graduate programs with several specialities are available to students intere
 
 ## Open positions
 
+### POSITION DE DOCTORAT FINANCÉE SUR LES MODÈLES DE DISTRIBUTION D’ESPÈCES ET LES ZONES CLÉS POUR LA BIODIVERSITÉ
+
+Nous recherchons une étudiante ou un étudiant avec une bonne connaissance en statistique ou en modélisation pour entreprendre un projet de doctorat dont l’objectif principal est de développer des modèles de distribution des espèces. Le projet sera réalisé dans le cadre du processus d’identification des zones clés pour la biodiversité (KBA) coordonné par la Wildlife Conservation Society Canada. La personne sélectionnée sera basée à l’Université de Sherbrooke (Québec) et se joindra au programme de formation BIOS2 (Computational Biodiversity Science and Services).
+
+Superviseurs : Dominique Gravel (UdeS) et Ciara Raudsepp-Hearne (WCS)
+
+Début des études : Été ou automne 2020
+
+Financement : Bourse de 20000 $ CAD par année pendant 4 ans
+
+Plus d’informations : [***ici***](http://bios2.usherbrooke.ca/2020/02/19/article12/) ou [***ici***](http://bios2.usherbrooke.ca/wp-content/uploads/2020/02/BIO2-WCS_KBA-PhD.pdf)
+
 ### FULLY-FUNDED PHD POSITION ON SPECIES RANGE MODELLING AND KEY BIODIVERSITY AREAS
 
 We are looking for a graduate student with a strong background in statistics or modelling to undertake a PhD project whose main objective is to develop species distribution models. The PhD will be completed as part of the Key Biodiversity Areas (KBA) identification process coordinated by the Wildlife Conservation Society Canada. The student will be based at the Université de Sherbrooke (Québec) and will join the Computational Biodiversity Science and Services (BIOS²) training program.
