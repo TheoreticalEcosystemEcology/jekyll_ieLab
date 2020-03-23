@@ -6,10 +6,7 @@ rvm:
 warnings_are_errors: false
 
 notifications:
-  email:
-    recipients:
-      - s.vissault@yahoo.fr
-      - w.vieiraw@gmail.com
+  slack: ie-lab:GtXnNyh9RcsGDWNeubYlIIJn   
 
 before_install:
   - sudo apt-get install -y lftp
