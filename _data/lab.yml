@@ -1,149 +1,3 @@
-- Presenter:
-  Date: January 15, 2020
-  Title: "Organisation des lab meetings de la session"
-#  Link: "https://speakerdeck.com"
-
-- Presenter: Gabriel Bergeron
-  Date: January 22, 2020
-  Title: "Travail collectif: Théorie des jeux"
-#  Link: "https://speakerdeck.com"
-
-- Presenter: Gabriel Bergeron
-  Date: January 29, 2020
-  Title: "Travail collectif: Théorie des jeux pt.2"
-#  Link: "https://speakerdeck.com"
-
-- Presenter: Dominique Gravel
-  Date: February 6, 2020
-  Title: "Reviewing manuscript"
-#  Link: "https://speakerdeck.com"
-
-- Presenter: Dominique Gravel & Guillaume Blanchet
-  Date: February 12, 2020
-  Title: "Trucs et astuces des parfaits petit.es étudiant.es organisé.es"
-#  Link: "https://speakerdeck.com"
-
-- Presenter: Willian Vieira & Victor Cameron
-  Date: February 19, 2020
-  Title: "Vulgariser la recherche théorique pour un public non spécialisé"
-#  Link: "https://speakerdeck.com"
-
-- Presenter: Victor Cameron & Willian Vieira
-  Date: February 19, 2020
-  Title: "Catastrophe theory"
-  Link: "https://imechanica.org/files/1976%20zeeman%20catastrophe%20theory.pdf"
-
-- Presenter: Willian Vieira
-  Date: February 26, 2020
-  Title: "Trees demography"
-#  Link: "https://speakerdeck.com"
-
-- Presenter: Benjamin Mercier
-  Date: March 4, 2020
-  Title: "Présentation de l'écologie compuationelle au CVM"
-#  Link: "https://speakerdeck.com"
-
-- Presenter: Guillaume Blanchet & Victor Cameron
-  Date: March 11, 2020
-  Title: "Capacité d'une métapopulation"
-#  Link: "https://speakerdeck.com"
-
-
-- Presenter: Katherine Hébert et Madelaine Proulx
-  Date: March 25, 2020
-  Title: "Un modèle dynamique pour expliquer la biodiversité"
-  Link: " https://www.nature.com/articles/s41586-020-2022-5"
-
-- Presenter: Victor Cameron
-  Date: April 1, 2020
-  Title: "Aire de distribution et changements climatiques: Comment les interactions biotiques moduleront-elles la réponse?"
-#  Link: "https://speakerdeck.com"
-
-- Presenter: Gabriel Bergeron
-  Date: April 8, 2020
-  Title: "Modèle prédateur-proie en Haut-Artique, l'influence de la saison et de la dispersion sur ses prédateurs"
-#  Link: "https://speakerdeck.com"
-
-- Presenter: Benjamin Mercier
-  Date: April 15, 2020
-  Title: "Reconstitution des réseaux trophiques des vertébrés terrestres du Québec"
-#  Link: "https://speakerdeck.com"
-
-- Presenter: Vincent Bellavance
-  Date: April 22, 2020
-  Title: "Un indicateur de changement de la biodiversité alternatif au LPI"
-#  Link: "https://speakerdeck.com"
-
-- Presenter: Victor Cameron
-  Date: May 6, 2020
-  Title: "The projected timing of abrupt ecological disruption from climate change"
-  Link: "https://www.nature.com/articles/s41586-020-2189-9?WT.ec_id=NATURE-202004&sap-outbound-id=EFCEEBCC3A2AD68E5F47BDB11F680CBD5D3A4D54"
-
-- Presenter: Kim Schampaert
-  Date: May 13, 2020
-  Title: "Key biodiversity areas"
-#  Link: "https://speakerdeck.com"
-
-- Presenter: Dominique Gravel
-  Date: May 20, 2020
-  Title: "Reviewing manuscript"
-#  Link: "https://speakerdeck.com"
-
-- Presenter: Azenor Bideault & Stéphanie Préfontaine
-  Date: May 27, 2020
-  Title: "Lab results"
-#  Link: "https://speakerdeck.com"
-
-- Presenter: Katherine Hébert & Vincent Bellavance
-  Date: June 3, 2020
-  Title: "Système de données Atlas"
-#  Link: "https://speakerdeck.com"
-
-- Presenter: Katherine Hébert
-  Date: June 10, 2020
-  Title: "The Tragedy of the Commons"
-#  Link: "https://speakerdeck.com"
-
-- Presenter: Madelaine Proulx & Gabriel Bergeron
-  Date: June 17, 2020
-  Title: "Quizz"
-#  Link: "https://speakerdeck.com"
-
-- Presenter: Stéphanie Préfontaine
-  Date: June 29, 2020
-  Title: "Manuscript review"
-#  Link: "https://speakerdeck.com"
-
-- Presenter: Dominique Gravel
-  Date: July 8, 2020
-  Title: "Indicateurs de biodiversité"
-#  Link: "https://speakerdeck.com"
-
-- Presenter: Amaël Le Squin
-  Date: July 15, 2020
-  Title: "L'apprentissage machine"
-#  Link: "https://speakerdeck.com"
-
-- Presenter: Gabriel Bergeron
-  Date: July 22, 2020
-  Title: "Plant coexistence depends on ecosystem nutrient cycles: Extension of the resource–ratio theory"
-#  Link: "https://speakerdeck.com"
-
-- Presenter: Varina Cristfield
-  Date: August 5, 2020
-  Title: "Alors que les méthodes statistiques se complexifies, quelle maitrise devons-nous en avoir pour en légitimiser l'utilisation?"
-#  Link: "https://speakerdeck.com"
-
-- Presenter: Madelaine Proulx
-  Date: August 14, 2020
-  Title: "Séminaire 1.0"
-#  Link: "https://speakerdeck.com"
-
-- Presenter: Madelaine Proulx
-  Date: August 19, 2020
-  Title: "Séminaire 2.0"
-#  Link: "https://speakerdeck.com"
-
 - Presenter: Gabriel Bergeron
   Date: September 2, 2020
   Title: "Discussion sur ce qu’est le ''Fitness'' en biologie"
@@ -187,4 +41,19 @@
 - Presenter: Vincent Bellavance
   Date: October 28, 2020
   Title: "Pratique de séminaire"
+#  Link: "https://speakerdeck.com"
+
+- Presenter: Dominique Gravel
+  Date: November 4, 2020
+  Title: "Nouveau séminaire"
+#  Link: "https://speakerdeck.com"
+
+- Presenter: TBA
+  Date: November 11, 2020
+  Title: "Nouveau séminaire"
+#  Link: "https://speakerdeck.com"
+
+- Presenter: Victor Cameron
+  Date: November 18, 2020
+  Title: "Changement de distribution et réchauffement climatique"
 #  Link: "https://speakerdeck.com"
