@@ -104,36 +104,32 @@ tk[grep('data', tk)] <- 'data'
 tk[grep('complexi', tk)] <- 'complexity'
 
 # merging title and keywords into table
-  titleKeyw <- table(tk)
-  titleKeyw <- titleKeyw[which(titleKeyw > 2)]
+titleKeyw <- table(tk)
+titleKeyw <- titleKeyw[which(titleKeyw > 2)]
 
-  # color
-col1 <- c(rgb(159, 33, 31, maxColorValue = 255), # style 1
-          rgb(226, 133, 72, maxColorValue = 255),
-          rgb(79, 92, 70, maxColorValue = 255))
+# color
+col <- c('#76B82A',
+         '#006372',
+         '#C77E19')
 
-col2 <- c(rgb(159, 33, 31, maxColorValue = 255), # style 2
-          rgb(79, 92, 70, maxColorValue = 255),
-          rgb(231, 187, 42, maxColorValue = 255))
+# Color palette for each keyword
+keyCols <- as.character(cut(rev(sort(titleKeyw)), length(col), labels = col))
 
-col3 <- c(rgb(231, 187, 42, maxColorValue = 255), # style 3
-          rgb(79, 92, 70, maxColorValue = 255),
-          rgb(159, 33, 31, maxColorValue = 255))
-
-colFunc <- colorRampPalette(col3)
+# For the last color, create a color gradient from light green to black
+keyCols[which(keyCols == '#76B82A')] <- colorRampPalette(colors = c(col[1], 'black'))(sum(keyCols == '#76B82A'))
 
 hoverFunction = htmlwidgets::JS("function hover() {}")
 
 my_graph <-
 wordcloud2(rev(sort(titleKeyw)),
-                       color = colFunc(nrow(titleKeyw)),
+                       color = keyCols,
                        size = 0.55,
                        backgroundColor = rgb(255, 255, 255, maxColorValue = 255),
                        rotateRatio = 0,
                        ellipticity = 0.4,
+                       fontFamily = 'Arial',
                        hoverFunction = hoverFunction
 )
 
 # export
-  # html
 saveWidget(my_graph, "keyword_cloud.html",libdir='assets/cloud_deps', selfcontained = F)
