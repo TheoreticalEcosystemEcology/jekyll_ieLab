@@ -20,3 +20,30 @@ Two graduate programs with several specialities are available to students intere
 
 - [Ph.D. degree in Biology](http://www.usherbrooke.ca/programmes/sec/sciences-de-la-vie/troisieme-cycle/doctorats/doctorat-en-biologie/)
 - [Msc. degree in Biology](http://www.usherbrooke.ca/programmes/sec/sciences-de-la-vie/deuxieme-cycle/maitrises/maitrise-en-biologie/)
+
+
+## Postes ouverts
+
+Le Réseau d'observation de la biodiversité du Québec (BD-QC) développe une infrastructure informatique qui servira à documenter en temps réel l'état de la biodiversité et ses changements. La direction du Réseau BD-QC est située à la Faculté des Sciences à l'Université de Sherbrooke et la supervision est réalisée par le Professeur Dominique Gravel du Département de Biologie.
+
+Dans le cadre de ce projet, nous avons trois nouveaux postes ouverts:
+
+1. Poste de professionnel(le) de recherche : Éco-informaticienne ou éco-informaticien ([**lien**](assets/pdf/openPositions/eco-info_BD-QC_122020.pdf))
+
+2. Poste de professionnel(le) de recherche : Développeuse ou développeur web ([**lien**](assets/pdf/openPositions/dev_web_BD-QC_122020.pdf))
+
+3. Stagiaire postdoctoral(e) sur les Variables Essentielles de Biodiversité ([**lien**](assets/pdf/openPositions/PDF_BD-QC_122020.pdf))
+
+
+## Open positions
+
+The Réseau d'observation de la biodiversité du Québec (BD-QC) is developing an IT infrastructure that will be used to document in real time the state of biodiversity and its changes. The direction of the BD-QC Network is located in the Faculty of Science at the Université de Sherbrooke and the supervision is carried out by Professor Dominique Gravel of the Department of Biology.
+
+As part of this project, we have three new open positions:
+
+1. Research professional position: Eco-Informatics Specialist ([**link**](assets/pdf/openPositions/eco-info_BD-QC_122020.pdf))
+
+2. Research professional position: Web developer ([**link**](assets/pdf/openPositions/dev_web_BD-QC_122020.pdf))
+
+3. Postdoctoral Fellow Position on Essential Biodiversity Variables ([**link**](assets/pdf/openPositions/PDF_BD-QC_122020.pdf))
+
