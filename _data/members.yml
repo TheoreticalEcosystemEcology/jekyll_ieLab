@@ -475,6 +475,7 @@
   Abstract_fr: La théorie de la biogéographie des îles, initialement élaborée par MacArthur et Wilson (1963), a inspiré plusieurs chercheurs dans leurs recherches sur la dynamique des populations et l’assemblage des communautés insulaires. Ce qui a commencé comme une théorie plutôt simple mettant en relation les taux d’immigration, d’extinction et la distance entre les îles et le continent, pour expliquer la richesse spécifique d’une île a rapidement été reprise et extrapolée par certains pour tenter d’obtenir un modèle de macroévolution sur les îles. Toutefois, que ce soit par immigration, par spéciation ou par extinction, le changement de composition des espèces modifie toujours, avec plus ou moins d’impact, l’assemblage des communautés et la distribution des espèces sur le territoire. Une question importante à se poser est donc comment les réseaux alimentaires déjà en place réagissent à ces arrivées ou à ces extinctions. Comment ceux-ci ont-ils évolués dans le temps pour arriver à ce que l’on connaît aujourd’hui, et comment réagiront-ils dans le futur aux modifications occasionnés par les changements climatiques ? Par son caractère historique riche pour l’étude de l’évolution, l’archipel des Îles Galapagos sera utlilisé comme cas de figure puisqu’une documentation importante existe sur les occurences des différentes espèces sur chacunes des îles. Grâce à ces données, la structure des réseaux sera inférée, puis mise en relation avec l’âge de l’île pour tenter de déterminer l’influence de la période évolutive sur la complexité des réseaux.
   Abstract_en: The theory of island biogeography, initially elaborated by MacArthur and Wilson (1963), inspired many scientists on their research on population dynamics and insular community assembly. What began as a pretty simple theory putting in relation immigration, extinction and distance between the island and the mainland to explain species richness of an island rapidely got adapted by a few reserchers to try and obtain a macroevolution model on islands. However,whether it is by immigration, speciation or extinction, the variation of species composition always modifies, with more or less impact, community assembly and the species distribution on a given territory. Therefore, an important question to ask is how the already existing foodweb networks react to these new species arrivals or extinctions. How did these networks evolved to what we know today, and how will they react in the futur to the modifications caused by the global warming ? Given it’s rich historical character for the study of evolution, the Galapagos Islands archipelago will be used as my experimental playground since there is an important documentation existing on the species occurences on each island. With these data, the network structure will be infered, and put in relation with the age of the island to try to determine the influence of the evolutinary period on the network complexity.
   Email:        madelaine.proulx@usherbrooke.ca
+  Github:       madelainep
 
 -
   Image: Chunchaozhu.jpeg
@@ -500,6 +501,7 @@
   Title_fr: Estimer les changements de biodiversité au Québec
   Year_finish: 2022
   Year_start: 2018
+  Github:       katherinehebert
   key: 37
 
 -
@@ -515,6 +517,7 @@
   Title_fr:     Effets des changements climatiques sur la codistribution des arbres en milieu forestier et des oiseaux passerins
   Year_finish:  2021
   Year_start:   2019
+  Github:       vcameron1
   key:          38
 
 -
@@ -532,6 +535,7 @@
   Year_finish:  2021
   Year_start:   2019
   Orcid:        0000-0002-5956-069X
+  Github:       gabrielbouleau
   key:          39
 
 -
@@ -559,6 +563,7 @@
   Year_finish:  2024
   Year_start:   2020
   Orcid:        0000-0002-9057-5689
+  Github:       vcrisfield
   key:          41
 
 -
@@ -576,6 +581,7 @@
   Year_finish:  2022
   Year_start:   2020
   Orcid:        0000-0002-3263-8784
+  Github:       VincentBellavance
   key:          42
 
 -
@@ -593,4 +599,5 @@
   Year_finish:  2022
   Year_start:   2020
   Orcid:        0000-0002-4104-9463
+  Github:       BenMerSci
   key:          43
