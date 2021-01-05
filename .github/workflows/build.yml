@@ -10,8 +10,15 @@ jobs:
     runs-on: ubuntu-16.04
     steps:
       - uses: actions/checkout@v2
+        with:
+            fetch-depth: 1
+
+      - name: Set up Ruby 2.6
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.6
       
-      - name: Install system dependencies
+      - name: 🔧 Install system dependencies
         if: runner.os == 'Linux'
         env:
           RHUB_PLATFORM: linux-x86_64-ubuntu-gcc
@@ -20,18 +27,12 @@ jobs:
           sudo /sbin/modprobe tun
           sudo apt-get install network-manager-openconnect-gnome
 
-      - name: Install jekyll
-        run: |
-          gem install jekyll bundler
-          bundle install
+      - name: 🔨 Build site
+        uses:  lemonarc/jekyll-action@1.0.0
       
-      - name: Build website
-        run: |
-          bundle exec jekyll build
-      
-      - name: Deploy
+      - name: 🚀 Deploy
         run: |
           echo ${{ secrets.PASS }} | sudo openconnect rpv.usherbrooke.ca --user=view2301 --background --passwd-on-stdin
-          cp _site/home/index.html _site/index.html
-          chmod +x script/deploy.sh
-          bash script/deploy.sh
+          sudo cp _site/home/index.html _site/index.html
+          lftp -d -u ${{ secrets.FTP_USER }},${{ secrets.FTP_PASS }} ${{ secrets.FTP_SITE }}:21 -e 'set ftp:passive-mode on; set ssl:verify-certificate no; debug 9; mirror --ignore-time --parallel=10 -e -v -R _site ~ ; exit'
+
