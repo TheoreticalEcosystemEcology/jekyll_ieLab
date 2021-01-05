@@ -2,7 +2,7 @@
 -
   Email:          dominique_gravel@uqar.ca
   Github:         DominiqueGravel
-  Image:          gravel.png
+  Image:          DominiqueGravel.jpg
   LastName:       Gravel
   Name:           Dominique
   Status:         "Principal investigator"
@@ -38,6 +38,7 @@
   Title_fr:       "Etude théorique des taux de migration des arbres"
   Year_finish:    2020
   Year_start:     2014
+  Position:       "Post-Doc at University of Regensburg"
   key:            3
 -
   Abstract_en:    "My main project is to predict the effect of species spatial dynamics on food web structure and resilience, with the integration of metabolic theory, food web ecology and macroecology within a common framework. I use species body mass and allometric relationships as a cornerstone to achieve this objective. I combine this theoretical approach to the analysis of global marine databases, in order to model the effect of ocean acidification and overfishing on the structure and stability of marine food webs."
@@ -351,9 +352,11 @@
   Image:          steve.png
   LastName:       Vissault
   Name:           Steve
-  Status:         "Professional researcher"
+  Status:         "Professional R."
   Title_en:       "Databases manager and scientific programmer"
+  Position:       "Data Scientist at Omnimed"
   Year_start:     2016
+  Year_finish:    2020
   key:            25
 -
   Image:          unknown.jpg
@@ -397,6 +400,7 @@
  LastName:        Blanchet
  Year_start:      2016
  Year_finish:     2020
+ Position:        "Assistant professor at Université de Sherbrooke"
  Supervisor:      Dominique Gravel
  Title_en:        Linking community ecology theory with new developments in statistical modelling
  Title_fr:        Développer des liens avec les théories en écologie des communautés et les récents développements en modélisation statistique
@@ -539,3 +543,54 @@
   Title_en:       "BIOS² Program Coordinator"
   Year_start:     2019
   key:            40
+
+-
+  Abstract_en:  
+  Abstract_fr:  
+  Image:        VarinaCrisfield.jpg
+  Email:        Varina.Crisfield@USherbrooke.ca
+  LastName:     Crisfield
+  Name:         Varina
+  Status:       Ph.D. Student
+  Supervisor:   Dominique Gravel
+  CoSupervisor: Ciara Raudsepp-Hearne
+  Title_en:     
+  Title_fr:     
+  Year_finish:  2024
+  Year_start:   2020
+  Orcid:        0000-0002-9057-5689
+  key:          41
+
+-
+  Abstract_en:  
+  Abstract_fr:  
+  Image:        VincentBellavance.jpeg
+  Email:        Vincent.Bellavance@USherbrooke.ca
+  LastName:     Bellavance
+  Name:         Vincent
+  Status:       M.Sc. Student
+  Supervisor:   Dominique Gravel
+  CoSupervisor: 
+  Title_en:     "The Biodiversity Distribution Index: using species distribution models to monitor biodiversity change in Quebec"
+  Title_fr:     "The Biodiversity Distribution Index : utiliser les modèles de distribution des espèces pour suivre les changements de biodiversité au Québec"
+  Year_finish:  2022
+  Year_start:   2020
+  Orcid:        0000-0002-3263-8784
+  key:          42
+
+-
+  Abstract_en:  
+  Abstract_fr:  
+  Image:        BenjaminMercier.png
+  Email:        benjamin.b.mercier@usherbrooke.ca
+  LastName:     Mercier
+  Name:         Benjamin
+  Status:       M.Sc. Student
+  Supervisor:   Dominique Gravel
+  CoSupervisor: 
+  Title_en:     ""
+  Title_fr:     ""
+  Year_finish:  2022
+  Year_start:   2020
+  Orcid:        0000-0002-4104-9463
+  key:          43
