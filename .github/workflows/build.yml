@@ -1,0 +1,37 @@
+name: Build and deploy
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  github-pages:
+    runs-on: ubuntu-16.04
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Install system dependencies
+        if: runner.os == 'Linux'
+        env:
+          RHUB_PLATFORM: linux-x86_64-ubuntu-gcc
+        run: |
+          sudo apt-get install -y lftp
+          sudo /sbin/modprobe tun
+          sudo apt-get install network-manager-openconnect-gnome
+
+      - name: Install jekyll
+        run: |
+          gem install jekyll bundler
+          bundle install
+      
+      - name: Build website
+        run: |
+          bundle exec jekyll build
+      
+      - name: Deploy
+        run: |
+          echo ${{ secrets.PASS }} | sudo openconnect rpv.usherbrooke.ca --user=view2301 --background --passwd-on-stdin
+          cp _site/home/index.html _site/index.html
+          chmod +x script/deploy.sh
+          bash script/deploy.sh
