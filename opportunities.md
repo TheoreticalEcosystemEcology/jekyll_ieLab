@@ -34,6 +34,8 @@ Dans le cadre de ce projet, nous avons trois nouveaux postes ouverts:
 
 3. Stagiaire postdoctoral(e) sur les Variables Essentielles de Biodiversité ([**lien**](../assets/pdf/openPositions/PDF_BD-QC_122020.pdf))
 
+4. Coordonnatrice ou coordonnateur de projet ([**lien**](https://www.usherbrooke.ca/emplois/offre/no/04467))
+
 
 ## Open positions
 
@@ -47,3 +49,4 @@ As part of this project, we have three new open positions:
 
 3. Postdoctoral Fellow Position on Essential Biodiversity Variables ([**link**](../assets/pdf/openPositions/PDF_BD-QC_122020.pdf))
 
+4. Project coordinator ([**lien**](https://www.usherbrooke.ca/emplois/offre/no/04467))
