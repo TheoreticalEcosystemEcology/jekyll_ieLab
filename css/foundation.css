@@ -4385,10 +4385,9 @@ blockquote p {
   position: relative;
   text-align: center;
   text-decoration: none;
-  white-space: nowrap;
   padding: 0.25rem 0.5rem 0.25rem;
   font-size: 0.6875rem;
-  background-color: #2ba6cb;
+  background-color: rgb(0, 99, 114);
   color: #FFFFFF; }
   .label.radius {
     border-radius: 3px; }

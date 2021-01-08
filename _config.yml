@@ -15,7 +15,7 @@ plugins:
   - jekyll-sitemap
 
 scholar:
-  style: assets/csl/ecology.csl
+  style: assets/csl/cleanStyle.csl
   locale: en
   repository: assets/pdf
   sort_by: year
