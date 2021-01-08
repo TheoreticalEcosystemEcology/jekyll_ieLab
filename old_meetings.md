@@ -8,7 +8,7 @@ title: Old meetings
   <img src="/assets/img/lambda.svg" alt="lambda" style="height:50px">
 </div>
   <div class="large-11 columns">
-  <h3>Les midis numériques<br><span style="font-weight:300;padding-top:10px;">Calendrier des activités</span></h3>
+  <h2>Les midis numériques<br><span style="font-weight:200;padding-top:10px;">Calendrier des activités</span></h2>
 </div>
   <div class="small-12 columns">
   <p>

@@ -1,5 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,100,200,300,500,600,700,800,900);
-@import url(https://fonts.googleapis.com/css?family=Fira+Sans:400,100,200,300,500,600,700,800,900);
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,200;0,300;0,400;0,600;0,800;1,200;1,300;1,400;1,600;1,800&display=swap");
 
 .row
 {
@@ -48,21 +47,21 @@ body {
     background-size: cover;
     width: 100% !important;
     height: 100% !important;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Public Sans', sans-serif;
     font-weight: 400;
     overflow: auto !important;
 }
 
 ol {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Public Sans', sans-serif;
   font-weight: 400;
   text-align: justify;
   font-size: 14px;
 }
 
 h1,h2 {
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 700;
+  font-family: 'Public Sans', sans-serif;
+  font-weight: 600;
   font-size: 25px;
 }
 
@@ -72,31 +71,30 @@ h2 {
 }
 
 h3 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Public Sans', sans-serif;
   font-weight: 400;
   padding-top: 20px;
   font-size:21px;
-  font-weight:bold;"
 }
 
 h4,h5,h6 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Public Sans', sans-serif;
   font-weight: 200;
   margin-bottom: 18px;
 }
 
 p {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Public Sans', sans-serif;
   font-weight: 400;
   text-align: justify;
-  font-size: 14px;
+  font-size: 15px;
   margin-top:20px;
   margin-bottom: 20px;
 }
 
 ul {
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 400;
+  font-family: 'Public Sans', sans-serif;
+  font-weight: 300;
   text-align: justify;
   font-size: 16px;
 }
@@ -114,8 +112,8 @@ img {
 
 
 footer {
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 400;
+  font-family: 'Public Sans', sans-serif;
+  font-weight: 200;
   font-size: 13px;
   min-height: 200px;
   color: rgb(255, 255, 255);
@@ -189,7 +187,7 @@ footer {
   background-color: #e0e0e0;
   background-image: none;
   background-repeat: repeat;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Public Sans', sans-serif;
   background-attachment: scroll;
   background-position: 0% 0%;
   background-clip: border-box;
@@ -218,7 +216,7 @@ footer {
   padding-right: 0.9375rem;
   padding-bottom: 0px;
   padding-left: 0.9375rem;
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Public Sans', sans-serif;
   font-weight: 500;
 }
 
@@ -235,7 +233,7 @@ footer {
   background-origin: padding-box;
   background-size: auto auto;
   color: #ffffff;
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Public Sans', sans-serif;
   font-weight: 500;
 }
 
@@ -250,7 +248,7 @@ footer {
   background-clip: border-box;
   background-origin: padding-box;
   background-size: auto auto;
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Public Sans', sans-serif;
   font-weight: 500;
 }
 
@@ -271,7 +269,7 @@ footer {
   padding-right: 0.9375rem;
   padding-bottom: 0px;
   padding-left: 0.9375rem;
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Public Sans', sans-serif;
   font-weight: 500;
 }
 
@@ -282,7 +280,7 @@ footer {
     margin-bottom: 0;
     overflow: hidden;
     position: relative;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Public Sans', sans-serif;
     font-weight: 500;
 }
 
@@ -298,7 +296,7 @@ footer {
   background-origin: padding-box;
   background-size: auto auto;
   color: #ffffff;
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Public Sans', sans-serif;
   font-weight: 500;
 }
 

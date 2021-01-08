@@ -167,7 +167,7 @@
       <key variable="issued"/>
     </sort>
     <layout>
-      <text display="block" font-weight="bold" variable="title"/>
+      <text display="block" font-weight="600" variable="title"/>
       <text display="block" macro="author"/>
       <text macro="issued" suffix=', '/>
       <text macro="locators"/>

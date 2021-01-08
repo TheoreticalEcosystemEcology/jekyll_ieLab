@@ -11,7 +11,7 @@ weight: 7
   <img src="/assets/img/lambda.svg" alt="lambda" style="height:50px">
 </div>
   <div class="large-11 columns">
-  <h3>Les midis numériques<br><span style="font-weight:300;padding-top:10px;">Calendrier des activités</span></h3>
+  <h2>Les midis numériques<br><span style="font-weight:200;padding-top:10px;">Calendrier des activités</span></h2>
 </div>
   <div class="small-12 columns">
   <p>
@@ -24,8 +24,8 @@ L'objectif de ces rencontres est de présenter des avancées numériques et mét
 
 {% for meeting in site.data.meetings %}
 <tr>
-<td style="min-width:150px;"><strong>{{ meeting.Date }}</strong></td>
-<td style="padding-top:20px;"><strong>{{ meeting.Title }}</strong> par {{ meeting.Presenter }}<br>
+<td style="min-width:150px;">{{ meeting.Date }}</td>
+<td style="padding-top:20px;"><span style='font-weight:600;font-size:17px;'>{{ meeting.Title }}</span> par {{ meeting.Presenter }}<br>
 <hr style="margin:5px;">
 <p>{{ meeting.Abstract }}<br>
 {% for doc in meeting.Documents %}
@@ -45,7 +45,7 @@ List of old presentations can be found <a href="/../old_meetings.html"><strong>h
   <img src="/assets/img/brain.svg" alt="brain" style="height:50px">
 </div>
   <div class="large-11 columns">
-  <h3>The lab meetings<br><span style="font-weight:300;padding-top:20px;">Calendar of weekly meetings</span></h3>
+  <h2>The lab meetings<br><span style="font-weight:200;padding-top:20px;">Calendar of weekly meetings</span></h2>
 </div>
   <div class="small-12 columns">
   <p>
@@ -59,9 +59,9 @@ The meetings are intended primarily for lab members, but everyone interested in 
 {% for lab-meetings in site.data.lab %}
 
 <tr>
-  <td style="min-width:150px;"><strong>{{ lab-meetings.Date }}</strong></td>
+  <td style="min-width:150px;">{{ lab-meetings.Date }}</td>
   <td style="min-width:150px;">{{ lab-meetings.Presenter }}</td>
-  <td style="padding-top:20px;">{{ lab-meetings.Title }} {% if lab-meetings.Link != blank %} <a href="{{ lab-meetings.Link }}"><i class="fi-link" aria-hidden="true"></i> <small>PDF</small></a> {% endif %}</td>
+  <td style="padding-top:20px;"><span style='font-weight:600;font-size:16px;'>{{ lab-meetings.Title }}</span> {% if lab-meetings.Link != blank %} <a href="{{ lab-meetings.Link }}"><i class="fi-link" aria-hidden="true"></i> <small>PDF</small></a> {% endif %}</td>
 </tr>
 {% endfor %}
 

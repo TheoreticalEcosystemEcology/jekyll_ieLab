@@ -18,7 +18,7 @@ We are studying mechanisms promoting the emergence and maintenance of diversity 
   </div>
 
 <div class="large-7 columns">
-  <p style="font-weight:400">
+  <p>
   <b>Figure</b>: The trophic theory of island biogeography (Gravel et al. 2011, Ecology Letters). Adding a trophic constraint on species immigration and extinction affects the equilibrium species richness in a local community. Reciprocally, insular dynamics affect the local structure of communities sampled from the regional species pool.
   </p>
   <p>
@@ -31,7 +31,7 @@ We are studying mechanisms promoting the emergence and maintenance of diversity 
 
 <div class="row">
 <div class="large-7 columns">
-  <p style="font-weight:400">
+  <p>
 <b>Figure</b>: Biodiversity-ecosystem functioning experiment with forest trees at Auclair, Témiscouata. The plantation of 12 000 trees was established in June 2010. We manipulated simultaneously the taxonomic, functional and phylogenetic diversity with an innovative design combining 6 native tree species and their exotic (European) functional equivalents.
 </p>
 <p>
@@ -51,7 +51,7 @@ In a world increasingly disturbed by human activities, it is now urgent to evalu
 </div>
 
 <div class="large-7 columns">
-  <p style="font-weight:400"><b>Figure</b>: We use the microbial food web found in the leaves of the purple pitcher plant (Sarracania purpurea) to experimentally test the impact of community structure and environmental constraints on ecosystem functioning. The functioning of this food web is essential for the mutualistic relationship with the plant, found from Florida up to northern Quebec. We have observed that the highly conserved functional structure of its microbial food web contributes to maintain functioning despite a strong temperature gradient along the geographic range of the plant.
+  <p><b>Figure</b>: We use the microbial food web found in the leaves of the purple pitcher plant (Sarracania purpurea) to experimentally test the impact of community structure and environmental constraints on ecosystem functioning. The functioning of this food web is essential for the mutualistic relationship with the plant, found from Florida up to northern Quebec. We have observed that the highly conserved functional structure of its microbial food web contributes to maintain functioning despite a strong temperature gradient along the geographic range of the plant.
 </p>
 <p>
 The bulk of studies on global change and biodiversity have relied on biogeography and focused on range shifts, while very little is known about future community assembly dynamics. Because the population responses of many species to global changes is unlikely to be simply additive, ecologists need to integrate these spatial and ecosystem-level approaches of biodiversity. The current challenge is to understand how communities will re-assemble following individual species responses and how these emergent ecosystems will function. The long-term objective of our research program is to integrate the disciplines of biogeography and biodiversity-ecosystem functioning into a coherent theoretical framework. We hope it will help to better understand the impacts of global change on the provision of ecosystem services. We tackle this objective with a mix of approaches, combining mathematical models and experimental manipulations of the pitcher plant microbial food web.

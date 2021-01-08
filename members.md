@@ -13,7 +13,7 @@ weight: 4
     <img src="/assets/img/members/{{ member.Image }}" alt="{{ member.Name }}" class="circular"/>
   </div>
   <div class="small-6 columns text-left">
-    <h5  style="font-weight:600; margin-top:75px;"> {{ member.Name }} {{ member.LastName }} </h5>
+    <h5  style="font-weight:600; margin-top:75px;font-family:Public Sans;font-variant:small-caps;font-size:21px;margin-bottom:5px;"> {{ member.Name }} {{ member.LastName }} </h5>
     <p style="margin:0px;padding:0px;" >Principal investigator</p>
   </div>
   {% endif %}
@@ -37,31 +37,35 @@ weight: 4
     <img src="/assets/img/members/{{ member.Image }}" alt="{{ member.Name }}" class="circular" />
   </div>
   <div class="large-9 columns text-left">
-    <h5 style="font-weight:600;font-family:Fira Sans;"> {{ member.Name }} {{ member.LastName }}<br> <span style="font-weight:400;font-size:15px;margin-top:20px;">{{ member.Status }} ({%if member.Year_start != blank %}{{ member.Year_start }}-{% endif %}{{ member.Year_finish }})</span> </h5>
+    <h5 style="font-weight:600;font-family:Public Sans;font-variant:small-caps;font-size:21px;marging:0px;padding:0px;"> {{ member.Name }} {{ member.LastName }}</h5>
+    <p style="margin-top:-5px;padding:0px;">{{ member.Status }} ({%if member.Year_start != blank %}{{ member.Year_start }}-{% endif %}{{ member.Year_finish }})</p>
     <h6 style="font-weight:600;">{%if member.Title_en != blank %} {{ member.Title_en}} {% else %} {{ member.Title_fr}} {% endif %}</h6>
     {%if member.Supervisor != blank %} <h6 style="font-weight:600;font-size:14px;"> Supervisor(s): <span style="font-weight:400;font-size:14px;"> {{ member.Supervisor }} {%if member.CoSupervisor != blank %}, {{ member.CoSupervisor }}{% endif %}</span></h6>{% endif %}
-    <p style="text-align:right;margin-right:25px;">
-      <a href="mailto:{{ member.Email }} "> <i class="step fi-mail" style="font-size: 30px;"></i> </a>
+    <p style="text-align:left;margin-right:25px;">
+      <a href="mailto:{{ member.Email }} "> <i class="step fi-mail" style="font-size: 20px;color:rgb(0, 99, 114)"></i> </a>
+      {%if member.Twitter != blank %}
+      <a href="http://twitter.com/{{ member.Twitter }}"> <i class="step fi-social-twitter" style="font-size: 20px;color:rgb(0, 99, 114)"></i>
+      </a> {% endif %}
       {%if member.Github != blank %}
-      <a href="http://github.com/{{ member.Github }}"> <i class="step fi-social-github" style="font-size: 30px;"></i>
+      <a href="http://github.com/{{ member.Github }}"> <i class="step fi-social-github" style="font-size: 20px;color:rgb(0, 99, 114)"></i>
       </a> {% endif %}
       {%if member.Website != blank %}
-      <a href="http://{{ member.Website }}/"> <i class="step fi-web" style="font-size: 30px;"></i>
+      <a href="http://{{ member.Website }}/"> <i class="step fi-web" style="font-size: 20px;color:rgb(0, 99, 114)"></i>
       </a> {% endif %}
     </p>
 
     <dl class="accordion" data-accordion>
       <dd class="accordion-navigation">
-        <a href="#panel{{ member.key }}a" style="font-weight:600;">Research project</a>
+        <a href="#panel{{ member.key }}a">Research project</a>
         <div id="panel{{ member.key }}a" class="content">
-          <p style="font-size:12px;">
+          <p style="font-size:13px;">
             {%if member.Abstract_en != blank %} {{ member.Abstract_en}} {% else %} {{ member.Abstract_fr}} {% endif %}
           </p>
         </div>
       </dd>
 
       <dd class="accordion-navigation">
-        <a href="#panel{{ member.key }}b" style="font-weight:600;">Publications</a>
+        <a href="#panel{{ member.key }}b">Publications</a>
         <div id="panel{{ member.key }}b" class="content">
           {% bibliography --query @*[author ~= {{ member.LastName }} && author ~= {{ member.Name }}] --template bib_member %}
         </div>
@@ -88,16 +92,20 @@ weight: 4
     <img src="/assets/img/members/{{ member.Image }}" alt="{{ member.Name }}" class="circular" />
   </div>
   <div class="large-9 columns text-left">
-    <h5 style="font-weight:600;;font-family:Fira Sans;"> {{ member.Name }} {{ member.LastName }}  <br> <span style="font-weight:400;font-size:15px;margin-top:20px;">{{ member.Status }} ({{ member.Year_start }}-{{ member.Year_finish }})</span> </h5>
-        <h6 style="font-weight:600;font-size:14px;"> Next position: <span style="font-weight:400;font-size:14px;"> {{ member.Position }}</span></h6>
+    <h5 style="font-weight:600;font-family:Public Sans;font-variant:small-caps;font-size:21px;marging:0px;padding:0px;"> {{ member.Name }} {{ member.LastName }}</h5>
+    <p style="margin-top:-5px;padding:0px;">{{ member.Status }} ({%if member.Year_start != blank %}{{ member.Year_start }}-{% endif %}{{ member.Year_finish }})</p>
+    <h6 style="font-weight:600;font-size:14px;"> Next position: <span style="font-weight:400;font-size:14px;"> {{ member.Position }}</span></h6>
 
-    <p style="text-align:right;margin-right:25px;">
-      <a href="mailto:{{ member.Email }} "> <i class="step fi-mail" style="font-size: 30px;"></i> </a>
+    <p style="text-align:left;margin-right:25px;">
+      <a href="mailto:{{ member.Email }} "> <i class="step fi-at-sign" style="font-size: 20px;color:rgb(0, 99, 114)"></i> </a>
+      {%if member.Twitter != blank %}
+      <a href="http://twitter.com/{{ member.Twitter }}"> <i class="step fi-social-twitter" style="font-size: 20px;color:rgb(0, 99, 114)"></i>
+      </a> {% endif %}
       {%if member.Github != blank %}
-      <a href="http://github.com/{{ member.Github }}"> <i class="step fi-social-github" style="font-size: 30px;"></i>
+      <a href="http://github.com/{{ member.Github }}"> <i class="step fi-social-github" style="font-size: 20px;color:rgb(0, 99, 114)"></i>
       </a> {% endif %}
       {%if member.Website != blank %}
-      <a href="http://{{ member.Website }}/"> <i class="step fi-web" style="font-size: 30px;"></i>
+      <a href="http://{{ member.Website }}/"> <i class="step fi-web" style="font-size: 20px;color:rgb(0, 99, 114)"></i>
       </a> {% endif %}
     </p>
 
