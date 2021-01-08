@@ -3,7 +3,7 @@ layout: default
 title: Lab spaces
 menu: main
 permalink: /space/
-weight: 10
+weight: 6
 ---
 
 ## Lab Spaces

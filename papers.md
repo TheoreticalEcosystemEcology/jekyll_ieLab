@@ -3,7 +3,7 @@ layout: default
 title: Publications
 menu: main
 permalink: /papers/
-weight: 4
+weight: 3
 ---
 
 ## Published articles

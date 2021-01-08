@@ -3,7 +3,7 @@ layout: default
 title: Opportunities
 menu: main
 permalink: /opportunities/
-weight: 7
+weight: 5
 ---
 
 ## Opportunities

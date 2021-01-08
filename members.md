@@ -3,7 +3,7 @@ layout: default
 title: Members
 menu: main
 permalink: /members/
-weight: 5
+weight: 4
 ---
 
 <div class="row">
