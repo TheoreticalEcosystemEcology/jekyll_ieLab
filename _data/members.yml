@@ -20,6 +20,7 @@
   Supervisor:     "Dominique Gravel"
   Title_en:       "Simulate the Eastern Boreal-Temperate forests ecotone under Climate Change"
   Website:        steveviss.github.io
+  Twitter:        SVissault
   Year_finish:    2015
   Year_start:     2013
   key:            2
@@ -111,6 +112,7 @@
   CoSupervisor:   "Nicolas Mouquet"
   Email:          kevin.cazelles@univ-montp2.fr
   Github:         KevCaz
+  Twitter:        KCazelles
   Image:          kev.jpg
   LastName:       Cazelles
   Position:       Post-Doc at BioDiversity, BioStructure and Dynamics Lab (Prof. Doc. Kevin McCann)
@@ -153,6 +155,7 @@
   CoSupervisor:   "Dominique Gravel"
   Email:          david.beauchesne@hotmail.com
   Github:         david-beauchesne
+  Twitter:        d_beauchesne
   Image:          David.jpg
   LastName:       Beauchesne
   Name:           David
@@ -291,6 +294,8 @@
   Abstract_en:    "Spatial distribution of biodiversity always fascinated ecologists. What are the main drivers of species distribution and why is species richness peaking in the tropics? Understanding food webs dynamics is a key point in trying to clarify this question. Trophic cascade is a central feature of food webs and has been widely documented in diverse ecosystems. However, their strength can be highly variable and it seems that temperature plays a role in this variation by strengthening the top down effect of predators on primary producers. Temperature is an essential driver of many ecosystem processes over large biogeographical gradients and can affect food webs structure in many ways by impacting (1) organisms’ biological and chemical rates, (2) organisms’ body size and (3) species richness; and indirectly altering the strength of trophic interaction. The nature of the relationships between temperature, body size, metabolic rates and richness remains hazy and lead to conflicting results. We use a modelling approach to investigate the impact of temperature on trophic cascade through biological rates, body size and richness."
   Abstract_fr:    "Les facteurs déterminant la distribution spatiale de la biodiversité ont toujours intéressés les écologistes. Comprendre la dynamique des réseaux tropiques est un point essentiel pour tenter de clarifier ces interrogations. Les cascades trophiques sont un élément clé des réseaux trophiques et ont été observées dans nombreux et divers écosystèmes. Néanmoins, leur force peut fortement varier et il apparaît que la température joue un rôle dans cette variation en renforçant l’effet des prédateurs sur les producteurs primaires. La température est un facteur abiotique central dans nombreux processus écosystèmiques et peut affecter la structure des réseaux trophiques en agissant sur (1) les taux biologiques des organismes, (2) la taille corporelle des organismes et (3) la richesse spécifique ; modifiant indirectement la force des interactions trophiques. Nous nous intéressons à l’impacte de la température sur les cascades trophiques, à travers son effet sur les taux biologiques, la taille corporelle et la richesse, par une approche de modélisation."
   Email:          azenor.bideault@outlook.fr
+  Twitter:        Azenor_Bideault
+  Github:         Azenor
   Image:          az.jpg
   LastName:       Bideault
   Name:           Azenor
@@ -355,6 +360,7 @@
   Status:         "Professional R."
   Title_en:       "Databases manager and scientific programmer"
   Position:       "Data Scientist at Omnimed"
+  Twitter:        SVissault
   Year_start:     2016
   Year_finish:    2020
   key:            25
@@ -426,6 +432,7 @@
   Github:         willvieira
   Email:          willian.vieira@usherbrooke.ca
   Orcid:          0000-0003-0283-4570
+  Twitter:        willvieira90
 
 -
   Image:          Steph.jpg
@@ -476,6 +483,7 @@
   Abstract_en: The theory of island biogeography, initially elaborated by MacArthur and Wilson (1963), inspired many scientists on their research on population dynamics and insular community assembly. What began as a pretty simple theory putting in relation immigration, extinction and distance between the island and the mainland to explain species richness of an island rapidely got adapted by a few reserchers to try and obtain a macroevolution model on islands. However,whether it is by immigration, speciation or extinction, the variation of species composition always modifies, with more or less impact, community assembly and the species distribution on a given territory. Therefore, an important question to ask is how the already existing foodweb networks react to these new species arrivals or extinctions. How did these networks evolved to what we know today, and how will they react in the futur to the modifications caused by the global warming ? Given it’s rich historical character for the study of evolution, the Galapagos Islands archipelago will be used as my experimental playground since there is an important documentation existing on the species occurences on each island. With these data, the network structure will be infered, and put in relation with the age of the island to try to determine the influence of the evolutinary period on the network complexity.
   Email:        madelaine.proulx@usherbrooke.ca
   Github:       madelainep
+  Twitter:      MadelaineProulx
 
 -
   Image: Chunchaozhu.jpeg
@@ -502,6 +510,7 @@
   Year_finish: 2022
   Year_start: 2018
   Github:       katherinehebert
+  Twitter:      hebert_kat
   key: 37
 
 -
@@ -518,6 +527,7 @@
   Year_finish:  2021
   Year_start:   2019
   Github:       vcameron1
+  Twitter:      CameronVictor5
   key:          38
 
 -
@@ -536,6 +546,7 @@
   Year_start:   2019
   Orcid:        0000-0002-5956-069X
   Github:       gabrielbouleau
+  Twitter:      gab_bergeron
   key:          39
 
 -
@@ -546,6 +557,7 @@
   Status:         "Professional researcher"
   Title_en:       "BIOS² Program Coordinator"
   Year_start:     2019
+  Twitter:        kim_gs
   key:            40
 
 -
@@ -582,6 +594,7 @@
   Year_start:   2020
   Orcid:        0000-0002-3263-8784
   Github:       VincentBellavance
+  Twitter:      v_bellavance
   key:          42
 
 -
@@ -600,4 +613,5 @@
   Year_start:   2020
   Orcid:        0000-0002-4104-9463
   Github:       BenMerSci
+  Twitter:      BenMerSci
   key:          43
