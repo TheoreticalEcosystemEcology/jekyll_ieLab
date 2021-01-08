@@ -21,7 +21,7 @@ server:
 	bundle exec jekyll server --destination _server
 
 dockerServer:
-	docker run -p 8080:4000 -v $(shell pwd):/site bretfisher/jekyll-serve
+	docker run -p 4000:4000 -v $(shell pwd):/site bretfisher/jekyll-serve
 
 clean:
 	rm -rf _server _site
