@@ -97,7 +97,7 @@ weight: 4
     <h6 style="font-weight:600;font-size:14px;"> Next position: <span style="font-weight:400;font-size:14px;"> {{ member.Position }}</span></h6>
 
     <p style="text-align:left;margin-right:25px;">
-      <a href="mailto:{{ member.Email }} "> <i class="step fi-at-sign" style="font-size: 20px;color:rgb(0, 99, 114)"></i> </a>
+      <a href="mailto:{{ member.Email }} "> <i class="step fi-mail" style="font-size: 20px;color:rgb(0, 99, 114)"></i> </a>
       {%if member.Twitter != blank %}
       <a href="http://twitter.com/{{ member.Twitter }}"> <i class="step fi-social-twitter" style="font-size: 20px;color:rgb(0, 99, 114)"></i>
       </a> {% endif %}
