@@ -61,7 +61,7 @@ The meetings are intended primarily for lab members, but everyone interested in 
 <tr>
   <td style="min-width:150px;">{{ lab-meetings.Date }}</td>
   <td style="min-width:150px;">{{ lab-meetings.Presenter }}</td>
-  <td style="padding-top:20px;"><span style='font-weight:600;font-size:16px;'>{{ lab-meetings.Title }}</span> {% if lab-meetings.Link != blank %} <a href="{{ lab-meetings.Link }}"><i class="fi-link" aria-hidden="true"></i> <small>PDF</small></a> {% endif %}</td>
+  <td style="padding-top:20px;"><span style='font-weight:600;'>{{ lab-meetings.Title }}</span> {% if lab-meetings.Link != blank %} <a href="{{ lab-meetings.Link }}"><i class="fi-link" aria-hidden="true"></i> <small>PDF</small></a> {% endif %}</td>
 </tr>
 {% endfor %}
 
