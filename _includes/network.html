@@ -32,7 +32,7 @@
                 nodes = [{
                     id: 1,
                     shape: 'circularImage',
-                    image: DIR + 'gravel.png',
+                    image: DIR + 'DominiqueGravel.jpg',
                     label: "Dominique Gravel"
                 }, {
                     id: 2,
@@ -40,156 +40,186 @@
                     image: DIR + 'jo.png',
                     label: "Jonathan Brassard"
                 }, {
-                    id: 4,
+                    id: 40,
                     shape: 'circularImage',
-                    image: DIR + 'steve.png',
-                    label: "Steve Vissault"
+                    image: DIR + 'Kim.jpg',
+                    label: "Kim Gauthier Schampaert"
                 }, {
-                    id: 7,
-                    shape: 'circularImage',
-                    image: DIR + 'amael.png',
-                    label: "Amael Lesquin"
-                }, {
-                    id: 10,
+                    id: 100,
                     shape: 'box',
                     font: {
                         color: '#fff'
                     },
-                    label: "Ecological networks"
+                    label: "Ecological Networks"
                 }, {
-                    id: 11,
+                    id: 101,
                     shape: 'box',
                     font: {
                         color: '#fff'
                     },
                     label: "Biogeography"
                 }, {
-                    id: 12,
+                    id: 102,
                     shape: 'box',
                     font: {
                         color: '#fff'
                     },
-                    label: "Forest ecology"
+                    label: "Forest Ecology"
                 }, {
-                    id: 99,
+                    id: 103,
                     shape: 'box',
                     font: {
                         color: '#fff'
                     },
-                    label: "Biostatistic"
+                    label: "Biodiversity Change"
+                }, {
+                    id: 104,
+                    shape: 'box',
+                    font: {
+                        color: '#fff'
+                    },
+                    label: "Coordination"
                 }, {
                     id: 16,
                     shape: 'circularImage',
                     image: DIR + 'az.jpg',
                     label: "Azenor Bideault"
                 }, {
-                    id: 17,
-                    shape: 'circularImage',
-                    image: DIR + 'David.jpg',
-                    label: "David Beauchesne"
-                }, {
-                    id: 21,
-                    shape: 'circularImage',
-                    image: DIR + 'chantal.png',
-                    label: "Chantal Hutchinson"
-                }, {
-                    id: 23,
-                    shape: 'circularImage',
-                    image: DIR + 'guillaume.jpeg',
-                    label: "Guillaume Blanchet"
-                }, {
                     id: 24,
                     shape: 'circularImage',
                     image: DIR + 'willian.jpg',
                     label: "Willian Vieira"
-                },{
-                    id: 25,
-                    shape: 'circularImage',
-                    image: DIR + 'Steph.jpg',
-                    label: "Stephanie Préfontaine"
-                },{
+                }, {
                     id: 26,
                     shape: 'circularImage',
                     image: DIR + 'madelaine.jpg',
                     label: "Madelaine Proulx"
-                },{
-                    id: 27,
-                    shape: 'circularImage',
-                    image: DIR + 'mathildebesson.jpg',
-                    label: "Mathilde Besson"
-                },{
+                }, {
                     id: 29,
                     shape: 'circularImage',
                     image: DIR + 'kath.jpg',
                     label: "Katherine Hébert"
+                }, {
+                    id: 39,
+                    shape: 'circularImage',
+                    image: DIR + 'Gab_byMathildePoirier.png',
+                    label: "Gabriel Bergeron"
+                }, {
+                    id: 38,
+                    shape: 'circularImage',
+                    image: DIR + 'Victor.jpg',
+                    label: "Victor Cameron"
+                }, {
+                    id: 43,
+                    shape: 'circularImage',
+                    image: DIR + 'BenjaminMercier.png',
+                    label: "Benjamin Mercier"
+                }, {
+                    id: 42,
+                    shape: 'circularImage',
+                    image: DIR + 'VincentBellavance.jpeg',
+                    label: "Vincent Bellavance"
+                }, {
+                    id: 41,
+                    shape: 'circularImage',
+                    image: DIR + 'VarinaCrisfield.jpg',
+                    label: "Varina Crisfield"
+                }, {
+                    id: 44,
+                    shape: 'circularImage',
+                    image: DIR + 'ClaraCasabon.jpg',
+                    label: "Clara Casabona i Amat"
+                }, {
+                    id: 45,
+                    shape: 'circularImage',
+                    image: DIR + 'AlexFuster.jpg',
+                    label: "Alexandre Fuster Calvo"
                 },];
 
                 // create connections between people
                 // value corresponds with the amount of contact between two people
                 edges = [{
                     from: 1,
-                    to: 10
+                    to: 100
                 }, {
                     from: 1,
-                    to: 11
+                    to: 101
                 }, {
                     from: 1,
-                    to: 12
+                    to: 102
+                }, {
+                    from: 1,
+                    to: 103
+                }, {
+                    from: 1,
+                    to: 104
                 }, {
                     from: 2,
-                    to: 12
+                    to: 102
                 }, {
-                    from: 4,
-                    to: 12
+                    from: 40,
+                    to: 101
                 }, {
-                    from: 7,
-                    to: 12
+                    from: 40,
+                    to: 104
                 }, {
-                    from: 7,
-                    to: 11
+                    from: 26,
+                    to: 100
                 }, {
                     from: 16,
-                    to: 10
+                    to: 100
                 }, {
-                    from: 17,
-                    to: 10
+                    from: 45,
+                    to: 100
                 }, {
-                    from: 21,
-                    to: 12
+                    from: 43,
+                    to: 100
                 }, {
-                    from: 24,
-                    to: 11
+                    from: 39,
+                    to: 100
                 }, {
-                    from: 4,
-                    to: 11
-                }, {
-                    from: 23,
-                    to: 11
-                }, {
-                    from: 24,
-                    to: 12
-                }, {
-                    from: 25,
-                    to: 10
+                    from: 29,
+                    to: 100
                 }, {
                     from: 26,
-                    to: 10
+                    to: 101
                 }, {
-                    from: 27,
-                    to: 10
+                    from: 45,
+                    to: 101
                 }, {
-                    from: 26,
-                    to: 11
+                    from: 41,
+                    to: 101
+                }, {
+                    from: 24,
+                    to: 101
+                }, {
+                    from: 38,
+                    to: 101
+                }, {
+                    from: 42,
+                    to: 101
+                }, {
+                    from: 44,
+                    to: 101
+                },{
+                    from: 24,
+                    to: 102
+                },{
+                    from: 38,
+                    to: 102
                 },{
                     from: 29,
-                    to: 10
+                    to: 103
                 },{
-                    from: 29,
-                    to: 11
+                    from: 42,
+                    to: 103
                 },{
-                    from: 23,
-                    to: 99
-                },];
+                    from: 44,
+                    to: 103
+                },{
+                    from: 2,
+                    to: 104
+                }, ];
 
                 // edges = [
                 //   {from: 1, to: 2},
@@ -252,7 +282,7 @@
                         },
                     },
                     layout: {
-                        randomSeed: 13,
+                        randomSeed: 14,
                     }
                 };
 
