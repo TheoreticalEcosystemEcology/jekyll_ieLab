@@ -628,9 +628,28 @@
   CoSupervisor: 
   Title_en:     "Estimating species extinction and colonization in Quebec"
   Title_fr:     ""
-  Year_finish:  2021
-  Year_start:   2024
+  Year_finish:  2024
+  Year_start:   2021
   Orcid:        
   Github:       ClaraCasabona
   Twitter:      
   key:          44
+
+-
+  Abstract_en:  " Until recently, conversion of natural habitat into intensive agricultural systems is the most used method to meet the growing food demand for our species. However, this practice has harmful effects on biodiversity and ecosystems. In response to this problem, alternative strategies have been suggested to preserve biodiversity while maintaining sufficient agricultural production. One of these is the land-sharing strategy. However, studies analyzing the relative benefits of such strategy do not consider an important factor: the landscape context. The landscape context is recognized to influence some important phenomena for biodiversity such as gene flow and animal movements and behavior. Therefore, not accounting for it can lead to biased conclusions. Consequently, the main objective of my PhD is to determine the influence of the landscape context on the composition and structure of communities within cocoa agroforests. First, I will determine, by using a modeling method, how the landscape composition influences the biodiversity maintenance in agroforests and natural habitats, as well as the landscape productivity. Second, I will determine how the landscape composition and spatial configuration influence the taxonomic and functional composition of bird and bat communities living in cocoa agroforests. This project will provide a better understanding of the different effects of agricultural and tree-dominated landscapes on animal communities at local scale. Moreover, it will provide a new method for measuring the effectiveness of the land-sharing strategy and may lead to the revision of current land use management plans in the study region to make them more effective in maintaining biodiversity."
+  Abstract_fr:  
+  Image:        AymericOliveiraXavier.png
+  Email:        Aymeric.Oliveira-Xavier@USherbrooke.ca
+  LastName:     Oliveira-Xavier
+  Name:         Aymeric
+  Status:       Ph.D. Student
+  Supervisor:   Sophie Calmé
+  CoSupervisor: Dominique Gravel
+  Title_en:     "Landscape influence on community composition and structure in cocoa agroforests"
+  Title_fr:     ""
+  Year_finish:  2021
+  Year_start:   2018
+  Orcid:        
+  Github:       
+  Twitter:      
+  key:          45
