@@ -28,9 +28,9 @@ Le Réseau d'observation de la biodiversité du Québec (BD-QC) développe une i
 
 Dans le cadre de ce projet, nous avons quatre nouveaux postes ouverts:
 
-1. Poste de professionnel(le) de recherche : Éco-informaticienne ou éco-informaticien ([**lien**](../opportunities/eco-info_BD-QC_01192021.pdf))
+1. Développeuse ou développeur web (Professionnel(le) de recherche) ([**lien**](../opportunities/dev_web_BD-QC_feb2021.pdf))
 
-2. Stagiaire postdoctoral(e) sur les Variables Essentielles de Biodiversité ([**lien**](../opportunities/PDF_BD-QC_01192021.pdf))
+2. Stagiaire postdoctoral(e) sur les Variables Essentielles de Biodiversité ([**lien**](../opportunities/PDF_BD-QC_feb2021.pdf))
 
 
 ## Open positions
@@ -39,6 +39,6 @@ The Réseau d'observation de la biodiversité du Québec (BD-QC) is developing a
 
 As part of this project, we have four new open positions:
 
-1. Research professional position: Eco-Informatics Specialist ([**link**](../opportunities/eco-info_BD-QC_01192021.pdf))
+1. Web developer (Research Professional Position) ([**link**](../opportunities/dev_web_BD-QC_feb2021.pdf))
 
-2. Postdoctoral Fellow Position on Essential Biodiversity Variables ([**link**](../opportunities/PDF_BD-QC_01192021.pdf))
+2. Postdoctoral Fellow Position on Essential Biodiversity Variables ([**link**](../opportunities/PDF_BD-QC_feb2021.pdf))
