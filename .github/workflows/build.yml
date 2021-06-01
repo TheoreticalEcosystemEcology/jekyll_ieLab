@@ -32,8 +32,12 @@ jobs:
         uses:  lemonarc/jekyll-action@1.0.0
       
       - name: 🚀 Deploy
+        env:
+          PASS: ${{ secrets.PASS }}
+          FTP_USER: ${{ secrets.FTP_USER }}
+          FTP_PASS: ${{ secrets.FTP_PASS }}
+          FTP_SITE: ${{ secrets.FTP_SITE }}
         run: |
-          echo ${{ secrets.PASS }} | sudo openconnect rpv.usherbrooke.ca --user=view2301 --background --passwd-on-stdin
+          echo $PASS | sudo openconnect rpv.usherbrooke.ca --user=view2301 --background --passwd-on-stdin
           sudo cp _site/home/index.html _site/index.html
-          lftp -d -u ${{ secrets.FTP_USER }},${{ secrets.FTP_PASS }} ${{ secrets.FTP_SITE }}:21 -e 'set ftp:passive-mode on; set ssl:verify-certificate no; debug 9; mirror --ignore-time --parallel=10 -e -v -R _site ~ ; exit'
-
+          lftp -d -u $FTP_USER,$FTP_PASS $FTP_SITE:21 -e 'set ftp:passive-mode on; set ssl:verify-certificate no; debug 9; mirror --ignore-time --parallel=10 -e -v -R _site ~ ; exit'
