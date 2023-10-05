@@ -6,7 +6,7 @@ permalink: /meetings/
 weight: 7
 ---
 
-<div class="row">
+<!-- <div class="row">
   <div class="small-1 columns text-right" style="margin:0px;padding:0px;">
   <img src="/assets/img/lambda.svg" alt="lambda" style="height:50px">
 </div>
@@ -38,7 +38,7 @@ L'objectif de ces rencontres est de présenter des avancées numériques et mét
 
 <p>
 List of old presentations can be found <a href="/../old_meetings.html"><strong>here</strong></a>.
-</p>
+</p> -->
 
 <div class="row">
   <div class="small-1 columns text-right" style="margin:0px;padding:0px;">
