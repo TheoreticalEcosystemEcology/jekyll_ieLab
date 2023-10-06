@@ -32,7 +32,7 @@ jobs:
         uses:  lemonarc/jekyll-action@1.0.0
       
       - name: Prepare deployment
-        run: cp _site/home/index.html _site/index.html
+        run: sudo cp _site/home/index.html _site/index.html
 
       - name: 🚀 Deploy gh_pages
         uses: JamesIves/github-pages-deploy-action@v4.4.2
