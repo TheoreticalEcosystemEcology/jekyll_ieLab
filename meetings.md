@@ -50,13 +50,13 @@ List of old presentations can be found <a href="/../old_meetings.html"><strong>h
   <div class="small-12 columns">
   <p>
 The aim of these lab meetings is to promote discussion among members on all subjects related to ecology, mathematics and computer science.
-The meetings are intended primarily for lab members, but everyone interested in the subject is welcome! The meetings will be held in D8-0022 at noon on the date in the table:
+The meetings are intended primarily for lab members, but everyone interested in the subject is welcome! The meetings will be held in D7-2007 at noon on the date in the table:
 </p>
 
 <div class="small-12 columns">
 <table style="width:100%">
 
-{% for lab-meetings in site.data.lab %}
+{% for lab-meetings in site.data.lab reversed %}
 
 <tr>
   <td style="min-width:150px;">{{ lab-meetings.Date }}</td>
