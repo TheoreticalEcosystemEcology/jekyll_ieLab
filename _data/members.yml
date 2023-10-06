@@ -631,38 +631,39 @@
   Github:
   Twitter:
   key: 45
-# - Image: Victor.jpg
-#   Email: victor.cameron@usherbrooke.ca
-#   LastName: Cameron
-#   Name: Victor
-#   Status: "Professional researcher"
-#   Title_en: "Eco-informaticien"
-#   Title_fr: "Eco-informaticien"
-#   Year_start: 2021
-#   Github: vcameron1
-#   Twitter: CameronVictor5
-#   key: 46
 
-# - Image:
-#   Email: vincent.beauregard@usherbrooke.ca
-#   LastName: Beauregard
-#   Name: Vincent
-#   Status: "Professional researcher"
-#   Title_en: ""
-#   Title_fr: "Coordonateur à la Recherche"
-#   Year_start: 2021
-#   Github:
-#   Twitter:
-#   key: 47
+- Image: Victor.jpg
+  Email: victor.cameron@usherbrooke.ca
+  LastName: Cameron
+  Name: Victor
+  Status: "Professional researcher"
+  Title_en: "Eco-informaticien"
+  Title_fr: "Eco-informaticien"
+  Year_start: 2021
+  Github: vcameron1
+  Twitter: CameronVictor5
+  key: 46
 
-#   - Image:
-#   Email: claire-cecile.juhasz@usherbrooke.ca
-#   LastName: BeaureJuhaszgard
-#   Name: Claire-Cécile
-#   Status: "Post-doc"
-#   Title_en: ""
-#   Title_fr: "Grande impératrice des EBVs"
-#   Year_start: 2023
-#   Year_finish: 2025
-#   Github: Sckende
-#   key: 48
+- Image:
+  Email: vincent.beauregard@usherbrooke.ca
+  LastName: Beauregard
+  Name: Vincent
+  Status: "Professional researcher"
+  Title_en: ""
+  Title_fr: "Coordonateur à la Recherche"
+  Year_start: 2021
+  Github:
+  Twitter:
+  key: 47
+
+- Image:
+  Email: claire-cecile.juhasz@usherbrooke.ca
+  LastName: BeaureJuhaszgard
+  Name: Claire-Cécile
+  Status: "Post-doc"
+  Title_en: ""
+  Title_fr: "Grande impératrice des EBVs"
+  Year_start: 2023
+  Year_finish: 2025
+  Github: Sckende
+  key: 48
