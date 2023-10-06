@@ -1,4 +1,4 @@
-[![Build and deploy](https://github.com/TheoreticalEcosystemEcology/jekyll_ieLab/workflows/Build%20and%20deploy/badge.svg)](https://github.com/TheoreticalEcosystemEcology/jekyll_ieLab/actions)
+[![Build and deploy](https://github.com/TheoreticalEcosystemEcology/jekyll_ieLab/actions/workflows/build.yml/badge.svg)](https://github.com/TheoreticalEcosystemEcology/jekyll_ieLab/actions/workflows/build.yml)
 
 # [IE]Lab
 
