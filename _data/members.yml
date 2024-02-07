@@ -496,8 +496,9 @@
   Supervisor: Dominique Gravel
   Title_en: Estimating biodiversity change in Quebec
   Title_fr: Estimer les changements de biodiversité au Québec
-  Year_finish: 2023
   Year_start: 2018
+  Year_finish: 2023
+  Position: Post-Doc at McGill University (Prof. Laura Pollock)
   Github: katherinehebert
   Twitter: hebert_kat
   key: 37
@@ -588,10 +589,12 @@
   Status: M.Sc. Student
   Supervisor: Dominique Gravel
   CoSupervisor:
-  Title_en: ""
-  Title_fr: ""
-  Year_finish: 2023
+  Title_en: "Hierarchical models for predicting biomass flows within complex trophic communities"
+  Title_fr: "Modèles hiérarchiques de prédiction de flux de biomasse au sein de communautés
+trophiques complexes"
   Year_start: 2020
+  Year_finish: 2024
+  Position: "Professional researcher at IELab"
   Orcid: 0000-0002-4104-9463
   Github: BenMerSci
   Twitter: BenMerSci
@@ -667,3 +670,15 @@
   Year_finish: 2025
   Github: Sckende
   key: 48
+
+- Image: BenjaminMercier.png
+  Email: benjamin.b.mercier@usherbrooke.ca
+  LastName: Mercier
+  Name: Benjamin
+  Status: "Professional researcher"
+  Title_en: "Eco-informaticien BDQC"
+  Title_fr: "Eco-informaticien BDQC"
+  Year_start: 2023
+  Github: BenMerSci
+  Twitter: BenMerSci
+  key: 49
