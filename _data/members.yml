@@ -417,6 +417,7 @@
   LastName: Vieira
   key: 30
   Year_start: 2017
+  Year_finish: 2024
   Status: "Ph.D. Candidate"
   Supervisor: Dominique Gravel
   CoSupervisor: Robert Bradley
@@ -428,6 +429,7 @@
   Email: willian.vieira@usherbrooke.ca
   Orcid: 0000-0003-0283-4570
   Twitter: willvieira90
+  Position: Analyste à Habitat (Montréal, QC)
 
 - Image: Steph.jpg
   key: 31
@@ -659,7 +661,7 @@ trophiques complexes"
   Twitter:
   key: 47
 
-- Image:
+- Image: ccjuhasz.jpeg
   Email: claire-cecile.juhasz@usherbrooke.ca
   LastName: Juhasz
   Name: Claire-Cécile
@@ -682,3 +684,231 @@ trophiques complexes"
   Github: BenMerSci
   Twitter: BenMerSci
   key: 49
+
+- Image: 
+  Email: william.cabrera.tamayo2@usherbrooke.ca
+  LastName: Cabrera
+  Name: William
+  Status: 
+  Title_en: 
+  Title_fr: 
+  Year_start: 
+  Github: 
+  Twitter: 
+  key: 50
+
+- Image: 
+  Email: marie-pierre.varin@usherbrooke.ca
+  LastName: Varin
+  Name: Marie-Pierre
+  Status: 
+  Title_en: 
+  Title_fr: 
+  Year_start: 
+  Github: 
+  Twitter: 
+  key: 51
+
+- Image: 
+  Email: samuel.enright@usherbrooke.ca
+  LastName: Enright
+  Name: Samuel
+  Status: 
+  Title_en: 
+  Title_fr: 
+  Year_start: 
+  Github: 
+  Twitter: 
+  key: 52
+
+- Image: 
+  Email: camille.levesque2@usherbrooke.ca
+  LastName: Levesque
+  Name: Camille
+  Status: M.Sc. Student
+  Title_en: 
+  Title_fr: 
+  Year_start: 
+  Github: 
+  Twitter: 
+  key: 53
+
+- Image: 
+  Email: laurie.boulerice@usherbrooke.ca
+  LastName: Boulerice
+  Name: Laurie
+  Status: M.Sc. Student
+  Title_en: 
+  Title_fr: 
+  Year_start: 
+  Github: 
+  Twitter: 
+  key: 54
+
+- Image: 
+  Email: lydie.veilleux@usherbrooke.ca
+  LastName: Veilleux
+  Name: Lydie
+  Status: 
+  Title_en: 
+  Title_fr: 
+  Year_start: 
+  Github: 
+  Twitter: 
+  key: 55
+
+- Image: 
+  Email: dagoberto.hernandez.acevedo@usherbrooke.ca
+  LastName: Hernandez Acevedo
+  Name: Dagoberto
+  Status: "Professional researcher"
+  Title_en: 
+  Title_fr: 
+  Year_start: 2023
+  Github: 
+  Twitter: 
+  key: 56
+
+- Image: 
+  Email: gracielle.teixeira.higino@usherbrooke.ca
+  LastName: Teixeira Higino
+  Name: Gracielle
+  Status: 
+  Title_en: 
+  Title_fr: 
+  Year_start:
+  Github: 
+  Twitter: 
+  key: 57
+
+- Image: 
+  Email: coralie.beaumont@usherbrooke.ca
+  LastName: Beaumont
+  Name: Coralie
+  Status: Ph.D. Student
+  Title_en: 
+  Title_fr: 
+  Year_start:
+  Github: 
+  Twitter: 
+  key: 58
+
+- Image: 
+  Email: vanessa.di.maurizio@usherbrooke.ca
+  LastName: Di Maurizio
+  Name: Vanessa
+  Status: Ph.D. Student
+  Title_en: 
+  Title_fr: 
+  Year_start: 2023
+  Github: 
+  Twitter: 
+  key: 59
+
+- Image: 
+  Email: francois.rousseu@usherbrooke.ca
+  LastName: Rousseu
+  Name: François
+  Status: "Professional researcher"
+  Title_en: 
+  Title_fr: 
+  Year_start: 2023
+  Github: 
+  Twitter: 
+  key: 60
+
+- Image: AlexFuster.jpg
+  Email: alexandre.fuster.calvo@usherbrooke.ca
+  LastName: Fuster
+  Name: Alexandre
+  Status: Ph.D. Student
+  Title_en: 
+  Title_fr: 
+  Year_start:
+  Github: 
+  Twitter: 
+  key: 61
+
+- Image: agneau.jpg
+  Email: laurent.montagano@usherbrooke.ca
+  LastName: Montagano
+  Name: Laurent
+  Status: Ph.D. Student
+  Title_en: 
+  Title_fr: 
+  Year_start: 2024
+  Github: 
+  Twitter: 
+  key: 62
+
+- Image: 
+  Email: zacharie.scalzo@usherbrooke.ca
+  LastName: Scalzo
+  Name: Zacharie
+  Status: M.Sc. Student
+  Title_en: 
+  Title_fr: 
+  Year_start: 2024
+  Github: 
+  Twitter: 
+  key: 63
+
+- Image: 
+  Email: francis.banville@umontreal.ca
+  LastName: Banville
+  Name: Francis
+  Status:
+  Title_en: 
+  Title_fr: 
+  Year_start:
+  Github: 
+  Twitter: 
+  key: 64
+
+- Image: 
+  Email: deziel.megane@courrier.uqam.ca
+  LastName: Deziel
+  Name: Megane
+  Status:
+  Title_en: 
+  Title_fr: 
+  Year_start:
+  Github: 
+  Twitter: 
+  key: 65
+
+- Image: 
+  Email: chris.brimacombe@mail.utoronto.ca
+  LastName: Brimacombe
+  Name: Chris
+  Status:
+  Title_en: 
+  Title_fr: 
+  Year_start:
+  Github: 
+  Twitter: 
+  key: 66
+
+- Image: 
+  Email: louis.moisan@uqar.ca
+  LastName: Moisan
+  Name: Louis
+  Status:
+  Title_en: 
+  Title_fr: 
+  Year_start:
+  Github: 
+  Twitter: 
+  key: 67
+
+- Image: 
+  Email: a.a.m.macdonald@gmail.com
+  LastName: McDonald
+  Name: Andrew
+  Status:
+  Title_en: 
+  Title_fr: 
+  Year_start:
+  Github: 
+  Twitter: 
+  key: 68
