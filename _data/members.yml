@@ -392,8 +392,8 @@
   Status: "Ph.D. Candidate"
   Supervisor: "Dominique Gravel"
   CoSupervisor: "Nicolas Mouquet"
-  Year_finish: 2008
-  Year_start: 2011
+  Year_start: 2008
+  Year_finish: 2011
   key: 28
 
 - Image: guillaume.jpeg
@@ -685,7 +685,7 @@ trophiques complexes"
   Twitter: BenMerSci
   key: 49
 
-- Image: 
+- Image: unknown.jpg
   Email: william.cabrera.tamayo2@usherbrooke.ca
   LastName: Cabrera
   Name: William
@@ -697,7 +697,7 @@ trophiques complexes"
   Twitter: 
   key: 50
 
-- Image: 
+- Image: unknown.jpg
   Email: marie-pierre.varin@usherbrooke.ca
   LastName: Varin
   Name: Marie-Pierre
@@ -709,7 +709,7 @@ trophiques complexes"
   Twitter: 
   key: 51
 
-- Image: 
+- Image: unknown.jpg
   Email: samuel.enright@usherbrooke.ca
   LastName: Enright
   Name: Samuel
@@ -721,43 +721,43 @@ trophiques complexes"
   Twitter: 
   key: 52
 
-- Image: 
+- Image: unknown.jpg
   Email: camille.levesque2@usherbrooke.ca
   LastName: Levesque
   Name: Camille
   Status: M.Sc. Student
   Title_en: 
   Title_fr: 
-  Year_start: 
+  Year_start: 2023
   Github: 
   Twitter: 
   key: 53
 
-- Image: 
+- Image: unknown.jpg
   Email: laurie.boulerice@usherbrooke.ca
   LastName: Boulerice
   Name: Laurie
   Status: M.Sc. Student
   Title_en: 
   Title_fr: 
-  Year_start: 
+  Year_start: 2023
   Github: 
   Twitter: 
   key: 54
 
-- Image: 
+- Image: unknown.jpg
   Email: lydie.veilleux@usherbrooke.ca
   LastName: Veilleux
   Name: Lydie
   Status: 
   Title_en: 
   Title_fr: 
-  Year_start: 
+  Year_start: 2022
   Github: 
   Twitter: 
   key: 55
 
-- Image: 
+- Image: unknown.jpg
   Email: dagoberto.hernandez.acevedo@usherbrooke.ca
   LastName: Hernandez Acevedo
   Name: Dagoberto
@@ -769,7 +769,7 @@ trophiques complexes"
   Twitter: 
   key: 56
 
-- Image: 
+- Image: unknown.jpg
   Email: gracielle.teixeira.higino@usherbrooke.ca
   LastName: Teixeira Higino
   Name: Gracielle
@@ -781,7 +781,7 @@ trophiques complexes"
   Twitter: 
   key: 57
 
-- Image: 
+- Image: unknown.jpg
   Email: coralie.beaumont@usherbrooke.ca
   LastName: Beaumont
   Name: Coralie
@@ -793,7 +793,7 @@ trophiques complexes"
   Twitter: 
   key: 58
 
-- Image: 
+- Image: VanessaDiMaurizio.png
   Email: vanessa.di.maurizio@usherbrooke.ca
   LastName: Di Maurizio
   Name: Vanessa
@@ -805,7 +805,7 @@ trophiques complexes"
   Twitter: 
   key: 59
 
-- Image: 
+- Image: unknown.jpg
   Email: francois.rousseu@usherbrooke.ca
   LastName: Rousseu
   Name: François
@@ -841,7 +841,7 @@ trophiques complexes"
   Twitter: 
   key: 62
 
-- Image: 
+- Image: unknown.jpg
   Email: zacharie.scalzo@usherbrooke.ca
   LastName: Scalzo
   Name: Zacharie
@@ -853,7 +853,7 @@ trophiques complexes"
   Twitter: 
   key: 63
 
-- Image: 
+- Image: unknown.jpg
   Email: francis.banville@umontreal.ca
   LastName: Banville
   Name: Francis
@@ -865,7 +865,7 @@ trophiques complexes"
   Twitter: 
   key: 64
 
-- Image: 
+- Image: unknown.jpg
   Email: deziel.megane@courrier.uqam.ca
   LastName: Deziel
   Name: Megane
@@ -877,7 +877,7 @@ trophiques complexes"
   Twitter: 
   key: 65
 
-- Image: 
+- Image: unknown.jpg
   Email: chris.brimacombe@mail.utoronto.ca
   LastName: Brimacombe
   Name: Chris
@@ -889,7 +889,7 @@ trophiques complexes"
   Twitter: 
   key: 66
 
-- Image: 
+- Image: unknown.jpg
   Email: louis.moisan@uqar.ca
   LastName: Moisan
   Name: Louis
@@ -901,14 +901,14 @@ trophiques complexes"
   Twitter: 
   key: 67
 
-- Image: 
+- Image: unknown.jpg
   Email: a.a.m.macdonald@gmail.com
   LastName: McDonald
   Name: Andrew
   Status:
   Title_en: 
   Title_fr: 
-  Year_start:
+  Year_start: 2021
   Github: 
   Twitter: 
   key: 68
