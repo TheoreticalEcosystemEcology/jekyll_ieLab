@@ -698,18 +698,6 @@ trophiques complexes"
   key: 50
 
 - Image: unknown.jpg
-  Email: francois.rousseu@usherbrooke.ca
-  LastName: Rousseu
-  Name: François
-  Status: "Professional researcher"
-  Title_en: 
-  Title_fr: 
-  Year_start: 2023
-  Github: 
-  Twitter: 
-  key: 51
-
-- Image: unknown.jpg
   Email: laurent.montagano@usherbrooke.ca
   LastName: Montagano
   Name: Laurent
@@ -719,5 +707,4 @@ trophiques complexes"
   Year_start: 2024
   Github: 
   Twitter: 
-  key: 52
-  
+  key: 51
