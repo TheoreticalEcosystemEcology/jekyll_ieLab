@@ -709,10 +709,15 @@ trophiques complexes"
   Twitter: 
   key: 51
 
-- Image: agneau.jpg
+- Image: unknown.jpg
   Email: laurent.montagano@usherbrooke.ca
   LastName: Montagano
   Name: Laurent
-  Status: Ph.D. Student
+  Status: "Ph.D. Student"
+  Title_en: 
+  Title_fr: 
   Year_start: 2024
+  Github: 
+  Twitter: 
   key: 52
+  
