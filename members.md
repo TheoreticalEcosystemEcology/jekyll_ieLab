@@ -30,7 +30,7 @@ weight: 4
 {% assign cur_year = site.time | date: '%Y' | times: 1%}
 
 {% for member in  members %}
-{% if member.Status != 'Principal investigator' and member.Year_finish >= cur_year %}
+{% if member.Status != 'Principal investigator' and member.Year_finish >= cur_year or member.Status == "Professional researcher" %}
 
 <div class="row" style="padding-top:50px;">
   <div class="large-3 columns text-right ">
