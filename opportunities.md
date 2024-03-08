@@ -10,18 +10,15 @@ weight: 5
 
 ## Offre de maîtrise sur la biodiversité du Québec
 
-[Biodiversité Québec](https://biodiversite-quebec.ca/) (BD-QC) est un partenariat scientifique oeuvrant à la communication d’information sur l’état de la biodiversité du Québec et de ses changements. Sa mission est de récolter des données d’observation, d’améliorer le suivi de la biodiversité du Québec et d’offrir des synthèses et outils d’aide à la décision.
-BD-QC a développé des standards de données et des infrastructures de stockages pour le suivi de la
-biodiversité du Québec. La base de données [ATLAS](https://biodiversite-quebec.ca/fr/atlas?scale=Nombre+d%27observations&region_type=hex&group=Toutes+les+esp%C3%A8ces&id=19&minyear=1950&maxyear=2024&mapZoom=5&activeTab=1&mapCenter=55%2C-72&selected_region_type=hex) regroupe des observations collectées dans différents contextes comme la science citoyenne, des inventaires scientifiques et du suivi par le gouvernement. ATLAS est cependant limitée par des biais spatial, temporel et taxonomique. Nous développons des outils pour résoudre ces biais et améliorer notre connaissance de la biodiversité du Québec.  
-Nous sommes à la recherche de candidatures pour un projet de maîtrise sur la biodiversité du Québec.
-Le travail consiste à appliquer différentes techniques de raréfaction pour faire une analyse de la richesse en espèces pour différents groupes taxonomiques au moyen de la base de données ATLAS. Nous
-développerons également une nouvelle méthodologie pour utiliser l’information spatiale des données et
-maximiser l’estimation de la richesse en espèces. Au terme du projet, nous rendrons accessible une liste compilée en temps réel des espèces observées pour différents groupes taxonomiques. Ces informations serviront à guider les efforts d’échantillonnage et mieux recenser la biodiversité du Québec.
+[Biodiversité Québec](https://biodiversite-quebec.ca/) (BD-QC) est un partenariat scientifique oeuvrant à la communication d’information sur l’état de la biodiversité du Québec et de ses changements. Sa mission est de récolter des données d’observation, d’améliorer le suivi de la biodiversité du Québec et d’offrir des synthèses et outils d’aide à la décision.  
+BD-QC a développé des standards de données et des infrastructures de stockages pour le suivi de la biodiversité du Québec. La base de données [ATLAS](https://biodiversite-quebec.ca/fr/atlas?scale=Nombre+d%27observations&region_type=hex&group=Toutes+les+esp%C3%A8ces&id=19&minyear=1950&maxyear=2024&mapZoom=5&activeTab=1&mapCenter=55%2C-72&selected_region_type=hex) regroupe des observations collectées dans différents contextes comme la science citoyenne, des inventaires scientifiques et du suivi par le gouvernement. ATLAS est cependant limitée par des biais spatial, temporel et taxonomique. Nous développons des outils pour résoudre ces biais et améliorer notre connaissance de la biodiversité du Québec.  
+Nous sommes à la recherche de candidatures pour un projet de maîtrise sur la biodiversité du Québec. Le travail consiste à appliquer différentes techniques de raréfaction pour faire une analyse de la richesse en espèces pour différents groupes taxonomiques au moyen de la base de données ATLAS. Nous
+développerons également une nouvelle méthodologie pour utiliser l’information spatiale des données et maximiser l’estimation de la richesse en espèces. Au terme du projet, nous rendrons accessible une liste compilée en temps réel des espèces observées pour différents groupes taxonomiques. Ces informations serviront à guider les efforts d’échantillonnage et mieux recenser la biodiversité du Québec.
 
-**Ouverture aux candidatures** : Mars 2024
+**Ouverture aux candidatures** : Mars 2024  
 **Clôture** : jusqu'à sélection d'un.e candidat.e
 
-Pour consulter l'offre de stage détaillée >> [**lien pdf**](../opportunities/2024_MSc_BD-QC_202403_FR.pdf)
+Pour consulter l'offre de stage détaillée >> [**lien pdf**](../opportunities/2024_MSc_BD-QC_FR.pdf)
 
 ## Offre de doctorat sur les indicateurs de biodiversité pour la finance responsable
 
@@ -31,7 +28,7 @@ professeure Jie He](https://www.usherbrooke.ca/ecole-gestion/personnel/professeu
 En se basant sur une approche multidisciplinaire qui intègre des connaissances en biologie et sciences de l’environnement, et un intérêt marqué pour la transmission des savoirs aux secteurs de la finance, le.la doctorant.e développera son projet portant sur le lien entre les décisions d’investissement prises par les grands investisseurs institutionnels du Québec et l’impact de leurs choix sur la biodiversité locale, incluant la conservation et d’autres aspects bio-culturels.  
 Le projet s’appuie sur les efforts de normalisation de la divulgation d’impacts, comme ceux de la [Task Force on Nature-Related Financial Disclosures](https://tnfd.global). Le.la doctorante travaillera en étroite collaboration avec l’équipe qui développe la base de données de [Biodiversité Québec](https://biodiversite-quebec.ca/) et l’équipe Finance et Biodiversité de la Société pour la nature et les parcs [SNAP Québec](https://snapquebec.org/). Cette collaboration vise, entre autres, à développer une série d’indicateurs d’impact sur la biodiversité locale pour les équipes ESG et d’investissement de Fondaction et de la Caisse de dépôt et placement du Québec. Ces indicateurs serviront à mieux mesurer l’impact des investissements sur la biodiversité.
 
-**Ouverture aux candidatures** : Janvier 2024
+**Ouverture aux candidatures** : Janvier 2024  
 **Clôture** : jusqu'à sélection d'un.e candidat.e
 
 Pour consulter l'offre de stage détaillée >> [**lien pdf**](../opportunities/2024_PhD-Indicateurs_biodiv_finance.pdf)
@@ -57,7 +54,7 @@ Ce projet vise spécifiquement à (1) identifier les indicateurs clés et les je
 **Ouverture aux candidatures** : Mars 2024
 **Clôture** : jusqu'à sélection d'un.e candidat.e
 
-Pour consulter l'offre de stage détaillée >> **lien pdf**[FR](../opportunities/2024_Post-doc_KBA_FR.pdf)/[EN](../opportunities/2024_Post-doc_KBA_EN.pdf)
+Pour consulter l'offre de stage détaillée >> **lien pdf** [**FR**](../opportunities/2024_Post-doc_KBA_FR.pdf)/[**EN**](../opportunities/2024_Post-doc_KBA_EN.pdf)
 
 ## Opportunities
 
