@@ -11,13 +11,13 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-            fetch-depth: 1
+          fetch-depth: 1
 
       - name: Set up Ruby 2.6
-        uses: actions/setup-ruby@v1
+        uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.6
-      
+
       - name: 🔧 Install system dependencies
         if: runner.os == 'Linux'
         env:
@@ -29,8 +29,8 @@ jobs:
           sudo apt-get install network-manager-openconnect-gnome
 
       - name: 🔨 Build site
-        uses:  lemonarc/jekyll-action@1.0.0
-      
+        uses: lemonarc/jekyll-action@1.0.0
+
       - name: Prepare deployment
         run: sudo cp _site/home/index.html _site/index.html
 
