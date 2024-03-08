@@ -43,7 +43,7 @@ reliera les données brutes de l'ADN environnemental aux observations traditionn
 **Ouverture aux candidatures** : Mars 2024
 **Clôture** : jusqu'à sélection d'un.e candidat.e
 
-Pour consulter l'offre de stage détaillée >> **lien pdf**[FR](../opportunities/2024_Post-doc_ecoinfo_FR.pdf)/[EN](../opportunities/2024_Post-doc_ecoinfo_EN.pdf)
+Pour consulter l'offre de stage détaillée >> **lien pdf** [**FR**](../opportunities/2024_Post-doc_ecoinfo_FR.pdf)/[**EN**](../opportunities/2024_Post-doc_ecoinfo_EN.pdf)
 
 ## Offre de stage postdoctoral sur les zones clés pour la biodiversité et la cartographie de l'intégrité écologique dans une perspective bioculturelle
 
