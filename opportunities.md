@@ -40,7 +40,7 @@ BD-QC a mis en place des normes de données et des infrastructures de stockage p
 Nous recherchons une personne postdoctorante pour développer une nouvelle infrastructure de données qui
 reliera les données brutes de l'ADN environnemental aux observations traditionnelles de la biodiversité. Nous développerons un pipeline de données complet pour automatiser l'annotation des séquences, la cartographie et la reconstruction des variables essentielles de la biodiversité. Les objectifs spécifiques du projet comprennent (1) la conceptualisation de la chaîne de traitement des données ; (2) la collaboration avec l'équipe de développeurs BD-QC pour mettre en place l'infrastructure de données et (3) la cartographie de la distribution de la biodiversité à partir de cette infrastructure.
 
-**Ouverture aux candidatures** : Mars 2024
+**Ouverture aux candidatures** : Mars 2024  
 **Clôture** : jusqu'à sélection d'un.e candidat.e
 
 Pour consulter l'offre de stage détaillée >> **lien pdf** [**FR**](../opportunities/2024_Post-doc_ecoinfo_FR.pdf)/[**EN**](../opportunities/2024_Post-doc_ecoinfo_EN.pdf)
@@ -51,7 +51,7 @@ La [Wildlife Conservation Society Canada](https://www.wcscanada.org/) (WCSC) et 
 Le projet se concentrera sur le développement et l'application du critère C du standard KBA pour le Québec, qui a pour but d'identifier les paysages de la planète dont l'intégrité écologique est encore très élevée. À ce jour, les discussions à l'échelle mondiale sur l'intégrité écologique sont principalement axées sur les indicateurs biophysiques, compris dans une perspective scientifique occidentale. Cependant, au Québec (et au Canada), l'équipe KBA propose d'appliquer le critère C en utilisant à la fois les caractéristiques biophysiques de l'intégrité écologique qui sont actuellement prises en compte dans les lignes directrices KBA et les indicateurs bioculturels de l'intégrité écologique identifiés comme importants par les communautés autochtones dans différentes régions.  
 Ce projet vise spécifiquement à (1) identifier les indicateurs clés et les jeux de données liés à l'intégrité écologique dans le nord du Québec en analysant la littérature et en discutant avec des experts et des détenteurs de connaissances; (2) cartographier le spectre de l'intégrité écologique et bioculturelle dans le nord du Québec; (3) identifier les sites potentiels répondant au critère C du standard KBA mondial.
 
-**Ouverture aux candidatures** : Mars 2024
+**Ouverture aux candidatures** : Mars 2024  
 **Clôture** : jusqu'à sélection d'un.e candidat.e
 
 Pour consulter l'offre de stage détaillée >> **lien pdf** [**FR**](../opportunities/2024_Post-doc_KBA_FR.pdf)/[**EN**](../opportunities/2024_Post-doc_KBA_EN.pdf)
