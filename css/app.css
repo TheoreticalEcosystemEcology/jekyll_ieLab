@@ -1,0 +1,313 @@
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,200;0,300;0,400;0,600;0,800;1,200;1,300;1,400;1,600;1,800&display=swap");
+
+.row
+{
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+  max-width: 65rem;
+  width: 100%;
+}
+
+
+pre {
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+}
+
+.contain-to-grid .top-bar{
+  margin-top: 0px;
+  margin-right: none;
+  margin-bottom: 0px;
+  margin-left: none;
+  max-width: 65rem;
+}
+
+.contain-to-grid
+{
+  width: 100%;
+  background-color: rgba(0,0,0,0);
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+}
+
+body {
+    background: url("/assets/img/Temperate_forest_min.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100% !important;
+    height: 100% !important;
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
+    overflow: auto !important;
+}
+
+ol {
+  font-family: 'Public Sans', sans-serif;
+  font-weight: 400;
+  text-align: justify;
+  font-size: 14px;
+}
+
+h1,h2 {
+  font-family: 'Public Sans', sans-serif;
+  font-weight: 600;
+  font-size: 25px;
+}
+
+h2 {
+  padding-top: 25px;
+  font-size: 24px;
+}
+
+h3 {
+  font-family: 'Public Sans', sans-serif;
+  font-weight: 400;
+  padding-top: 20px;
+  font-size:21px;
+}
+
+h4,h5,h6 {
+  font-family: 'Public Sans', sans-serif;
+  font-weight: 200;
+  margin-bottom: 18px;
+}
+
+p {
+  font-family: 'Public Sans', sans-serif;
+  font-weight: 400;
+  text-align: justify;
+  font-size: 15px;
+  margin-top:20px;
+  margin-bottom: 20px;
+}
+
+ul {
+  font-family: 'Public Sans', sans-serif;
+  font-weight: 300;
+  text-align: justify;
+  font-size: 16px;
+}
+
+.panel {
+  max-width: 65em;
+  margin: 0 auto;
+  border: none;
+  background: rgb(255, 255, 255);
+}
+
+img {
+  margin-top:20px;
+}
+
+
+footer {
+  font-family: 'Public Sans', sans-serif;
+  font-weight: 200;
+  font-size: 13px;
+  min-height: 200px;
+  color: rgb(255, 255, 255);
+  margin: auto;
+  max-width: 65rem;
+  background-color:#404040;
+}
+
+.circular {
+	height: 150px;
+  width: 150px;
+	border-radius: 75px;
+	-webkit-border-radius: 75px;
+	-moz-border-radius: 75px;
+	}
+
+  .valign-middle {
+    display: table;
+}
+
+.valign-middle .columns {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.valign-middle .columns,
+.valign-middle [class*="column"] + [class*="column"]:last-child {
+    float: none;
+}
+
+/* Line 3305 */
+.accordion .accordion-navigation > a:hover, .accordion dd > a:hover
+{
+  background-color: #d0d0d0;
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+}
+
+.accordion .accordion-navigation.active > a, .accordion dd.active > a
+{
+  background-color: #E0E0E0;
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+}
+
+.accordion .accordion-navigation > .content.active, .accordion dd > .content.active
+{
+  background-color: #e0e0e0;
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  display: block;
+}
+
+.accordion .accordion-navigation > a, .accordion dd > a
+{
+  background-color: #e0e0e0;
+  background-image: none;
+  background-repeat: repeat;
+  font-family: 'Public Sans', sans-serif;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  display: block;
+  font-size: 14px;
+  padding-left: 15px;
+  padding-top: 5px;
+  padding-bottom:5px;
+}
+
+/* Line 2092 */
+.top-bar-section li:not(.has-form) a:not(.button)
+{
+  background-color: #404040;
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  line-height: 2.8125rem;
+  padding-top: 0px;
+  padding-right: 0.9375rem;
+  padding-bottom: 0px;
+  padding-left: 0.9375rem;
+  font-family: 'Public Sans', sans-serif;
+  font-weight: 500;
+}
+
+
+/* Line 1963 */
+.top-bar-section ul li.active > a:hover
+{
+  background-color: #404040;
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  color: #ffffff;
+  font-family: 'Public Sans', sans-serif;
+  font-weight: 500;
+}
+
+/* Line 2096 */
+.top-bar-section li:not(.has-form) a:hover:not(.button)
+{
+  background-color: #404040;
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  font-family: 'Public Sans', sans-serif;
+  font-weight: 500;
+}
+
+/* Line 2099 */
+.top-bar-section li.active:not(.has-form) a:not(.button)
+{
+  background-color: rgb(118, 184, 42);
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  color: #404040;
+  line-height: 2.8125rem;
+  padding-top: 0px;
+  padding-right: 0.9375rem;
+  padding-bottom: 0px;
+  padding-left: 0.9375rem;
+  font-family: 'Public Sans', sans-serif;
+  font-weight: 500;
+}
+
+.top-bar {
+    background: #404040;
+    height: 2.8125rem;
+    line-height: 2.8125rem;
+    margin-bottom: 0;
+    overflow: hidden;
+    position: relative;
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 500;
+}
+
+/* Line 2104 */
+.top-bar-section li.active:not(.has-form) a:hover:not(.button)
+{
+  background-color: rgb(118, 184, 42);
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  background-clip: border-box;
+  background-origin: padding-box;
+  background-size: auto auto;
+  color: #ffffff;
+  font-family: 'Public Sans', sans-serif;
+  font-weight: 500;
+}
+
+/* Line 3470 */
+a
+{
+  color: rgb(189, 128, 51);
+}
+
+/* Line 3474 */
+a:hover, a:focus
+{
+  color: rgb(40, 98, 112);
+}
