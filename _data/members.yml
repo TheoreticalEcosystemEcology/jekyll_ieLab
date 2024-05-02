@@ -306,11 +306,14 @@
   key: 34
 
 - Email: Jonathan.Brassard2@USherbrooke.ca
-  Image: jo.png
+  Image: JonathanBrassard.png
   LastName: Brassard
   Name: Jonathan
-  Status: "Professional researcher"
-  Title_en: "Field coordinator"
+  Status: professionnel.le de recherche/research professional
+  Title_en: field data supervisor
+  Title_fr: superviseur de la récolte des données
+  Abstract_en: planning, monitoring and data collection
+  Abstract_fr: planification, suivis et récolte des données
   Year_start: 2011
   key: 22
 
@@ -496,8 +499,10 @@
   Name: Katherine
   Status: Ph.D. Candidate
   Supervisor: Dominique Gravel
-  Title_en: Estimating biodiversity change in Quebec
-  Title_fr: Estimer les changements de biodiversité au Québec
+  Title_en: Integrating the covariation between populations in the measurement of biodiversity change
+  Title_fr: Intégrer la covariation entre populations dans la mesure des changements de la biodiversité
+  Abstract_en: Population-level change is one of the most responsive measures of biodiversity change and is a key variable informing the management of biodiversity. Though populations are usually handled independently, the covariation between populations contains valuable information about what their abundance changes mean for ecosystem stability. Covarying trends between populations can signal that species show similar responses to shared environmental changes, which can undermine ecosystem stability more severely than would be detected from their mean trend. Assessing these covariations between populations is essential to ensure that we understand the implications of population changes for ecosystem functioning. My thesis was each dedicated to capturing biodiversity change with an explicit consideration of covariation between populations, to link these changes with ecosystem stability.
+  ABstract_fr: Les changements à l'échelle des populations constituent l'une des mesures les plus sensibles des modifications de la biodiversité et représentent une variable clef pour la prise de décisions en matière de gestion de la biodiversité. Bien que les populations soient généralement traitées de manière indépendante, la covariation entre les populations contient des informations précieuses sur ce que leurs tendances signifient pour la stabilité de l'écosystème. La covariation des tendances entre les populations de différentes espèces peut indiquer que les espèces réagissent de la même manière à des changements environnementaux communs, ce qui pourrait compromettre la stabilité de l'écosystème plus gravement que ce que l'on pourrait détecter en se basant uniquement sur une tendance moyenne. Il est essentiel d'évaluer ces covariations entre les populations et la façon dont elles influencent notre capacité à saisir les changements de la biodiversité pour s'assurer que nous comprenons les conséquences écologiques des changements de population. Ma thèse teste notre capacité à saisir les changements de biodiversité au niveau des populations à l'aide de métriques et de théories, en tenant compte explicitement de la covariation entre les populations.
   Year_start: 2018
   Year_finish: 2023
   Position: Post-Doc at McGill University (Prof. Laura Pollock)
@@ -540,11 +545,14 @@
   key: 39
 
 - Email: Kim.Gauthier.Schampaert@USherbrooke.ca
-  Image: Kim.jpg
+  Image: KimGauthierSchampaert.png
   LastName: Gauthier Schampaert
   Name: Kim
-  Status: "Professional researcher"
-  Title_en: "BIOS² Program Coordinator"
+  Status: professionnel.le de recherche/research professional
+  Title_en: Research Coordinator for the Integrative Ecology Laboratory
+  Title_fr: Coordonnatrice à la recherche pour le laboratoire d’écologie intégrative 
+  Abstract_en: I'm in charge of the lab's administrative affairs, and act as a resource person and liaison between the various lab members, different services at the University and external partners. I'm also responsible for coordinating research projects - this role is diverse and subject to change depending on the projects underway in the lab. At the moment, I'm responsible for the overall coordination of the Key Biodiversity Areas (KBA) project in Quebec, in partnership with the Wildlife Conservation Society and Biodiversité Québec, and assisting in the coordination of the BIOS2 training program in computational ecology.
+  Abstract_fr: Je suis responsable des affaires administratives du laboratoire, et j'agis comme personne-ressource et agent de liaison entre les différents membres du labo, les différents services de l'Université et les partenaires externes. Je suis également responsable de la coordination de projets de recherche - ce rôle est diversifié et appelé à changer selon les projets en cours dans le laboratoire. Pour l'instant, je suis responsable de la coordination générale du projet pour les zones clés pour la biodiversité (KBA) pour le Québec en partenariat avec la Wildlife Conservation Society et Biodiversité Québec, et assiste la coordination du programme de formation BIOS2 en écologie numérique.
   Year_start: 2019
   Twitter: kim_gs
   key: 40
@@ -558,8 +566,10 @@
   Status: Ph.D. Student
   Supervisor: Dominique Gravel
   CoSupervisor: "Ciara Raudsepp-Hearne & Guillaume Blanchet"
-  Title_en: "Identifying Key Biodiversity Areas in Quebec"
-  Title_fr:
+  Title_en: Identification and conservation of rare species
+  Title_fr: Identification et conservation des espèces rares
+  Abstract_en: Rare species are commonly a high priority in conservation efforts, but these efforts are hindered by information gaps. My project seeks to help fill these gaps through a combination of theoretical and applied ecology. I first sought to reconceptualise the different ways in which species can be rare (i.e., rarity types) and link these different types to their underlying causes. I then used climatic niche modelling to estimate the long-term conservation values of Key Biodiversity Areas targeting rare species both in southern Quebec and throughout Canada.
+  Abstract_fr: Les espèces rares sont généralement une priorité dans les efforts de conservation, mais ces efforts sont entravés par des lacunes en matière d'information. Mon projet vise à combler ces lacunes par une combinaison d'écologie théorique et appliquée. J'ai d'abord cherché à reconceptualiser les différentes façons dont les espèces peuvent être rares (c'est-à-dire les types de rareté) et à relier ces différents types à leurs causes sous-jacentes. J'ai ensuite utilisé la modélisation des niches climatiques pour estimer les valeurs de conservation à long terme des zones clés pour la biodiversité ciblant les espèces rares à la fois dans le sud du Québec et dans l'ensemble du Canada. 
   Year_start: 2020
   Orcid: 0000-0002-9057-5689
   Github: vcrisfield
@@ -626,11 +636,13 @@ trophiques complexes"
   Email: Aymeric.Oliveira-Xavier@USherbrooke.ca
   LastName: Oliveira-Xavier
   Name: Aymeric
-  Status: Ph.D. Student
+  Status: étudiant.e au doctorat/Ph.D. student
   Supervisor: Sophie Calmé
   CoSupervisor: Dominique Gravel
-  Title_en: "Landscape influence on community composition and structure in cocoa agroforests"
-  Title_fr: ""
+  Title_en: Landscape influence on forest bird and bat communities in cocoa agroforests
+  Title_fr: Influence du paysage sur les communautés d'oiseaux et de chiroptères forestiers dans les agroforêts de cacao
+  Abstract_en: My research project aims to understand how the landscape context influences the ability of agroforestry systems to support communities in highly fragmented tropical landscapes. For this purpose, I’m focusing particularly on forest bird and bat populations living in cacao agroforests of the Zoque region, in Mexico. Using empirical and modelling approaches, the aim is to identify the landscape factors influencing local communities. This will enable us to determine the relevant parameters and spatial scales to best guide the implementation of conservation strategies.
+  Abstract_fr: Mon projet de recherche vise à comprendre comment le contexte paysager influence la capacité des systèmes agroforestiers à soutenir les communautés dans les paysages tropicaux hautement fragmentés. Pour cela, je me concentre particulièrement sur les populations d’oiseaux et chiroptères forestiers vivant dans les agroforêts de cacao de la région Zoque, au Mexique. A travers des approches empiriques et modélisatrices, l’objectif est d’identifier les facteurs du paysage qui influencent les communautés locales. Cela permettra de déterminer les paramètres et échelles spatiales pertinentes afin de guider au mieux la mise en place de stratégies de conservation.
   Year_start: 2018
   Orcid:
   Github:
@@ -642,9 +654,9 @@ trophiques complexes"
   LastName: Cameron
   Name: Victor
   Status: "Professional researcher"
-  Title_en: "Eco-informaticien"
-  Title_fr: "Eco-informaticien"
-  Year_start: 2021
+  Title_en: Ecoinformatician
+  Title_fr: "Éco-informaticien"
+  Year_start: 2022
   Github: vcameron1
   Twitter: CameronVictor5
   key: 46
@@ -677,9 +689,11 @@ trophiques complexes"
   Email: benjamin.b.mercier@usherbrooke.ca
   LastName: Mercier
   Name: Benjamin
-  Status: "Professional researcher"
-  Title_en: "Eco-informaticien BDQC"
-  Title_fr: "Eco-informaticien BDQC"
+  Status: professionnel.le de recherche/research professional
+  Title_en: Écoinformatician
+  Title_fr: Eco-informaticien
+  Abstract_en: Biodiversité Québec - Biodiversity data management
+  Abstract_fr: Biodiversité Québec - Gestion de données de biodiversité
   Year_start: 2023
   Github: BenMerSci
   Twitter: BenMerSci
@@ -697,13 +711,13 @@ trophiques complexes"
   Twitter: 
   key: 50
 
-- Image: FrancoisRousseu.jpg
+- Image: FrancoisRousseu.png
   Email: francois.rousseu@usherbrooke.ca
   LastName: Rousseu
   Name: François
-  Status: "Professional researcher"
-  Title_en: 
-  Title_fr: 
+  Status: professionnel.le de recherche/research professional
+  Abstract_en: Biodiversity data analysis for Biodiversité Québec
+  Abstract_fr: Analyses de données de biodiversité pour Biodiversité Québec
   Year_start: 2023
   Github: 
   Twitter: 
@@ -734,39 +748,47 @@ trophiques complexes"
   Twitter: 
   key: 53
 
-- Image: MariePierreVarin2.jpg
+- Image: MariePierreVarin.png
   Email: marie-pierre.varin@usherbrooke.ca
   LastName: Varin
   Name: Marie-Pierre
-  Status: "Professional researcher"
-  Title_en: 
-  Title_fr: 
-  Year_start: 2022
+  Status: professionnel.le de recherche/research professional
+  Title_en: Biodiversity Québec coordinator 
+  Title_fr: Coordonnatrice de Biodiversité Québec
+  Year_start: 2021
+  Abstract_en: I manage communications with internal and external members of Biodiversité Québec. I organize and participate in knowledge transfer activities. I manage and develop partnerships and assist in the direction and the financial planification. I do the follow ups of the different projects associated with Biodiversité Québec. I offer an administrative support for the laboratory, including financial resources management and human resources.
+  Abstract_fr: Je veille aux communications auprès des membres internes et externes à Biodiversité Québec. J’organise et participe aux activités de transfert de connaissances et ateliers de travail. Je gère et développe les partenariats, puis assiste à la direction du projet et du financement de Biodiversité Québec. J’effectue le suivi des différents projets en lien avec Biodiversité Québec. J’offre un support administratif à l’ensemble du laboratoire, notamment en gestion des finances et des ressources humaines.
   Github: 
   Twitter: 
   key: 54
 
-- Image: unknown.jpg
+- Image: SamuelEnright.png
   Email: samuel.enright@usherbrooke.ca
   LastName: Enright
   Name: Samuel
-  Status: 
-  Title_en: 
-  Title_fr: 
-  Year_start: 
+  Status: professionnel.le de recherche/research professional
+  Title_en: Communication manager
+  Title_fr: Agent de communication
+  Abstract_en: I take care of every communication needs with Biodiversité Québec. 
+  Abstract_fr: Je m'occupe des communications de Biodiversité Québec
+  Year_start: 2024
   Github: 
   Twitter: 
   key: 55
 
-- Image: unknown.jpg
+- Image: CamilleLevesque.png
   Email: camille.levesque2@usherbrooke.ca
   LastName: Levesque
   Name: Camille
-  Status: M.Sc. Student
-  Title_en: 
-  Title_fr: 
-  Year_start: 2023
-  Year_finish: 2026
+  Status: étudiant.e à la maitrîse/M.Sc. student
+  Supervisor: Dominique Gravel
+  CoSupervisor: Katrine Turgeon
+  Title_en: Structural changes in fish communities of Quebec's hydroelectric reservoirs
+  Title_fr: Changements dans la structure des communautés de poissons dans les réservoirs hydroélectriques du Québec
+  Abstract_en: Amidst rising global energy demands, this study examines the ecological impact of dams on local ecosystems, as dam construction is increasing in Quebec. Utilizing Hébert’s (2023) model, it scrutinizes fish population dynamics over time, aiming to interpret the shifts in community structures caused by hydroelectric development. Additionally, it investigates fish communities' structural evolution by considering size distributions and trophic levels. The goal is to understand how fish communities change through time following damming of rivers in the face of global energetic transition and environmental shifts.
+  Abstract_fr: Cette étude examine l'impact écologique des barrages sur les écosystèmes locaux, alors que la demande énergétique et la construction de barrages sont en constante augmentation au Québec. Utilisant le modèle de Hébert (2023), j’analyserai d’abord les dynamiques des populations de poissons dans le temps, visant à identifier la nature des changements encourus par les communautés de poissons. De plus, à l’aide de distributions de taille et des niveaux trophiques, j’effectuerai une analyse plus approfondie des changements dans la structure des communautés. L'objectif est de comprendre comment les communautés de poissons changent au fil du temps suite à la mise en eau des réservoirs, dans un contexte de transition énergétique mondiale et des changements environnementaux.
+  Year_start: 2022
+  Year_finish: 
   Github: 
   Twitter: 
   key: 56
@@ -788,10 +810,12 @@ trophiques complexes"
   Email: lydie.veilleux@usherbrooke.ca
   LastName: Veilleux
   Name: Lydie
-  Status: "Professional researcher"
-  Title_en: 
-  Title_fr: 
-  Year_start: 2022
+  Status: professionnel.le de recherche/research professional
+  Title_en: Research professional - Key Biodiversity Area project (KBA)
+  Title_fr: Professionnelle de recherche - Projet des Zones Clés pour la Biodiversité (KBA)
+  Abstract_en: Responsible for developing KBA sites and liaising with partners.
+  Abstract_fr: Responsable du développement des sites KBA et des liaisons avec les partenaires.
+  Year_start: 2023
   Github: 
   Twitter: 
   key: 58
@@ -825,11 +849,15 @@ trophiques complexes"
   Email: vanessa.di.maurizio@usherbrooke.ca
   LastName: Di Maurizio
   Name: Vanessa
-  Status: Ph.D. Student
-  Title_en: 
-  Title_fr: 
+  Status: étudiant.e au doctorat/Ph.D. student
+  Supervisor: Dominique Gravel
+  Cosupervisor: Anouk Simard
+  Title_en: Tracking biodiversity changes in Quebec's biological communities in response to climate change
+  Title_fr: Suivi des changements de biodiversité des communautés biologiques du Québec en réponse aux changements climatiques
+  Abstract_en: Climate change (CC) is on track to become a major driver of biodiversity loss and alteration, posing a threat to ecosystem equilibrium. Yet, our comprehension of these shifts remains limited, particularly at the comunity level. In my thesis, I will evaluate the vulnerability of biological communities to CC by scrutinizing the patterns of observed and anticipated responses within the Québec Biodiversity Monitoring Network, utilizing species distribution models. Ultimatly, my project aims to enhance our comprehension and prediction of community changes due to climate change, thereby providing valuable insights to inform conservation strategies.
+  Abstract_fr: Les changements climatiques (CC) sont en voie de devenir un facteur majeur de perte et de modification de la biodiversité, menaçant l'équilibre des écosystèmes. Cependant, notre compréhension de ces changements demeure limitée, notamment à l'échelle des communautés. Dans ma thèse, je vais évaluer la vulnérabilité des communautés biologiques aux CC en examinant la structure des réponses observées et attendues des communautés du Réseau de Suivi de la Biodiversité du Québec, basée sur des modèles de distribution d'espèces. Ultimement, mon projet permettra de mieux comprendre et anticiper les changements de communautés issus des CC, afin d'éclairer les stratégies de conservation.
   Year_start: 2023
-  Year_finish: 2027
+  Year_finish: 
   Github: 
   Twitter: 
   key: 61
@@ -860,14 +888,19 @@ trophiques complexes"
   Twitter: 
   key: 63
 
-- Image: unknown.jpg
+- Image: FrancisBanville.png
   Email: francis.banville@umontreal.ca
   LastName: Banville
   Name: Francis
-  Status:
-  Title_en: 
-  Title_fr: 
-  Year_start:
+  Status: Ph.D. Student
+  Supervisor: Timothée Poisot
+  CoSupervisor: Dominique Gravel 
+  Title_en: 'Trophic-METE: A Parsimonious theory of food-web structure'
+  Title_fr: 'Trophique-METE: Une théorie parsimonieuse de la structure des réseaux alimentaires'
+  Abstract_en: In my research project, I develop mathematical models of food webs, which are complex networks of predators and prey. My models are based on information entropy, which allows me to predict the properties of food webs by finding the most complex network configuration given a limited set of ecological constraints. My research aims to improve our understanding of the ecological drivers of species interactions, in both aquatic and terrestrial environments, and facilitate the prediction of food-web structure on a global scale. 
+  Abstract_fr: Dans mon projet de recherche, je développe des modèles mathématiques des réseaux trophiques, qui sont des réseaux complexes de prédateurs et de proies. Mes modèles sont basés sur l'entropie de l'information, ce qui me permet de prédire les propriétés des réseaux trophiques en trouvant la configuration de réseau la plus complexe possible en respectant un ensemble limité de contraintes écologiques. Mon objectif de recherche vise à améliorer notre compréhension des déterminants écologiques des interactions entre espèces, tant dans les environnements aquatiques que terrestres, et à faciliter la prédiction de la structure des réseaux trophiques à l'échelle mondiale.
+  Year_start: 2019
+  Year_finish: 2024
   Github: 
   Twitter: 
   key: 64
@@ -896,13 +929,19 @@ trophiques complexes"
   Twitter: 
   key: 66
 
-- Image: unknown.jpg
-  Email: louis.moisan@uqar.ca
+- Image: LouisMoisan.png
+  Email: louis.moisan.bio@gmail.com
   LastName: Moisan
   Name: Louis
-  Status:
-  Title_en: 
-  Title_fr: 
+  Status: Ph.D. Student
+  Supervisor: Joël Bêty
+  CoSupervisor: Dominique Gravel
+  Year_start: 2021
+  Year_finish:
+  Title_en: Characterization and comparison of the structure and properties of arctic migration networks
+  Title_fr: Caractérisation et comparaison de la structure et des propriétés des réseaux de migration arctiques
+  Abstract_en: Migratory species play an important role in the functioning of the world’s ecosystems. They transfer pathogens, nutrients and contaminants between different environments, as well as interacting with resident species. Within an ecosystem, several migratory species may coexist during a given season, then redistribute elsewhere during the rest of the year. My thesis aims to better understand how a given ecosystem can be linked to distant environments through migration. This will lead to a better understanding of the vulnerability of ecosystems to environmental changes occurring in remote but connected ecosystems.
+  Abstract_fr: Les espèces migratrices jouent un rôle important dans le fonctionnement des écosystèmes Elles transfèrent des pathogènes, nutriments et contaminants entre différents environnements, de même qu’interagissent avec les espèces résidentes. Au sein d'un écosystème, plusieurs espèces migratrices peuvent coexister pendant une saison donnée, puis se redistribuer ailleurs pendant le reste de l'année. Ma thèse vise à mieux comprendre comment un écosystème donné peut être relié à des environnements éloignés par le biais de la migration. Cela permettra de mieux comprendre la vulnérabilité des écosystèmes aux changements environnementaux qui se produisent dans des écosystèmes éloignés mais connectés.
   Year_start:
   Github: 
   Twitter: 
